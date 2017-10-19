@@ -22,7 +22,7 @@ print(X_train.target[:3])
 X_test = fetch_20newsgroups(subset = 'test',shuffle = True)
 
 stemmer = SnowballStemmer("english", ignore_stopwords = True)
-
+'''
 class StemmedCountVectorizer(CountVectorizer):
 	def build_analyzer(self):
 		analyzer = super(StemmedCountVectorizer, self).build_analyzer()
@@ -30,13 +30,15 @@ class StemmedCountVectorizer(CountVectorizer):
 #it seems that the stemming may lower the accuracy of classification.
 
 stemmed_CountVect = StemmedCountVectorizer(ngram_range=(1,2))
+'''
+countVector = CountVectorizer(stop_words = 'english',ngram_range = (1,2))
 tfidf_tran = TfidfTransformer(use_idf = True)
-mnb_clf = MultinomialNB(alpha = 1e-2, fit_prior = False)
+nb_clf = MultinomialNB()
 
 text_clf_pipeline = Pipeline([
-    ('vect',stemmed_CountVect),
+    ('vect',countVector),
     ('tfidf',tfidf_tran),
-    ('mnb',mnb_clf),
+    ('mnb',nb_clf),
     ])
 text_clf_pipeline = text_clf_pipeline.fit(X_train.data,X_train.target)
 prediction = text_clf_pipeline.predict(X_test.data)
