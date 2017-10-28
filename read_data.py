@@ -3,12 +3,29 @@ import numpy as np
 import csv
 import re
 
+from nltk import wordpunct_tokenize
+from nltk.corpus import words
+
+
+def calculate_language_ratios(text):
+    languages_ratios = {}
+    tokens = wordpunct_tokenize(text)
+    sen_size = len(tokens)
+    #print(sen_size)
+    T_words = [word.lower() for word in tokens]
+    #for language in words.fileids():
+    words_set = set(words.words('en'))
+    T_words_set = set(T_words) 
+    common_elements = T_words_set.intersection(words_set)
+    ratio =float(len(common_elements))/sen_size
+    return ratio
+
 data = pd.read_csv('test.csv',quoting=csv.QUOTE_ALL)
 #print data.count()
-data['comment']= data['comment'].apply(lambda s: np.nan if s[:3] == '???' or len(s) == 1 else s)
+#data['comment']= data['comment'].apply(lambda s: np.nan if s[:3] == '???' or len(s) == 1 else s)
 #print type(comments)
 data.dropna(inplace = True)
-data.reset_index(inplace=True)
+#data.reset_index(inplace=True)
 
 comments = data['comment']
 #print comments.head(20)
@@ -17,5 +34,18 @@ comments = comments.apply(lambda s: re.sub("\"",'',s))
 comments = comments.apply(lambda s: re.sub('\n',' ',s))
 comments = comments.apply(lambda s: re.sub('\s+',' ',s))
 comments.dropna()
-print(comments.count())
-comments.to_csv('data.csv',header = True)
+print type(comments)
+#remove sentence not in english
+ratio = pd.Series(np.zeros(comments.count()), index=comments.index)
+col = {'comment':comments,'ratio':ratio}
+new_data = pd.DataFrame(data=col)
+
+#calculate ratio of english words in whole sentence
+#new_data['ratio'] = [calculate_language_ratios(w) for w in new_data['comment']]
+new_data['ratio'] = new_data['comment'].apply(calculate_language_ratios)
+#print comments['ratio']
+new_data = new_data[new_data['ratio'] >= 0.5]
+print(new_data.head(5))
+print(new_data.count())
+new_data.reset_index(inplace=True)
+new_data.to_csv('data.csv',header = True)

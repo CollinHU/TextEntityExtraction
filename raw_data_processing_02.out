@@ -1,0 +1,11 @@
+11216
+<class 'pandas.core.series.Series'>
+                                             comment     ratio
+0        Good course. Learned a lot from it. Thanks!  0.727273
+1  This course was great! With good code examples...  0.673913
+2  Nice course with all the practical stuffs and ...  0.742857
+3  Clustering &amp; Retrieval was a lot tougher c...  0.600000
+4  I'm a grad student and I can notice the instru...  0.708333
+comment    10323
+ratio      10323
+dtype: int64
