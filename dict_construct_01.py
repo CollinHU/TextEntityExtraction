@@ -16,18 +16,18 @@ def judge_subT(sub_T):
         return True;
     return False
 
-def judge_tree(T):
+'''def judge_tree(T):
     remove_list = ['PERSON','GPE']
     if T.label() in remove_list:
         return False
     return True
-
+'''
 def traverseTree(T, num):
     for subtree in T:
         if type(subtree) == nltk.tree.Tree:
             traverseTree(subtree, num)
         else:
-            if judge_subT(subtree[1]) and judge_tree(T):
+            if judge_subT(subtree[1]):#and judge_tree(T):
                 #print(T.label())
                 #print(subtree[0])
                 item = stemmer.stem(subtree[0])
@@ -36,7 +36,7 @@ def traverseTree(T, num):
                 else:
                     s_level_dict[item] += [num]
 
-s_list = pd.read_csv('data/processed_data.csv')
+s_list = pd.read_csv('data/step2_data.csv')
 
 size = int(s_list.count().values[0])
 print type(size)
@@ -45,6 +45,8 @@ for i in xrange(size):
     s = sent_tokenize(s_list.iloc[i,1])
     print("comments :",i)
     for item in s:
+        if len(item) == 1:
+            continue
         T = extract_entity(item)
         #print(T)
         traverseTree(T, i)

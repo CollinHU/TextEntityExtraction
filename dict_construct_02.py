@@ -3,7 +3,7 @@ import pandas as pd
 import nltk
 from nltk import sent_tokenize,word_tokenize, pos_tag, ne_chunk
 ##using lemmatizer instead of stmmer
-import nltk.stem import WordNetLemmatizer
+from  nltk.stem import WordNetLemmatizer
 
 stemmer = WordNetLemmatizer()
 def extract_entity(s):
@@ -36,7 +36,7 @@ def traverseTree(T, num):
                 else:
                     s_level_dict[item] += [num]
 
-s_list = pd.read_csv('data/processed_data.csv')
+s_list = pd.read_csv('data/step1_data.csv')
 
 size = int(s_list.count().values[0])
 print type(size)
