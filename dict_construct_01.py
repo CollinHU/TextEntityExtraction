@@ -4,12 +4,11 @@ import nltk
 from nltk import sent_tokenize,word_tokenize, pos_tag, ne_chunk
 from nltk.stem.snowball import SnowballStemmer
 
-
+s_level_dict = {}
 stemmer = SnowballStemmer("english", ignore_stopwords=True)
 def extract_entity(s):
     return ne_chunk(pos_tag(word_tokenize(s)))
 
-s_level_dict = {}
 
 def judge_subT(sub_T):
     if sub_T[:2] =='NN':
@@ -38,12 +37,13 @@ def traverseTree(T, num):
 
 s_list = pd.read_csv('data/step2_data.csv')
 
-size = int(s_list.count().values[0])
+size = len(s_list.index.values)
 print type(size)
+print size
 count = 0
 for i in xrange(size):
     s = sent_tokenize(s_list.iloc[i,1])
-    print("comments :",i)
+#    print("comments :",i)
     for item in s:
         if len(item) == 1:
             continue
@@ -53,9 +53,18 @@ for i in xrange(size):
     count += 1
 print count
 
-with open('data/dictionary_01.csv', 'wb') as csv_file:
-        writer = csv.writer(csv_file)
-        for key, value in s_level_dict.items():
-            writer.writerow([key, value])
+key_list = []
+value_list = []
+for key, value in s_level_dict.items():
+    key_list.append(key)
+    value_list.append(value)
+
+dic = {'key':key_list,'id':value_list}
+data = pd.DataFrame(data = dic)
+data['length'] = data['id'].apply(lambda x:len(x))
+
+data.to_csv('data/dictionary_01.csv')
+data = data[data['length'] > 2]
+data.to_csv('data/dictionary_01_l3.csv')
 
 
