@@ -21,32 +21,35 @@ def calculate_language_ratios(text):
     return ratio
 
 data = pd.read_csv('data/raw_data.csv',quoting=csv.QUOTE_ALL)
-#print data.count()
-#data['comment']= data['comment'].apply(lambda s: np.nan if s[:3] == '???' or len(s) == 1 else s)
-#print type(comments)
 data.dropna(inplace = True)
-#data.reset_index(inplace=True)
+
 
 comments = data['comment']
-#print comments.head(20)
 print(comments.count())
 comments = comments.apply(lambda s: re.sub("\"",'',s))
 comments = comments.apply(lambda s: re.sub('\n',' ',s))
 comments = comments.apply(lambda s: re.sub('\s+',' ',s))
-comments.dropna()
+#comments.dropna()
 print type(comments)
+
+course_id = data['course_id']
+
 #remove sentence not in english
 ratio = pd.Series(np.zeros(comments.count()), index=comments.index)
-col = {'comment':comments,'ratio':ratio}
+
+col = {'course_id':course_id, 'comment':comments,'ratio':ratio}
+
 new_data = pd.DataFrame(data=col)
+new_data.dropna(inplace = True)
 
 #calculate ratio of english words in whole sentence
-#new_data['ratio'] = [calculate_language_ratios(w) for w in new_data['comment']]
 new_data['ratio'] = new_data['comment'].apply(calculate_language_ratios)
+
 #print comments['ratio']
 new_data = new_data[new_data['ratio'] >= 0.5]
 print(new_data.head(5))
 print(new_data.count())
+
 #new_data.drop('index',axis = 1, inplace=True)
 new_data.reset_index(inplace=True)
 new_data.drop('index', axis = 1, inplace = True)
