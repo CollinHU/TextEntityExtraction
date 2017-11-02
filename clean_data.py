@@ -11,7 +11,11 @@ def process_sentence(s):
     s = re.sub('!+',' ',s)
     s = re.sub('\s+',' ',s)
     return s
+def fuzzy_match(s):
+    s = re.sub('exercice','exercise',s)
+    return s
 
 data['comment'] = data['comment'].apply(process_sentence)
+data['comment'] = data['comment'].apply(fuzzy_match)
 data.to_csv('data/step2_data.csv')
 print data.head()

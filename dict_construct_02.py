@@ -43,7 +43,7 @@ print type(size)
 count = 0
 for i in xrange(size):
     s = sent_tokenize(s_list.iloc[i,1])
-    print("comments :",i)
+    #print("comments :",i)
     for item in s:
         T = extract_entity(item)
         #print(T)
@@ -59,12 +59,13 @@ for key, value in s_level_dict.items():
 
 dic = {'key':key_list,'id':value_list}
 data = pd.DataFrame(data = dic)
-data['id'] = data.apply(lambda x: list(set(x)))
+data['id'] = data['id'].apply(lambda x: list(set(x)))
+
 data['length'] = data['id'].apply(lambda x:len(x))
 
 data = data[['key','length','id']]
 data.to_csv('data/dictionary_02.csv')
-data = data[data['length'] > 2]
+data = data[data['length'] > 10]
 data.to_csv('data/dictionary_02_l3.csv')
 
 

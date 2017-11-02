@@ -68,8 +68,8 @@ data['length'] = data['id'].apply(lambda x:len(x))
 data = data[['key','length','id']]
 
 data.to_csv('data/dictionary_01.csv')
-data = data[data['length'] > 2]
+data = data[data['length'] > 10]
 
-data.to_csv('data/dictionary_01_l3.csv')
+data.to_csv('data/dictionary_01_l10.csv')
 
 print('finished')

@@ -624,7 +624,7 @@
 622,Assignment Instructions need improvement in terms of clarity. ,e8VseYIYEeWxQQoymFg8zQ,0.666666666667
 623,Very Nice and effective course. One of the best course i have done on Spark online. Many Thanks to the course instructor Heather Miller for creating a very detail and updated course on Spark. ,e8VseYIYEeWxQQoymFg8zQ,0.621621621622
 624,It's a great course with lots of insight into spark. At first it's confusing - first rdds; then dataframes and later datasets. But this is by no means the instructors' fault. Heather greatly describes in detail what goes on under the hood and why dataframes are way faster than simple rdds and why we have to give up some of our beloved typesafety of scala-land to let catalyst do its magic. Datasets try to bring some of it back. I really enjoyed coding the assignments. Took me ~2hrs each. The tasks were fun and like those you would find in the wild. I already applied some of the skills I learned here at work and successfully implemented a simple recommendation engine that will go to production next week. Highly recommend this course ,e8VseYIYEeWxQQoymFg8zQ,0.562913907285
-625,"The material in this course is very interesting. However, there were a few important issues:Lots of typos in the slidesLots of problems with the assignmentsAt the end, I feel like a beta-tester (it would be OK if it was clearly stated and if we had a discount). It could also be nice to add 1 or 2 weeks to this course. ",e8VseYIYEeWxQQoymFg8zQ,0.56338028169
+625,"The material in this course is very interesting. However, there were a few important issues:Lots of typos in the slidesLots of problems with the assignments. At the end, I feel like a beta-tester (it would be OK if it was clearly stated and if we had a discount). It could also be nice to add 1 or 2 weeks to this course. ",e8VseYIYEeWxQQoymFg8zQ,0.56338028169
 626,"It was short and sweet. However, I wish the assignments had more unit tests to fill gaps where the instructions weren't clear. ",e8VseYIYEeWxQQoymFg8zQ,0.62962962963
 627,Excellent course. Fun and entertaining. ,e8VseYIYEeWxQQoymFg8zQ,0.714285714286
 628,"goot as introduction about spark and big data. Small notice: it is incorrect to compare performance hadoop and spark. As I understand, spark was expected to be compacred with MapReduce. ",e8VseYIYEeWxQQoymFg8zQ,0.571428571429
@@ -855,7 +855,7 @@
 853,"Great course. The reason I did not give it five stars because I thought the last week of the course was not up to par with the first 4 weeks. The lessons on Giraph and GraphX were confusing in my opinion and the hands on exercise did not really clear things up for me. Otherwise, a great course. ",zHCX4hJgEeaX4g6xdats6w,0.539682539683
 854, interesting practices with neo4j ,zHCX4hJgEeaX4g6xdats6w,0.5
 855,The course material is not sufficient to work out the exercises. For the Spark final quiz you will have to take up another course to pass this one. ,uWrCG9mpEeWkdgqomU4otw,0.733333333333
-856,"The virtual machine for running the environment is, at start, a good idea. But even with 8 core i7 with 8G of RAM laptop, it was sometime painful to process the exercices. Maybe an ubuntu or virtualbox or laptop compatibility. ",uWrCG9mpEeWkdgqomU4otw,0.586956521739
+856,"The virtual machine for running the environment is, at start, a good idea. But even with 8 core i7 with 8G of RAM laptop, it was sometime painful to process the exercises. Maybe an ubuntu or virtualbox or laptop compatibility. ",uWrCG9mpEeWkdgqomU4otw,0.586956521739
 857,The final quiz was a bit tough and needed understanding and googling,uWrCG9mpEeWkdgqomU4otw,0.75
 858,"Very interesting course, and a good practical exercise at the end",uWrCG9mpEeWkdgqomU4otw,0.916666666667
 859,"What a great relief, after passing that last quiz, it took my entire Memorial Day weekend, after the Microsoft Windows 10 Creators upgrade totally ruined my Virtualbox installation for the Cloudera QuickStart VM. Looks like that is a very very good quiz. ",uWrCG9mpEeWkdgqomU4otw,0.553191489362
@@ -936,7 +936,7 @@
 934,"I felt this module, like most, represented good value for money. It's obviously not exhaustive, but you shouldn't expect it to be for the price. The final quiz was a nice challenge and struck a good balance between course material and requiring you to research information online. ",uWrCG9mpEeWkdgqomU4otw,0.649122807018
 935,The course cost too much for the gain of knowledge. Feels like this course could be merge with the first or the third course. ,uWrCG9mpEeWkdgqomU4otw,0.692307692308
 936,"Forcing users to install demo software which requires a registration is just too lame. Other than that, courser is very boring, introductory, jumps constantly between things and doesn't explain much. Stack overflow and 2 hours would do a better job. ",uWrCG9mpEeWkdgqomU4otw,0.604166666667
-937,"The virtual machine for running the environment is, at start, a good idea. But even with 8 core i7 with 8G of RAM laptop, it was sometime painful to process the exercices. Maybe an ubuntu or virtualbox or laptop compatibility. ",uWrCG9mpEeWkdgqomU4otw,0.586956521739
+937,"The virtual machine for running the environment is, at start, a good idea. But even with 8 core i7 with 8G of RAM laptop, it was sometime painful to process the exercises. Maybe an ubuntu or virtualbox or laptop compatibility. ",uWrCG9mpEeWkdgqomU4otw,0.586956521739
 938,The final quiz was a bit tough and needed understanding and googling,uWrCG9mpEeWkdgqomU4otw,0.75
 939,"Very interesting course, and a good practical exercise at the end",uWrCG9mpEeWkdgqomU4otw,0.916666666667
 940,"What a great relief, after passing that last quiz, it took my entire Memorial Day weekend, after the Microsoft Windows 10 Creators upgrade totally ruined my Virtualbox installation for the Cloudera QuickStart VM. Looks like that is a very very good quiz. ",uWrCG9mpEeWkdgqomU4otw,0.553191489362
@@ -2207,7 +2207,7 @@
 2205,Excellent course. ,bfE3GBnoEeWg_RJGAuFGjw,0.666666666667
 2206,Concise but useful introduction to Python. Teaching methodology is great. ,bfE3GBnoEeWg_RJGAuFGjw,0.833333333333
 2207,This course is very useful to know the basic python language,bfE3GBnoEeWg_RJGAuFGjw,1.0
-2208,"Great introductory course. The explanations are very straightforward, the examples introduce the important basic matter and the exercices help a lot in learning to use the learned material. ",bfE3GBnoEeWg_RJGAuFGjw,0.677419354839
+2208,"Great introductory course. The explanations are very straightforward, the examples introduce the important basic matter and the exercises help a lot in learning to use the learned material. ",bfE3GBnoEeWg_RJGAuFGjw,0.677419354839
 2209,Excellent Course for a beginner. Looking forward to more classes by the same instructor and support groups. Thanks ,bfE3GBnoEeWg_RJGAuFGjw,0.809523809524
 2210,Excellent course to get a quick grasp of how python works and start using it,bfE3GBnoEeWg_RJGAuFGjw,0.933333333333
 2211,the code shown in the video was not clear enough in some modules. Topics were explained in easy and understandable manner,bfE3GBnoEeWg_RJGAuFGjw,0.681818181818
@@ -2385,7 +2385,7 @@
 2383,Excellent course. ,bfE3GBnoEeWg_RJGAuFGjw,0.666666666667
 2384,Concise but useful introduction to Python. Teaching methodology is great. ,bfE3GBnoEeWg_RJGAuFGjw,0.833333333333
 2385,This course is very useful to know the basic python language,bfE3GBnoEeWg_RJGAuFGjw,1.0
-2386,"Great introductory course. The explanations are very straightforward, the examples introduce the important basic matter and the exercices help a lot in learning to use the learned material. ",bfE3GBnoEeWg_RJGAuFGjw,0.677419354839
+2386,"Great introductory course. The explanations are very straightforward, the examples introduce the important basic matter and the exercises help a lot in learning to use the learned material. ",bfE3GBnoEeWg_RJGAuFGjw,0.677419354839
 2387,Excellent Course for a beginner. Looking forward to more classes by the same instructor and support groups. Thanks ,bfE3GBnoEeWg_RJGAuFGjw,0.809523809524
 2388,Excellent course to get a quick grasp of how python works and start using it,bfE3GBnoEeWg_RJGAuFGjw,0.933333333333
 2389,the code shown in the video was not clear enough in some modules. Topics were explained in easy and understandable manner,bfE3GBnoEeWg_RJGAuFGjw,0.681818181818
@@ -3780,7 +3780,7 @@
 3778,Excellent course. I will follow also some others or all the next courses of this specialization. ,52blABnqEeW9dA4X94-nLQ,0.777777777778
 3779,Very good course and very pleasant Professor ,52blABnqEeW9dA4X94-nLQ,0.75
 3780,Excellent Course. Good teaching and coverage of wide range of topics. ,52blABnqEeW9dA4X94-nLQ,0.692307692308
-3781,"Very good overview and step by step dive into this javascript framework. The instructor knows how to deliver one piece of information at a time and with simple exercices to put it into practice. The assignments are not very hard, but they give you confidence in what you have learned. ",52blABnqEeW9dA4X94-nLQ,0.722222222222
+3781,"Very good overview and step by step dive into this javascript framework. The instructor knows how to deliver one piece of information at a time and with simple exercises to put it into practice. The assignments are not very hard, but they give you confidence in what you have learned. ",52blABnqEeW9dA4X94-nLQ,0.722222222222
 3782,The progression in this course is amazing You will see how your web page is transformed beautifully into different modules. MVC concept is clearly illustrated and implemented in this course. ,52blABnqEeW9dA4X94-nLQ,0.606060606061
 3783,Great course. Gived me a good knowledge and understanding of an AngularJs. I would like to take all the courses of this specialisation. ,52blABnqEeW9dA4X94-nLQ,0.692307692308
 3784,good course,52blABnqEeW9dA4X94-nLQ,1.0
@@ -4710,7 +4710,7 @@
 4708,"I enjoyed this course and felt it to be a good introduction to Bootstrap. The time allocations were not realistic, though. I have a fairly strong (albeit outdated) background in programming and web design, but I still felt that I spent a lot more more time than what was allocated for learning. I imagine that this can be very discouraging to beginners. I am looking forward to the remaining modules. ",ycQnChn3EeWDtQoum3sFeQ,0.569620253165
 4709,Very useful course,ycQnChn3EeWDtQoum3sFeQ,1.0
 4710,"Enjoyed the course I learned bootstrap before from codeschool, but it wasn't as good as this course ",ycQnChn3EeWDtQoum3sFeQ,0.590909090909
-4711,"The topic is overall well covered. The material are not easy to go through and do not reference well key knowledge area, specifically: how to apply them. The exercises and the assignments could be largely improved: the targets and the guidance are not always clear. Adding up on the same files instead having one file per exercice or one learning key point does not help. ",ycQnChn3EeWDtQoum3sFeQ,0.555555555556
+4711,"The topic is overall well covered. The material are not easy to go through and do not reference well key knowledge area, specifically: how to apply them. The exercises and the assignments could be largely improved: the targets and the guidance are not always clear. Adding up on the same files instead having one file per exercise or one learning key point does not help. ",ycQnChn3EeWDtQoum3sFeQ,0.555555555556
 4712,Great and easy step by step bootstrap course ,ycQnChn3EeWDtQoum3sFeQ,0.875
 4713,"I would recommend reading the docs on the bootstraps website, this course doesn't add much value to just the normal bootstrap docs",ycQnChn3EeWDtQoum3sFeQ,0.64
 4714,"This bootstrap course is very nice , every components are explained nicely. Assignments also good. Waiting for next angular js lecture ",ycQnChn3EeWDtQoum3sFeQ,0.695652173913
@@ -5400,7 +5400,7 @@
 5398,"Valuable and very well organized, I found it quite simple",ycQnChn3EeWDtQoum3sFeQ,0.909090909091
 5399,Very useful course,ycQnChn3EeWDtQoum3sFeQ,1.0
 5400,"Enjoyed the course I learned bootstrap before from codeschool, but it wasn't as good as this course ",ycQnChn3EeWDtQoum3sFeQ,0.590909090909
-5401,"The topic is overall well covered. The material are not easy to go through and do not reference well key knowledge area, specifically: how to apply them. The exercises and the assignments could be largely improved: the targets and the guidance are not always clear. Adding up on the same files instead having one file per exercice or one learning key point does not help. ",ycQnChn3EeWDtQoum3sFeQ,0.555555555556
+5401,"The topic is overall well covered. The material are not easy to go through and do not reference well key knowledge area, specifically: how to apply them. The exercises and the assignments could be largely improved: the targets and the guidance are not always clear. Adding up on the same files instead having one file per exercise or one learning key point does not help. ",ycQnChn3EeWDtQoum3sFeQ,0.555555555556
 5402,Good Course,ycQnChn3EeWDtQoum3sFeQ,1.0
 5403,It is a very useful course,ycQnChn3EeWDtQoum3sFeQ,1.0
 5404,Well Organized and very instructive. Thanks. ,ycQnChn3EeWDtQoum3sFeQ,0.75
@@ -7175,7 +7175,7 @@
 7173,awesome description,NFiJtRnpEeW9dA4X94-nLQ,1.0
 7174,I reviewed and learned a lot of Java Object Oriented Programming concepts. It was really fun ,NFiJtRnpEeW9dA4X94-nLQ,0.611111111111
 7175,Liked the way Prof. has so far taught this course. ,NFiJtRnpEeW9dA4X94-nLQ,0.666666666667
-7176,All objects related concepts are really well explained and the exercices are well designed. A great course to follow,NFiJtRnpEeW9dA4X94-nLQ,0.65
+7176,All objects related concepts are really well explained and the exercises are well designed. A great course to follow,NFiJtRnpEeW9dA4X94-nLQ,0.65
 7177,realy cleared my concepts which I wasn't able to clear from past 4 years,NFiJtRnpEeW9dA4X94-nLQ,0.5625
 7178,"The lectures were too wordy and the lecturers tripped over their words too often (which wouldn't have made it so difficult to listen if the lectures hadn't been so wordy ). There was too much focus on high-level details of the course project and too little attention paid to technical details. This rendered the lectures simplistic, boring, and sometimes a waste of time. This felt like an introductory level course, made more difficult through poor teaching. Also, the slick web interface was slightly difficult to navigate in comparison to other Coursera courses. ",NFiJtRnpEeW9dA4X94-nLQ,0.523364485981
 7179,If you think this is an introduction to Java programming language you are wrong. What do you want? Do you want teach us to use Processing or teach us to program in Java?,NFiJtRnpEeW9dA4X94-nLQ,0.555555555556
@@ -8128,7 +8128,7 @@
 8126,good,LgWwihnoEeWDtQoum3sFeQ,1.0
 8127,"Excelent course, even though I already knew good part of the material shown here there was a big number of topics I have had only learned quickly and did not understand such as the DOM. I congratulate you for the awesome work. Thank you. ",LgWwihnoEeWDtQoum3sFeQ,0.75
 8128,"Course was very informative and the material was presented efficiently, however there have been some notable advancements on this subject matter which would have been nice to see covered. ",LgWwihnoEeWDtQoum3sFeQ,0.774193548387
-8129,"Very good introductive course, I enjoyed doing the exercices and the assignments ",LgWwihnoEeWDtQoum3sFeQ,0.571428571429
+8129,"Very good introductive course, I enjoyed doing the exercises and the assignments ",LgWwihnoEeWDtQoum3sFeQ,0.571428571429
 8130,Descriptive and well taught,LgWwihnoEeWDtQoum3sFeQ,1.0
 8131,it very good ,LgWwihnoEeWDtQoum3sFeQ,0.75
 8132,Very Good Course ,LgWwihnoEeWDtQoum3sFeQ,0.75
@@ -9068,7 +9068,7 @@
 9066,"Good course, with useful examples and methodology ",LgWwihnoEeWDtQoum3sFeQ,0.666666666667
 9067,Great start for students seeking Web development,LgWwihnoEeWDtQoum3sFeQ,0.857142857143
 9068,Very informative and easy to understand,LgWwihnoEeWDtQoum3sFeQ,1.0
-9069,Very good teacher Clear and short lessons and very usefull exercices. Thank you,LgWwihnoEeWDtQoum3sFeQ,0.533333333333
+9069,Very good teacher Clear and short lessons and very usefull exercises. Thank you,LgWwihnoEeWDtQoum3sFeQ,0.533333333333
 9070,e,LgWwihnoEeWDtQoum3sFeQ,1.0
 9071,The course covers basics very well. ,LgWwihnoEeWDtQoum3sFeQ,0.571428571429
 9072,I like the course,LgWwihnoEeWDtQoum3sFeQ,1.0
@@ -9520,7 +9520,7 @@
 9518,good,LgWwihnoEeWDtQoum3sFeQ,1.0
 9519,"Excelent course, even though I already knew good part of the material shown here there was a big number of topics I have had only learned quickly and did not understand such as the DOM. I congratulate you for the awesome work. Thank you. ",LgWwihnoEeWDtQoum3sFeQ,0.75
 9520,"Course was very informative and the material was presented efficiently, however there have been some notable advancements on this subject matter which would have been nice to see covered. ",LgWwihnoEeWDtQoum3sFeQ,0.774193548387
-9521,"Very good introductive course, I enjoyed doing the exercices and the assignments ",LgWwihnoEeWDtQoum3sFeQ,0.571428571429
+9521,"Very good introductive course, I enjoyed doing the exercises and the assignments ",LgWwihnoEeWDtQoum3sFeQ,0.571428571429
 9522,Descriptive and well taught,LgWwihnoEeWDtQoum3sFeQ,1.0
 9523,it very good ,LgWwihnoEeWDtQoum3sFeQ,0.75
 9524,Very Good Course ,LgWwihnoEeWDtQoum3sFeQ,0.75

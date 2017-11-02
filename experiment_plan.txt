@@ -1,0 +1,12 @@
+independent project plan
+
+1.Read data:
+    load data from sql database to csv file.
+2.Clean data
+    Remove meaning less data
+    remove stop word
+3.Grouping data by course-id
+4.Mining comments with respect to a specific course
+1). Store tagged sentence
+2). get noun
+using fuzzy match to merge keys
