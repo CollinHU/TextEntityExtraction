@@ -62,6 +62,7 @@ data = pd.DataFrame(data = dic)
 data['id'] = data.apply(lambda x: list(set(x)))
 data['length'] = data['id'].apply(lambda x:len(x))
 
+data = data[['key','length','id']]
 data.to_csv('data/dictionary_02.csv')
 data = data[data['length'] > 2]
 data.to_csv('data/dictionary_02_l3.csv')

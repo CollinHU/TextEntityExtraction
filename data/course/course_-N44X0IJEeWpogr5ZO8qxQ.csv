@@ -1,0 +1,240 @@
+,comment,course_id,ratio
+0,Good course. Learned a lot from it. Thanks!,-N44X0IJEeWpogr5ZO8qxQ,0.727272727273
+1,This course was great! With good code examples and algorithm applications and also intuition!It's a shame that we couldn't finish planned courses due to busy schedules of instructors as I was really looking forward to the capstone project! ,-N44X0IJEeWpogr5ZO8qxQ,0.673913043478
+2,Nice course with all the practical stuffs and nice analysis about each topic but practical part of LDA was restricted for GraphLab users only which is a weak fallback and rest everything is fine.,-N44X0IJEeWpogr5ZO8qxQ,0.742857142857
+3,Clustering &amp; Retrieval was a lot tougher compared to courses on regression &amp; classification because the match concepts behind this course were too complex. Nevertheless Emily tried to make this course as intuitive as possible,-N44X0IJEeWpogr5ZO8qxQ,0.6
+4,I'm a grad student and I can notice the instructor makes a difference in this course. I fully recommend it.,-N44X0IJEeWpogr5ZO8qxQ,0.708333333333
+5,awesome course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+6,"sometimes difficult,but import so many useful knowledge",-N44X0IJEeWpogr5ZO8qxQ,0.888888888889
+7,very good! strongly recommend to people who want to start a career on data science or are interested in it,-N44X0IJEeWpogr5ZO8qxQ,0.904761904762
+8,The teachers are really amazing. They do not just explain it as if they read a book. They explain the concepts very well,-N44X0IJEeWpogr5ZO8qxQ,0.68
+9,Overall is great. The LDA and Dendrograms lack quality/specificity and depth of the previous topics. So sad the Specialization collapsed at 4 courses instead of 6.,-N44X0IJEeWpogr5ZO8qxQ,0.516129032258
+10,This course was my first encounter with Machine Learning! The course gave me a good understanding of the different ML algorithms used in clustering and retrieval of data! ,-N44X0IJEeWpogr5ZO8qxQ,0.766666666667
+11,Very nice course. Concepts are covered very clearly.,-N44X0IJEeWpogr5ZO8qxQ,0.6
+12,E,-N44X0IJEeWpogr5ZO8qxQ,1.0
+13," Really a good course, succinct and concise. ",-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+14,slightly repetitive of classification course with no real use-case value except lots of math..,-N44X0IJEeWpogr5ZO8qxQ,0.823529411765
+15,"Great course on machine learning, however, left us in middle of learning, Recommender System + Deep Learning Capstone is missing",-N44X0IJEeWpogr5ZO8qxQ,0.739130434783
+16,Some themes are shown very superficially it would be great to go deeper. Despite of this the course is great! Thanks.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+17,The course was very engaging and mathematically intensive. It provides background for all the necessary tools one must know to start clustering. Great Course. Will miss this course format as 5 and 6 are cancelled! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+18,Should use pandas instead of Graph Lab Create,-N44X0IJEeWpogr5ZO8qxQ,0.875
+19,Good and deep dive into ML!Absolutely disappointed that the course was delayed and the promise to take it through Course 5 and Capstone Project didn't come through.Not at all happy with that!! ,-N44X0IJEeWpogr5ZO8qxQ,0.641025641026
+20,"super one, ",-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+21, Best Course on ML yet on the Web ,-N44X0IJEeWpogr5ZO8qxQ,0.75
+22,"A great course as the other 3 courses in the specialization.This course introduces and make us implement Knn,Kd trees,Gaussian Mixture model and LDA model for clustering and retrieval.The data set is the peoples wiki from the Foundations course and theres a assignment on clustering images too.If you have taken the other 3 an do this with ease and if you haven't taken those i think it will be better to take this course after the other 3.",-N44X0IJEeWpogr5ZO8qxQ,0.511111111111
+23,Excellent course! Thanks a lot for the effort in compiling this course... I really enjoyed it!,-N44X0IJEeWpogr5ZO8qxQ,0.684210526316
+24,"Dependence on GraphLab technology is a big minus. The lectures are poorly balanced in terms of difficulty. Apart from that - interesting course, I'm glad I took it.",-N44X0IJEeWpogr5ZO8qxQ,0.705882352941
+25,"If you are considering this specialization I would recommend the Andrew Ng course instead and the main reason is that it isn't depend on proprietary ML framework. Despite the good lectures, the assignments don't help you develop the knowledge required for ML developer role.Taking in consideration the permanent postponing the courses delivery, from summer 2016 to summer 2017, finally the most interesting part of the specialization was cancelled. I'm completely disappointed with the specialization learning expirience.",-N44X0IJEeWpogr5ZO8qxQ,0.566666666667
+26,No good without the missing course and capstone projects,-N44X0IJEeWpogr5ZO8qxQ,0.888888888889
+27,"The material is complex and challenging, but the teaching procedure is carefully thought out in a way that you quickly get it, giving you a great sense of accomplishment.",-N44X0IJEeWpogr5ZO8qxQ,0.75
+28, Excellent Course!!! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+29,"Very sophisticated, friendly and practical instructions",-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+30,Enjoyed the course and learned a lot. Amazing! ,-N44X0IJEeWpogr5ZO8qxQ,0.7
+31,awesome clustering course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+32, This specialization is delayed for months now - very annoying! Don't give them money! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+33,very helpful,-N44X0IJEeWpogr5ZO8qxQ,1.0
+34,Great course but hard going at times for those of us without a strong maths background. The assignments took me a long time to complete and I think I'll have to revisit some areas as I become more familiar with them to really get the full benefit.,-N44X0IJEeWpogr5ZO8qxQ,0.745098039216
+35,"I am taking all courses in the specialization, and this is my fourth. I have been having a great time with materials by both instructors so far, until I came to week 5 of this course.Despite repeated viewing, my understanding of LDA is non-existent. The first section is fine, but starting from Bayesian inference via Gibbs sampling, for me at least, the method of instruction has gone off a cliff.I strongly suggest soliciting feedback from learners that narrowly targets the material of this week 5 to determine if it's just me or if this is a wider problem. If it is the latter, perhaps it is time to redesign the lessons of this week.",-N44X0IJEeWpogr5ZO8qxQ,0.511278195489
+36,great.,-N44X0IJEeWpogr5ZO8qxQ,0.5
+37,VERY IMPRESSIVE COURSE,-N44X0IJEeWpogr5ZO8qxQ,1.0
+38,This course contain many advance topic which was covered in fast pace by the professor special end lectures. This course contain very important topics of Machine learning could have given more time in explaining things. Thanks professor ,-N44X0IJEeWpogr5ZO8qxQ,0.74358974359
+39,Excellent course ,-N44X0IJEeWpogr5ZO8qxQ,1.0
+40,It is explained in simple and lucid language by expert Emily and codes illustrated by Carlos. Go for it.,-N44X0IJEeWpogr5ZO8qxQ,0.52380952381
+41,Very Insightful. Great Instructors. Awesome Forum and intelligible peers. ,-N44X0IJEeWpogr5ZO8qxQ,0.583333333333
+42,It's an amazing Course.,-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+43,So Much Concepts to learn and totally worth it!,-N44X0IJEeWpogr5ZO8qxQ,0.8
+44,"This was probably the most challenging course of them all, I thoroughly enjoyed it! Looking forward to dimensionality reduction and the capstone. ",-N44X0IJEeWpogr5ZO8qxQ,0.76
+45,"Thank you, it was a good one",-N44X0IJEeWpogr5ZO8qxQ,0.875
+46,Great course! Very simple and practical.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+47,"The course dived into basic and advanced concepts of unsupervised learning. As before, Prof Fox did a great job at explaining things.",-N44X0IJEeWpogr5ZO8qxQ,0.76
+48,this is not a an easy course but certainly an awesome one ,-N44X0IJEeWpogr5ZO8qxQ,0.916666666667
+49,Excellent! Very good material and lectures and hands on. Really enriching.,-N44X0IJEeWpogr5ZO8qxQ,0.571428571429
+50,"Very good, not only learn many good ML concepts, but also polish my python programming skill a lot. Thank you, Emily and Carlos.",-N44X0IJEeWpogr5ZO8qxQ,0.607142857143
+51,"Great course, very hands-on, very practical knowledge.",-N44X0IJEeWpogr5ZO8qxQ,0.5
+52,Best course available till date as MooC,-N44X0IJEeWpogr5ZO8qxQ,0.857142857143
+53,This was another great course. I hope that the instructors indulge in a little bit more theory. Anyway it was a magnificent course. Hope the coming courses are as good as this one.,-N44X0IJEeWpogr5ZO8qxQ,0.648648648649
+54,Deep insight into most useful techniques of machine learning.,-N44X0IJEeWpogr5ZO8qxQ,0.8
+55,This specific course traded off depth and detail for breadth of topics. Too many ideas were quickly described and not really built up to my liking.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+56,"I found that Week 4, Assignment 2 was testing our knowledge in ways that are in opposition to the general ethos of the course.I mean that this course is about gaining insight, intuition and the practical tools for ML, where the smaller details like - knowing which numpy function gives you a random univariate normal distribution - are normally provided for us, so that we can focus on the aforementioned broader, more useful aspects of ML/Clustering.The assignment had good content on the whole but the parts which were chosen for write code here could certainly be improved.I hope this is useful feedback and that the assignment is reviewed so that it doesn't needlessly discourage people.",-N44X0IJEeWpogr5ZO8qxQ,0.541984732824
+57,great!,-N44X0IJEeWpogr5ZO8qxQ,0.5
+58,Very Good in depth explanation and hand-on lab machine learning course. very focused on real world analytics and algorithms,-N44X0IJEeWpogr5ZO8qxQ,0.681818181818
+59,I loved this course. then content is designed to acquire strong foundations in clustering.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+60,"I really learn a lot in this course, although the materials are very difficult at first read, but Emily's explanation were clear and I would be able to get the idea after a few review.",-N44X0IJEeWpogr5ZO8qxQ,0.775
+61,From LDA onwards the pace ramped up ! Please be slow during advance topics. But altogether it was a great course.,-N44X0IJEeWpogr5ZO8qxQ,0.782608695652
+62,Excellent course - and of great practical use.,-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+63,The material covered in this course is immense and gives a deep understanding of several algorithms required to perform unsupervised learning tasks. ,-N44X0IJEeWpogr5ZO8qxQ,0.782608695652
+64,"This course was awesome as all the previous courses, I'm waiting to the next course and the capstone",-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+65,Detailed coverage of several approaches to clustering. Not easy but learned a lot.,-N44X0IJEeWpogr5ZO8qxQ,0.8
+66,Awesome :),-N44X0IJEeWpogr5ZO8qxQ,0.5
+67,One of the best machine learning course I have taken.,-N44X0IJEeWpogr5ZO8qxQ,0.909090909091
+68,"Another super course. Though admittedly (for me at least) very difficult to make within the allotted time given for one period of the Course. Lots of advanced stuff that require substantial studies to really comprehend, i.e., it should never be enough just to hack &amp; run the code (that's the easier challenge). Still have a long washing list of topics coming out of this Course that I need (want) to understand better. But at least the background to do so is neatly provided here. So without further ado ... Applause!",-N44X0IJEeWpogr5ZO8qxQ,0.614678899083
+69,wonderful course for beginner of machine learning.,-N44X0IJEeWpogr5ZO8qxQ,0.875
+70,Excellent course. ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+71,"Some of the interesting topics discussed in this course could be treated substantially more extensive and detailed in order to get a better grip and understanding on them (e.g. Gibbs sampling). After this course, it is a bit dazzling how much different algorithms and methods are available for clustering and retrieval tasks and this course easily could have been subdivided into two or three separate courses on the same topic with a more detailed treatment. Still, about many interesting subjects a tip of the iceberg has been brought to you ... it tastes so good that you would like to have much more!",-N44X0IJEeWpogr5ZO8qxQ,0.553571428571
+72,"Amazing course, really helpful, as a ML researcher you need this kind of foundation",-N44X0IJEeWpogr5ZO8qxQ,0.8125
+73,"The best course in the specialization thus far. Very rich and wide ranging, perfect for the motivated part-time learner who wants to be challenged and have ample reason to revisit the material. I only wish this course had been longer, perhaps shortening the classification course to make room.",-N44X0IJEeWpogr5ZO8qxQ,0.672727272727
+74,a practical and interesting course about clustering and retrival,-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+75,"As someone very keen on math, more math background as optimal video would be more helpful. ",-N44X0IJEeWpogr5ZO8qxQ,0.722222222222
+76,Good course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+77,Great! thanks,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+78,Best Course.,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+79,Excellent course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+80,Very good course!,-N44X0IJEeWpogr5ZO8qxQ,0.75
+81,"Good survey of the material, but assignments are superficial and don't test thorough understanding.",-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+82,Worth the wait. COOL learning,-N44X0IJEeWpogr5ZO8qxQ,0.833333333333
+83,Best course I've taken!! :),-N44X0IJEeWpogr5ZO8qxQ,0.5
+84,Simply Amazing!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+85,"Following the overall quality of this Specialization, this course was excellent. From the content, to the assesments, material and teachers. This course is a really good starting point to become an expert in Machine Learning techniques.",-N44X0IJEeWpogr5ZO8qxQ,0.642857142857
+86,Awesome course! The session on EM algorithm is revealing!,-N44X0IJEeWpogr5ZO8qxQ,0.818181818182
+87,A little too superficial and hand waving.,-N44X0IJEeWpogr5ZO8qxQ,0.875
+88,"The last weeks, we went through the material a little bit too fast.",-N44X0IJEeWpogr5ZO8qxQ,0.733333333333
+89,the homework is getting easy,-N44X0IJEeWpogr5ZO8qxQ,1.0
+90,"This course has been an amazing experience. Congrats to you, Carlos and Emmy!",-N44X0IJEeWpogr5ZO8qxQ,0.5625
+91,Fantastic course as usual,-N44X0IJEeWpogr5ZO8qxQ,1.0
+92,"A perfect and balanced introduction to the subjects, adding theory and practice beautifully.",-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+93,"Like all the courses in this specialization so far, the material has been good. The reason for only 4 stars rather than 5 is the difficulty in getting questions answered in a timely manner. There don't seem to be any active mentors for this class.",-N44X0IJEeWpogr5ZO8qxQ,0.607843137255
+94,"excellent material! It would be nice, however, to mention some reading material, books or articles, for those interested in the details and the theories behind the concepts presented in the course. ",-N44X0IJEeWpogr5ZO8qxQ,0.540540540541
+95,This was AWESOME!,-N44X0IJEeWpogr5ZO8qxQ,0.75
+96,Great course like the others,-N44X0IJEeWpogr5ZO8qxQ,0.8
+97,"An interesting topic, presented well by the instructor and reinforced by intermediate-level programming assignments.",-N44X0IJEeWpogr5ZO8qxQ,0.555555555556
+98,Another great hit by Emily and Carlos!!! Excellent Course!!!,-N44X0IJEeWpogr5ZO8qxQ,0.636363636364
+99,Interesting content but explanations are less clear with respect to the other courses of the ML Specialization,-N44X0IJEeWpogr5ZO8qxQ,0.764705882353
+100,"Emily Fox did a great job in explaining tough concepts with simple explanation of the components in the formulas!! It's a little tough to get through the materials though, it's the 4th course in University of Washington's machine learning specialization afterall =) ",-N44X0IJEeWpogr5ZO8qxQ,0.5
+101,"This course started off easy, and became challenging in the last 3 weeks. But a lot of details were covered in the slides and also the forum helped deepen my understanding of the material, and I was able to get through the course. I enjoyed the course!",-N44X0IJEeWpogr5ZO8qxQ,0.5
+102,"This is the toughest courses in the specialization so far. But if you manage to complete it, you'll have some really advance skills under your belt. ",-N44X0IJEeWpogr5ZO8qxQ,0.677419354839
+103,"Yet another really excellent course in this series - the best online course I have ever taken. I really appreciate the fairly high level on which it is taught, and the speed with which they go through the material - it is not here to entertain or waste time, but to get straight to the point - what can I do, and how do I use open source tools to do it? ",-N44X0IJEeWpogr5ZO8qxQ,0.623376623377
+104,"I used to run into a wall at work trying to train models with recursive partitioning or neural nets because of the long time they took to train for high dimensional data. These clustering techniques are an immense help.Awesome course, with a brilliant instructor and brilliant assignments.",-N44X0IJEeWpogr5ZO8qxQ,0.730769230769
+105,"Still a very good course. Week 4 was very tough. The general concept can be understood from a 10,000 feet altitude but the lesson and programming assignment need to be reviewed, maybe with a slower step by step example.As some other student mentioned, it was... brutal.Other than that looking forward to the next course in the specialization!",-N44X0IJEeWpogr5ZO8qxQ,0.579710144928
+106,I did not understand LDA from the course materials.,-N44X0IJEeWpogr5ZO8qxQ,0.7
+107,"The course, and indeed the whole specialization, was advertised as not requiring the Graphlab Create toolkit. This is untrue, as the final programming assignment does require it. The general dependence on SFrame is understandable since it is open source, but requiring any interaction with a licensed product (even if temporary and research licenses are available) greatly negatively impacted my experience in this course. ",-N44X0IJEeWpogr5ZO8qxQ,0.611111111111
+108,Very good course. Too long interval between modules make hard for non-Python developers. Easy to forget some of the Python structures.,-N44X0IJEeWpogr5ZO8qxQ,0.692307692308
+109,Superb course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+110,very nice lecture,-N44X0IJEeWpogr5ZO8qxQ,1.0
+111,Excellent course. Nice selection of algorithms reviewed - all clearly explained with sample implementations.,-N44X0IJEeWpogr5ZO8qxQ,0.5625
+112,less complex exercises to check and validate,-N44X0IJEeWpogr5ZO8qxQ,0.857142857143
+113,very good course but the last few topics could be improved with better assignments that could be broken down into smaller sub assignments,-N44X0IJEeWpogr5ZO8qxQ,0.739130434783
+114,very good course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+115,Amazing.,-N44X0IJEeWpogr5ZO8qxQ,0.5
+116,This is the best course in ML - would recommend it ...the sequence of the courses is the best...the specialization in this ML is a career boost,-N44X0IJEeWpogr5ZO8qxQ,0.5
+117,"great course, but module 4 lacks a bit in structure. hard to follow. without the forum, it would not be possible to make it in time. ",-N44X0IJEeWpogr5ZO8qxQ,0.677419354839
+118,"Exceptional course! This is challenging material for me, but it's presented in such a coherent manner that you can't help but absorb it.",-N44X0IJEeWpogr5ZO8qxQ,0.7
+119,Sets a new benchmark for the specialization !!! A great offering on Machine Learning :),-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+120,This course rushed through the material at the end. ,-N44X0IJEeWpogr5ZO8qxQ,0.8
+121,Very good course nice practical approach. I was kind of surprised that hierarchical clustering was kept at the end and discussed only marginally since it is a widely used approach.I liked the part about LDA but IMHO I would have liked more discussion about fundamental techniques rather than such an advanced method.Too focus on text data. Most of the application I worked on have limited textual data.,-N44X0IJEeWpogr5ZO8qxQ,0.675675675676
+122,"The specialization has a good quality on average. I started doing this course immediately after it went open. I had a feeling that the quality of the course went down (questions were often unclear and it took time to figure out what is expected as an answer). However, many problems were solved quite fast and teaching stuff is really helpful. I still would like to see more about MapReduce in-depth in this course. I did not have a feeling that it was covered sufficiently (only theory, no hands-on material). In general, hands-on material was great and useful.",-N44X0IJEeWpogr5ZO8qxQ,0.55652173913
+123,"Very nice course, and a great grasp on clustering techniques. If I could just suggest something to improve, it would be the section on LDA and Gibbs: it's very high level and it would be really nice to have some more technical insights on those techniques (perhaps with optional sections, as for other topics).",-N44X0IJEeWpogr5ZO8qxQ,0.587301587302
+124,"Great course. Some week were tough others too easy, but general a very interesting course.",-N44X0IJEeWpogr5ZO8qxQ,0.722222222222
+125,"I found this Course less well prepared than the previous 3 modules. Misleading hints in the assignments, code errors, etc... Also, I found the amount of work required higher, which is not in itself a bad thing, just a bit unexpected.",-N44X0IJEeWpogr5ZO8qxQ,0.571428571429
+126,Great! ,-N44X0IJEeWpogr5ZO8qxQ,0.5
+127,"Good class, But it would be much better if the quiz is open to those who doesn't pay.",-N44X0IJEeWpogr5ZO8qxQ,0.818181818182
+128,"please rework in particular week 5, part 2",-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+129,Another great introduction. The assignments are notably a little bit harder than the previous courses.,-N44X0IJEeWpogr5ZO8qxQ,0.705882352941
+130,"I loved the previous 3 courses and what I saw in this course so far seems pretty interesting. I'm really sad that Coursera decided to block access to assignments for not paying users. I really wanted to continue with the specialization but I already purchased another specialization, so I'm going to have to put this course on hold for a now. ",-N44X0IJEeWpogr5ZO8qxQ,0.536231884058
+131,Not for the faint of heart but this course does a really good job of explaining clustering (and retrieval) of images and text. It includes several programming assignments which can be tackled with minimal programming experience if one perseveres.,-N44X0IJEeWpogr5ZO8qxQ,0.697674418605
+132,Another great course. Strongly recommend!,-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+133,Good course. Learned a lot from it. Thanks!,-N44X0IJEeWpogr5ZO8qxQ,0.727272727273
+134,This course was great! With good code examples and algorithm applications and also intuition!It's a shame that we couldn't finish planned courses due to busy schedules of instructors as I was really looking forward to the capstone project! ,-N44X0IJEeWpogr5ZO8qxQ,0.673913043478
+135,Nice course with all the practical stuffs and nice analysis about each topic but practical part of LDA was restricted for GraphLab users only which is a weak fallback and rest everything is fine.,-N44X0IJEeWpogr5ZO8qxQ,0.742857142857
+136,Clustering &amp; Retrieval was a lot tougher compared to courses on regression &amp; classification because the match concepts behind this course were too complex. Nevertheless Emily tried to make this course as intuitive as possible,-N44X0IJEeWpogr5ZO8qxQ,0.6
+137,awesome course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+138,"sometimes difficult,but import so many useful knowledge",-N44X0IJEeWpogr5ZO8qxQ,0.888888888889
+139,very good! strongly recommend to people who want to start a career on data science or are interested in it,-N44X0IJEeWpogr5ZO8qxQ,0.904761904762
+140,The teachers are really amazing. They do not just explain it as if they read a book. They explain the concepts very well,-N44X0IJEeWpogr5ZO8qxQ,0.68
+141,Overall is great. The LDA and Dendrograms lack quality/specificity and depth of the previous topics. So sad the Specialization collapsed at 4 courses instead of 6.,-N44X0IJEeWpogr5ZO8qxQ,0.516129032258
+142,This course was my first encounter with Machine Learning! The course gave me a good understanding of the different ML algorithms used in clustering and retrieval of data! ,-N44X0IJEeWpogr5ZO8qxQ,0.766666666667
+143,Very nice course. Concepts are covered very clearly.,-N44X0IJEeWpogr5ZO8qxQ,0.6
+144,E,-N44X0IJEeWpogr5ZO8qxQ,1.0
+145," Really a good course, succinct and concise. ",-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+146,"Great course on machine learning, however, left us in middle of learning, Recommender System + Deep Learning Capstone is missing",-N44X0IJEeWpogr5ZO8qxQ,0.739130434783
+147,Some themes are shown very superficially it would be great to go deeper. Despite of this the course is great! Thanks.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+148,The course was very engaging and mathematically intensive. It provides background for all the necessary tools one must know to start clustering. Great Course. Will miss this course format as 5 and 6 are cancelled! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+149,Should use pandas instead of Graph Lab Create,-N44X0IJEeWpogr5ZO8qxQ,0.875
+150,Good and deep dive into ML!Absolutely disappointed that the course was delayed and the promise to take it through Course 5 and Capstone Project didn't come through.Not at all happy with that!! ,-N44X0IJEeWpogr5ZO8qxQ,0.641025641026
+151,"A great course as the other 3 courses in the specialization.This course introduces and make us implement Knn,Kd trees,Gaussian Mixture model and LDA model for clustering and retrieval.The data set is the peoples wiki from the Foundations course and theres a assignment on clustering images too.If you have taken the other 3 an do this with ease and if you haven't taken those i think it will be better to take this course after the other 3.",-N44X0IJEeWpogr5ZO8qxQ,0.511111111111
+152,Excellent course! Thanks a lot for the effort in compiling this course... I really enjoyed it!,-N44X0IJEeWpogr5ZO8qxQ,0.684210526316
+153,"Dependence on GraphLab technology is a big minus. The lectures are poorly balanced in terms of difficulty. Apart from that - interesting course, I'm glad I took it.",-N44X0IJEeWpogr5ZO8qxQ,0.705882352941
+154,"The material is complex and challenging, but the teaching procedure is carefully thought out in a way that you quickly get it, giving you a great sense of accomplishment.",-N44X0IJEeWpogr5ZO8qxQ,0.75
+155, Excellent Course!!! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+156,"Very sophisticated, friendly and practical instructions",-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+157,Enjoyed the course and learned a lot. Amazing! ,-N44X0IJEeWpogr5ZO8qxQ,0.7
+158,awesome clustering course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+159, This specialization is delayed for months now - very annoying! Don't give them money! ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+160,Great course but hard going at times for those of us without a strong maths background. The assignments took me a long time to complete and I think I'll have to revisit some areas as I become more familiar with them to really get the full benefit.,-N44X0IJEeWpogr5ZO8qxQ,0.745098039216
+161,"I am taking all courses in the specialization, and this is my fourth. I have been having a great time with materials by both instructors so far, until I came to week 5 of this course.Despite repeated viewing, my understanding of LDA is non-existent. The first section is fine, but starting from Bayesian inference via Gibbs sampling, for me at least, the method of instruction has gone off a cliff.I strongly suggest soliciting feedback from learners that narrowly targets the material of this week 5 to determine if it's just me or if this is a wider problem. If it is the latter, perhaps it is time to redesign the lessons of this week.",-N44X0IJEeWpogr5ZO8qxQ,0.511278195489
+162,great.,-N44X0IJEeWpogr5ZO8qxQ,0.5
+163,VERY IMPRESSIVE COURSE,-N44X0IJEeWpogr5ZO8qxQ,1.0
+164,This course contain many advance topic which was covered in fast pace by the professor special end lectures. This course contain very important topics of Machine learning could have given more time in explaining things. Thanks professor ,-N44X0IJEeWpogr5ZO8qxQ,0.74358974359
+165,Excellent course ,-N44X0IJEeWpogr5ZO8qxQ,1.0
+166,It is explained in simple and lucid language by expert Emily and codes illustrated by Carlos. Go for it.,-N44X0IJEeWpogr5ZO8qxQ,0.52380952381
+167,It's an amazing Course.,-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+168,So Much Concepts to learn and totally worth it!,-N44X0IJEeWpogr5ZO8qxQ,0.8
+169,"This was probably the most challenging course of them all, I thoroughly enjoyed it! Looking forward to dimensionality reduction and the capstone. ",-N44X0IJEeWpogr5ZO8qxQ,0.76
+170,"Thank you, it was a good one",-N44X0IJEeWpogr5ZO8qxQ,0.875
+171,Great course! Very simple and practical.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+172,"The course dived into basic and advanced concepts of unsupervised learning. As before, Prof Fox did a great job at explaining things.",-N44X0IJEeWpogr5ZO8qxQ,0.76
+173,this is not a an easy course but certainly an awesome one ,-N44X0IJEeWpogr5ZO8qxQ,0.916666666667
+174,Excellent! Very good material and lectures and hands on. Really enriching.,-N44X0IJEeWpogr5ZO8qxQ,0.571428571429
+175,"Very good, not only learn many good ML concepts, but also polish my python programming skill a lot. Thank you, Emily and Carlos.",-N44X0IJEeWpogr5ZO8qxQ,0.607142857143
+176,"Great course, very hands-on, very practical knowledge.",-N44X0IJEeWpogr5ZO8qxQ,0.5
+177,Best course available till date as MooC,-N44X0IJEeWpogr5ZO8qxQ,0.857142857143
+178,This was another great course. I hope that the instructors indulge in a little bit more theory. Anyway it was a magnificent course. Hope the coming courses are as good as this one.,-N44X0IJEeWpogr5ZO8qxQ,0.648648648649
+179,Deep insight into most useful techniques of machine learning.,-N44X0IJEeWpogr5ZO8qxQ,0.8
+180,great!,-N44X0IJEeWpogr5ZO8qxQ,0.5
+181,Very Good in depth explanation and hand-on lab machine learning course. very focused on real world analytics and algorithms,-N44X0IJEeWpogr5ZO8qxQ,0.681818181818
+182,I loved this course. then content is designed to acquire strong foundations in clustering.,-N44X0IJEeWpogr5ZO8qxQ,0.75
+183,"I really learn a lot in this course, although the materials are very difficult at first read, but Emily's explanation were clear and I would be able to get the idea after a few review.",-N44X0IJEeWpogr5ZO8qxQ,0.775
+184,From LDA onwards the pace ramped up ! Please be slow during advance topics. But altogether it was a great course.,-N44X0IJEeWpogr5ZO8qxQ,0.782608695652
+185,Excellent course - and of great practical use.,-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+186,The material covered in this course is immense and gives a deep understanding of several algorithms required to perform unsupervised learning tasks. ,-N44X0IJEeWpogr5ZO8qxQ,0.782608695652
+187,"This course was awesome as all the previous courses, I'm waiting to the next course and the capstone",-N44X0IJEeWpogr5ZO8qxQ,0.714285714286
+188,Detailed coverage of several approaches to clustering. Not easy but learned a lot.,-N44X0IJEeWpogr5ZO8qxQ,0.8
+189,Awesome :),-N44X0IJEeWpogr5ZO8qxQ,0.5
+190,One of the best machine learning course I have taken.,-N44X0IJEeWpogr5ZO8qxQ,0.909090909091
+191,"Another super course. Though admittedly (for me at least) very difficult to make within the allotted time given for one period of the Course. Lots of advanced stuff that require substantial studies to really comprehend, i.e., it should never be enough just to hack &amp; run the code (that's the easier challenge). Still have a long washing list of topics coming out of this Course that I need (want) to understand better. But at least the background to do so is neatly provided here. So without further ado ... Applause!",-N44X0IJEeWpogr5ZO8qxQ,0.614678899083
+192,Excellent course. ,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+193,"Some of the interesting topics discussed in this course could be treated substantially more extensive and detailed in order to get a better grip and understanding on them (e.g. Gibbs sampling). After this course, it is a bit dazzling how much different algorithms and methods are available for clustering and retrieval tasks and this course easily could have been subdivided into two or three separate courses on the same topic with a more detailed treatment. Still, about many interesting subjects a tip of the iceberg has been brought to you ... it tastes so good that you would like to have much more!",-N44X0IJEeWpogr5ZO8qxQ,0.553571428571
+194,"Amazing course, really helpful, as a ML researcher you need this kind of foundation",-N44X0IJEeWpogr5ZO8qxQ,0.8125
+195,"The best course in the specialization thus far. Very rich and wide ranging, perfect for the motivated part-time learner who wants to be challenged and have ample reason to revisit the material. I only wish this course had been longer, perhaps shortening the classification course to make room.",-N44X0IJEeWpogr5ZO8qxQ,0.672727272727
+196,a practical and interesting course about clustering and retrival,-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+197,"As someone very keen on math, more math background as optimal video would be more helpful. ",-N44X0IJEeWpogr5ZO8qxQ,0.722222222222
+198,Good course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+199,Great! thanks,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+200,Best Course.,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+201,Excellent course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+202,Very good course!,-N44X0IJEeWpogr5ZO8qxQ,0.75
+203,"Good survey of the material, but assignments are superficial and don't test thorough understanding.",-N44X0IJEeWpogr5ZO8qxQ,0.777777777778
+204,Worth the wait. COOL learning,-N44X0IJEeWpogr5ZO8qxQ,0.833333333333
+205,Best course I've taken!! :),-N44X0IJEeWpogr5ZO8qxQ,0.5
+206,Simply Amazing!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+207,"Following the overall quality of this Specialization, this course was excellent. From the content, to the assesments, material and teachers. This course is a really good starting point to become an expert in Machine Learning techniques.",-N44X0IJEeWpogr5ZO8qxQ,0.642857142857
+208,Awesome course! The session on EM algorithm is revealing!,-N44X0IJEeWpogr5ZO8qxQ,0.818181818182
+209,A little too superficial and hand waving.,-N44X0IJEeWpogr5ZO8qxQ,0.875
+210,"The last weeks, we went through the material a little bit too fast.",-N44X0IJEeWpogr5ZO8qxQ,0.733333333333
+211,the homework is getting easy,-N44X0IJEeWpogr5ZO8qxQ,1.0
+212,"A perfect and balanced introduction to the subjects, adding theory and practice beautifully.",-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+213,"Like all the courses in this specialization so far, the material has been good. The reason for only 4 stars rather than 5 is the difficulty in getting questions answered in a timely manner. There don't seem to be any active mentors for this class.",-N44X0IJEeWpogr5ZO8qxQ,0.607843137255
+214,"excellent material! It would be nice, however, to mention some reading material, books or articles, for those interested in the details and the theories behind the concepts presented in the course. ",-N44X0IJEeWpogr5ZO8qxQ,0.540540540541
+215,This was AWESOME!,-N44X0IJEeWpogr5ZO8qxQ,0.75
+216,Great course like the others,-N44X0IJEeWpogr5ZO8qxQ,0.8
+217,Another great hit by Emily and Carlos!!! Excellent Course!!!,-N44X0IJEeWpogr5ZO8qxQ,0.636363636364
+218,Interesting content but explanations are less clear with respect to the other courses of the ML Specialization,-N44X0IJEeWpogr5ZO8qxQ,0.764705882353
+219,"This course started off easy, and became challenging in the last 3 weeks. But a lot of details were covered in the slides and also the forum helped deepen my understanding of the material, and I was able to get through the course. I enjoyed the course!",-N44X0IJEeWpogr5ZO8qxQ,0.5
+220,"This is the toughest courses in the specialization so far. But if you manage to complete it, you'll have some really advance skills under your belt. ",-N44X0IJEeWpogr5ZO8qxQ,0.677419354839
+221,"Yet another really excellent course in this series - the best online course I have ever taken. I really appreciate the fairly high level on which it is taught, and the speed with which they go through the material - it is not here to entertain or waste time, but to get straight to the point - what can I do, and how do I use open source tools to do it? ",-N44X0IJEeWpogr5ZO8qxQ,0.623376623377
+222,"I used to run into a wall at work trying to train models with recursive partitioning or neural nets because of the long time they took to train for high dimensional data. These clustering techniques are an immense help.Awesome course, with a brilliant instructor and brilliant assignments.",-N44X0IJEeWpogr5ZO8qxQ,0.730769230769
+223,I did not understand LDA from the course materials.,-N44X0IJEeWpogr5ZO8qxQ,0.7
+224,Very good course. Too long interval between modules make hard for non-Python developers. Easy to forget some of the Python structures.,-N44X0IJEeWpogr5ZO8qxQ,0.692307692308
+225,Superb course!,-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+226,Excellent course. Nice selection of algorithms reviewed - all clearly explained with sample implementations.,-N44X0IJEeWpogr5ZO8qxQ,0.5625
+227,less complex exercises to check and validate,-N44X0IJEeWpogr5ZO8qxQ,0.857142857143
+228,very good course but the last few topics could be improved with better assignments that could be broken down into smaller sub assignments,-N44X0IJEeWpogr5ZO8qxQ,0.739130434783
+229,very good course,-N44X0IJEeWpogr5ZO8qxQ,1.0
+230,"Exceptional course! This is challenging material for me, but it's presented in such a coherent manner that you can't help but absorb it.",-N44X0IJEeWpogr5ZO8qxQ,0.7
+231,Sets a new benchmark for the specialization !!! A great offering on Machine Learning :),-N44X0IJEeWpogr5ZO8qxQ,0.666666666667
+232,This course rushed through the material at the end. ,-N44X0IJEeWpogr5ZO8qxQ,0.8
+233,Very good course nice practical approach. I was kind of surprised that hierarchical clustering was kept at the end and discussed only marginally since it is a widely used approach.I liked the part about LDA but IMHO I would have liked more discussion about fundamental techniques rather than such an advanced method.Too focus on text data. Most of the application I worked on have limited textual data.,-N44X0IJEeWpogr5ZO8qxQ,0.675675675676
+234,"The specialization has a good quality on average. I started doing this course immediately after it went open. I had a feeling that the quality of the course went down (questions were often unclear and it took time to figure out what is expected as an answer). However, many problems were solved quite fast and teaching stuff is really helpful. I still would like to see more about MapReduce in-depth in this course. I did not have a feeling that it was covered sufficiently (only theory, no hands-on material). In general, hands-on material was great and useful.",-N44X0IJEeWpogr5ZO8qxQ,0.55652173913
+235,"Great course. Some week were tough others too easy, but general a very interesting course.",-N44X0IJEeWpogr5ZO8qxQ,0.722222222222
+236,Great! ,-N44X0IJEeWpogr5ZO8qxQ,0.5
+237,Another great introduction. The assignments are notably a little bit harder than the previous courses.,-N44X0IJEeWpogr5ZO8qxQ,0.705882352941
+238,Not for the faint of heart but this course does a really good job of explaining clustering (and retrieval) of images and text. It includes several programming assignments which can be tackled with minimal programming experience if one perseveres.,-N44X0IJEeWpogr5ZO8qxQ,0.697674418605
