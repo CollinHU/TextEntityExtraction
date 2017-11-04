@@ -8,6 +8,6 @@ print(len(course_id_list))
 
 for id in course_id_list:
     course = df[df['course_id']==id]
-    print(len(course.index.values))
+#    print(len(course.index.values))
     course.to_csv('data/course/course_{}.csv'.format(id))
 print('finished')

@@ -62,14 +62,20 @@ for key, value in s_level_dict.items():
 dic = {'key':key_list,'id':value_list}
 data = pd.DataFrame(data = dic)
 #remove redundant id for one key word
+
+data['key_len'] = data['key'].apply(lambda x: len(x))
+data = data[data['key_len'] > 2]
+
 data['id'] = data['id'].apply(lambda x: list(set(x)))
 data['length'] = data['id'].apply(lambda x:len(x))
 
 data = data[['key','length','id']]
+data.reset_index(inplace=True)
+data.drop('index',axis = 1, inplace=True)
 
 data.to_csv('data/dictionary_01.csv')
-data = data[data['length'] > 10]
 
+data = data[data['length'] > 10]
 data.to_csv('data/dictionary_01_l10.csv')
 
 print('finished')
