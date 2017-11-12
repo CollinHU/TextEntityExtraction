@@ -1,3 +1,101 @@
 ,opinion,target
 0,{u'good': [u'Good']},"{u'cours': [u'course'], u'lot': [u'lot']}"
 1,"{u'capston': [u'capstone'], u'great': [u'great'], u'busi': [u'busy'], u'plan': [u'planned'], u'good': [u'good']}","{u'applic': [u'applications'], u'cours': [u'course', u'courses'], u'schedul': [u'schedules'], u'intuit': [u'intuition'], u'project': [u'project'], u'exampl': [u'examples'], u'instructor': [u'instructors']}"
+2,"{u'stuff': [u'stuffs'], u'practic': [u'practical'], u'nice': [u'Nice', u'nice']}","{u'topic': [u'topic'], u'analysi': [u'analysis'], u'part': [u'part'], u'cours': [u'course']}"
+3,{},"{u'cluster': [u'Clustering'], u'retriev': [u'Retrieval']}"
+4,{u'grad': [u'grad']},"{u'differ': [u'difference'], u'instructor': [u'instructor'], u'student': [u'student']}"
+5,{u'awesom': [u'awesome']},{u'cours': [u'course']}
+6,"{u'mani': [u'many'], u'use': [u'useful'], u'difficult': [u'difficult']}",{u'knowledg': [u'knowledge']}
+7,{},{}
+8,{},{u'concept': [u'concepts']}
+9,"{u'sad': [u'sad'], u'previous': [u'previous']}","{u'lda': [u'LDA'], u'cours': [u'courses'], u'specif': [u'specificity'], u'qualiti': [u'quality'], u'topic': [u'topics'], u'dendrogram': [u'Dendrograms'], u'special': [u'Specialization']}"
+10,"{u'differ': [u'different'], u'good': [u'good'], u'first': [u'first']}","{u'encount': [u'encounter'], u'cours': [u'course'], u'understand': [u'understanding'], u'algorithm': [u'algorithms'], u'learn': [u'Learning']}"
+11,{u'nice': [u'nice']},{u'cours': [u'course']}
+12,{u'good': [u'good']},"{u'cours': [u'course'], u'succinct': [u'succinct']}"
+13,"{u'real': [u'real'], u'use-cas': [u'use-case']}","{u'lot': [u'lots'], u'valu': [u'value']}"
+14,{u'great': [u'Great']},"{u'machin': [u'machine'], u'capston': [u'Capstone'], u'cours': [u'course'], u'middl': [u'middle']}"
+15,{u'great': [u'great']},"{u'cours': [u'course'], u'thank': [u'Thanks']}"
+16,{u'necessari': [u'necessary']},"{u'tool': [u'tools'], u'background': [u'background']}"
+17,{},{}
+18,"{u'good': [u'Good'], u'deep': [u'deep']}","{u'project': [u'Project'], u'ml': [u'ML'], u'dive': [u'dive'], u'cours': [u'Course']}"
+19,{},{}
+20,{},"{u'ml': [u'ML'], u'web': [u'Web']}"
+21,"{u'great': [u'great'], u'other': [u'other', u'other']}","{u'knn': [u'Knn'], u'cours': [u'courses', u'course', u'course', u'course'], u'retriev': [u'retrieval'], u'tree': [u'trees'], u'cluster': [u'clustering'], u'set': [u'set'], u'special': [u'specialization']}"
+22,{u'excel': [u'Excellent']},"{u'cours': [u'course'], u'lot': [u'lot']}"
+23,{u'interest': [u'interesting']},{u'cours': [u'course']}
+24,"{u'good': [u'good'], u'interest': [u'interesting']}","{u'cours': [u'course'], u'knowledg': [u'knowledge'], u'lectur': [u'lectures'], u'part': [u'part'], u'assign': [u'assignments'], u'special': [u'specialization', u'specialization', u'specialization']}"
+25,{u'capston': [u'capstone']},"{u'project': [u'projects'], u'cours': [u'course']}"
+26,"{u'challeng': [u'challenging'], u'complex': [u'complex'], u'great': [u'great']}","{u'sens': [u'sense'], u'accomplish': [u'accomplishment']}"
+27,{},{}
+28,{},{}
+29,{},{}
+30,{},{}
+31,{},{}
+32,{},{}
+33,"{u'great': [u'Great'], u'strong': [u'strong'], u'long': [u'long']}","{u'cours': [u'course'], u'assign': [u'assignments'], u'background': [u'background'], u'time': [u'times', u'time']}"
+34,"{u'great': [u'great'], u'first': [u'first']}","{u'week': [u'week'], u'cours': [u'courses'], u'feedback': [u'feedback'], u'materi': [u'materials', u'material'], u'learner': [u'learners'], u'method': [u'method'], u'understand': [u'understanding'], u'time': [u'time'], u'cliff': [u'cliff'], u'section': [u'section'], u'special': [u'specialization'], u'view': [u'viewing']}"
+35,{},{}
+36,{},{}
+37,"{u'thank': [u'Thanks'], u'fast': [u'fast'], u'import': [u'important'], u'mani': [u'many'], u'special': [u'special'], u'more': [u'more']}","{u'end': [u'end'], u'professor': [u'professor'], u'time': [u'time'], u'topic': [u'topic', u'topics'], u'pace': [u'pace'], u'learn': [u'learning']}"
+38,{u'excel': [u'Excellent']},{u'cours': [u'course']}
+39,"{u'lucid': [u'lucid'], u'simpl': [u'simple']}","{u'code': [u'codes'], u'languag': [u'language'], u'emili': [u'Emily']}"
+40,{},{}
+41,{u'amaz': [u'amazing']},{u'cours': [u'Course']}
+42,{},{}
+43,"{u'challeng': [u'challenging'], u'dimension': [u'dimensionality']}","{u'capston': [u'capstone'], u'cours': [u'course'], u'reduct': [u'reduction']}"
+44,{u'good': [u'good']},{u'one': [u'one']}
+45,"{u'simpl': [u'simple'], u'practic': [u'practical']}",{u'veri': [u'Very']}
+46,"{u'unsupervis': [u'unsupervised'], u'basic': [u'basic'], u'great': [u'great'], u'advanc': [u'advanced']}","{u'job': [u'job'], u'concept': [u'concepts'], u'fox': [u'Fox'], u'cours': [u'course'], u'learn': [u'learning']}"
+47,"{u'easi': [u'easy'], u'awesom': [u'awesome']}","{u'cours': [u'course'], u'one': [u'one']}"
+48,{u'good': [u'good']},"{u'materi': [u'material'], u'lectur': [u'lectures'], u'hand': [u'hands']}"
+49,"{u'mani': [u'many'], u'good': [u'good']}","{u'concept': [u'concepts'], u'carlo': [u'Carlos'], u'emili': [u'Emily']}"
+50,"{u'great': [u'Great'], u'practic': [u'practical']}","{u'cours': [u'course'], u'knowledg': [u'knowledge']}"
+51,{},{}
+52,"{u'magnific': [u'magnificent'], u'great': [u'great']}","{u'instructor': [u'instructors'], u'cours': [u'course', u'course', u'courses'], u'theori': [u'theory'], u'one': [u'one']}"
+53,{u'use': [u'useful']},"{u'techniqu': [u'techniques'], u'deep': [u'Deep'], u'learn': [u'learning']}"
+54,"{u'mani': [u'many'], u'specif': [u'specific']}","{u'depth': [u'depth'], u'cours': [u'course'], u'idea': [u'ideas']}"
+55,"{u'use': [u'useful', u'useful'], u'smaller': [u'smaller'], u'practic': [u'practical'], u'general': [u'general'], u'write': [u'write'], u'good': [u'good']}","{u'etho': [u'ethos'], u'week': [u'Week'], u'cours': [u'course', u'course'], u'aspect': [u'aspects'], u'insight': [u'insight'], u'ml': [u'ML'], u'tool': [u'tools'], u'knowledg': [u'knowledge'], u'detail': [u'details'], u'intuit': [u'intuition'], u'content': [u'content'], u'cluster': [u'Clustering'], u'code': [u'code'], u'way': [u'ways'], u'whole': [u'whole'], u'assign': [u'assignment'], u'feedback': [u'feedback']}"
+56,{},{}
+57,"{u'hand-on': [u'hand-on'], u'real': [u'real']}","{u'machin': [u'machine'], u'explan': [u'explanation'], u'analyt': [u'analytics'], u'algorithm': [u'algorithms']}"
+58,{u'strong': [u'strong']},"{u'cours': [u'course'], u'foundat': [u'foundations']}"
+59,"{u'few': [u'few'], u'first': [u'first']}","{u'read': [u'read'], u'review': [u'review'], u'materi': [u'materials'], u'lot': [u'lot'], u'idea': [u'idea']}"
+60,{u'great': [u'great']},"{u'pace': [u'pace'], u'onward': [u'onwards'], u'cours': [u'course']}"
+61,"{u'great': [u'great'], u'excel': [u'Excellent'], u'practic': [u'practical']}","{u'use': [u'use'], u'cours': [u'course']}"
+62,"{u'unsupervis': [u'unsupervised'], u'deep': [u'deep'], u'sever': [u'several']}","{u'task': [u'tasks'], u'understand': [u'understanding'], u'algorithm': [u'algorithms']}"
+63,"{u'previous': [u'previous'], u'next': [u'next']}","{u'capston': [u'capstone'], u'cours': [u'courses', u'course']}"
+64,"{u'easi': [u'easy'], u'detail': [u'Detailed'], u'sever': [u'several']}","{u'cluster': [u'clustering'], u'approach': [u'approaches'], u'lot': [u'lot'], u'coverag': [u'coverage']}"
+65,{},{}
+66,{u'best': [u'best']},"{u'machin': [u'machine'], u'cours': [u'course']}"
+67,"{u'advanc': [u'advanced'], u'long': [u'long'], u'wash': [u'washing'], u'admit': [u'admittedly'], u'allot': [u'allotted'], u'super': [u'super'], u'difficult': [u'difficult']}","{u'code': [u'code'], u'time': [u'time'], u'list': [u'list'], u'period': [u'period'], u'topic': [u'topics'], u'cours': [u'course', u'Course'], u'lot': [u'Lots'], u'stuff': [u'stuff']}"
+68,{u'wonder': [u'wonderful']},"{u'cours': [u'course'], u'beginn': [u'beginner'], u'learn': [u'learning']}"
+69,{},{}
+70,"{u'differ': [u'different'], u'detail': [u'detailed'], u'same': [u'same'], u'separ': [u'separate'], u'extens': [u'extensive'], u'interest': [u'interesting', u'interesting'], u'more': [u'more']}","{u'task': [u'tasks'], u'iceberg': [u'iceberg'], u'algorithm': [u'algorithms'], u'topic': [u'topics', u'topic'], u'cours': [u'courses', u'course'], u'treatment': [u'treatment'], u'method': [u'methods'], u'subject': [u'subjects']}"
+71,{u'help': [u'helpful']},"{u'cours': [u'course'], u'research': [u'researcher']}"
+72,"{u'part-tim': [u'part-time'], u'motiv': [u'motivated'], u'best': [u'best']}","{u'cours': [u'course'], u'learner': [u'learner'], u'special': [u'specialization']}"
+73,"{u'practic': [u'practical'], u'interest': [u'interesting']}",{u'cours': [u'course']}
+74,"{u'optim': [u'optimal'], u'keen': [u'keen'], u'more': [u'more']}","{u'video': [u'video'], u'someon': [u'someone'], u'background': [u'background'], u'math': [u'math']}"
+75,{u'good': [u'Good']},{u'cours': [u'course']}
+76,{u'great': [u'Great']},{u'thank': [u'thanks']}
+77,{u'best': [u'Best']},{}
+78,{u'excel': [u'Excellent']},{u'cours': [u'course']}
+79,{u'good': [u'good']},{u'cours': [u'course']}
+80,{u'thorough': [u'thorough']},"{u'materi': [u'material'], u'good': [u'Good'], u'understand': [u'understanding']}"
+81,{},{}
+82,{u'best': [u'Best']},{u'i': [u'I']}
+83,{},{}
+84,"{u'good': [u'good'], u'overal': [u'overall']}","{u'cours': [u'course', u'course'], u'point': [u'point'], u'materi': [u'material'], u'qualiti': [u'quality'], u'asses': [u'assesments'], u'special': [u'Specialization']}"
+85,{},{}
+86,{},{}
+87,{u'last': [u'last']},"{u'week': [u'weeks'], u'materi': [u'material']}"
+88,{},{}
+89,{u'amaz': [u'amazing']},"{u'cours': [u'course'], u'experi': [u'experience']}"
+90,"{u'fantast': [u'Fantastic'], u'usual': [u'usual']}",{u'cours': [u'course']}
+91,"{u'perfect': [u'perfect'], u'balanc': [u'balanced']}","{u'theori': [u'theory'], u'subject': [u'subjects'], u'practic': [u'practice'], u'introduct': [u'introduction']}"
+92,{u'time': [u'timely']},"{u'materi': [u'material'], u'cours': [u'courses'], u'manner': [u'manner'], u'special': [u'specialization']}"
+93,{u'excel': [u'excellent']},"{u'materi': [u'material'], u'concept': [u'concepts'], u'detail': [u'details'], u'cours': [u'course'], u'theori': [u'theories']}"
+94,{},{}
+95,{u'great': [u'Great']},"{u'other': [u'others'], u'cours': [u'course']}"
+96,"{u'intermediate-level': [u'intermediate-level'], u'interest': [u'interesting']}","{u'topic': [u'topic'], u'instructor': [u'instructor'], u'assign': [u'assignments']}"
+97,{u'great': [u'great']},"{u'cours': [u'Course'], u'hit': [u'hit'], u'emili': [u'Emily']}"
+98,{u'other': [u'other']},"{u'explan': [u'explanations'], u'content': [u'content'], u'cours': [u'courses'], u'special': [u'Specialization'], u'respect': [u'respect']}"
+99,"{u'tough': [u'tough'], u'great': [u'great'], u'4th': [u'4th'], u'simpl': [u'simple']}","{u'explan': [u'explanation'], u'concept': [u'concepts'], u'univers': [u'University'], u'fox': [u'Fox'], u'compon': [u'components'], u'job': [u'job'], u'cours': [u'course'], u'formula': [u'formulas']}"
