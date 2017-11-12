@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-df = pd.read_csv('data/step1_data.csv',index_col = 0)
+df = pd.read_csv('data/parsed_sent.csv',index_col = 0)
 
 course_id_list = df['course_id'].unique()
 print(len(course_id_list))
