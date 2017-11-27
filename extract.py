@@ -8,8 +8,8 @@ from nltk.corpus import stopwords
 import pandas as pd
 
 from nltk.parse.stanford import StanfordDependencyParser
-path_to_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser.jar'
-path_to_models_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
+path_to_jar = '/Users/collin/stanford/stanford-parser-full-2017-06-09/stanford-parser.jar'
+path_to_models_jar = '/Users/collin/stanford/stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
 dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
 
 stemmer = SnowballStemmer('english')

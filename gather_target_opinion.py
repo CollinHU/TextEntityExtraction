@@ -9,8 +9,8 @@ from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
 
 from nltk.parse.stanford import StanfordDependencyParser
-path_to_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser.jar'
-path_to_models_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
+path_to_jar = '/Users/collin/stanford/stanford-parser-full-2017-06-09/stanford-parser.jar'
+path_to_models_jar = '/Users/collin/stanford/stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
 dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
 
 stemmer = SnowballStemmer('english')
@@ -157,10 +157,10 @@ def gather_target_opinion(s):
                         w = stem(dep_list[i]['word'])
                         if w in target_list and dep_list[i]['tag'][:2] == 'NN':
                             dict_add(target_dict, w, dep_list[i]['word'])
-    for key in target_dict.keys():
-        target_dict[key] = list(set(target_dict[key]))
-    for key in opinion_dict.keys():
-        opinion_dict[key] = list(set(opinion_dict[key]))
+    #for key in target_dict.keys():
+    #    target_dict[key] = list(set(target_dict[key]))
+    #for key in opinion_dict.keys():
+    #    opinion_dict[key] = list(set(opinion_dict[key]))
 
     return target_dict,opinion_dict
 
@@ -191,13 +191,13 @@ f2 = open('target_list.txt','r')
 lines = f2.readlines()
 target_list = [line.split("\n")[0] for line in lines]
 
-print opinion_list
-print target_list
+print(opinion_list)
+print(target_list)
 
 sents = pd.read_csv('data.csv', index_col = 0)
 sents = sents['comment']
 #print(sents.head())
-print len(sents.index.values)
+print(len(sents.index.values))
 
 #opinion_size = len(opinion_list)
 #target_size = len(target_list)
