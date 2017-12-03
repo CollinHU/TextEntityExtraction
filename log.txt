@@ -5,3 +5,13 @@
 plan:
 first pruning target for each sentence
 then extract target phase
+
+above plan has finished
+
+4 Dec 2017
+1. cleaning data before processing it.
+2. extract target from each sentence
+3. extract target phase from each sentence
+
+plan
+mapping 

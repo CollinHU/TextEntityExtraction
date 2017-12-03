@@ -6,6 +6,7 @@ from nltk import wordpunct_tokenize
 import re
 from nltk.corpus import stopwords
 import pandas as pd
+from clean_data import process_sentence
 
 ##2017 12 3 using a different parser to parse sentence
 '''
@@ -177,6 +178,7 @@ def parse_comment(sents):
         extract_target_opinion(sent)
 
 sents = pd.read_csv('data.csv', index_col = 0)
+sents['comment'] = sents['comment'].apply(process_sentence)
 sents = sents['comment']#.iloc[:2]
 #print(sents.head())
 print(len(sents.index.values))
