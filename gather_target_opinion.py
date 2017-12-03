@@ -17,7 +17,7 @@ stemmer = SnowballStemmer('english')
 def stem(w):
     return stemmer.stem(w)
 
-DR_one = ['nsubj','dobj','xsubj','csubj','nmod','iobj']
+DR_one = ['nsubj','dobj','xsubj','csubj','nmod','iobj','xcomp']
 DR_two = ['amod']
 #DR_two = ['nsubj','dobj','xsubj','csubj','nsubjpass','nmod','iobj']
 DR_three = ['conj']
@@ -70,6 +70,9 @@ def gather_target_opinion(s):
                     i_list += index
                     
                 if len(i_list) > 0:
+                    if stem(node['word']) in opinion_list:
+                        #print(node['word'])
+                        H = True
                     for index in i_list:
                         #print(index)
                         opinion = stem(dep_list[index]['word'])
@@ -77,17 +80,18 @@ def gather_target_opinion(s):
                         if opinion in opinion_list:
                             H = True
                             break
+                    
                     if H == True:
+                        #R_1_1
+                        w = stem(node['word'])
+                        if w in target_list and node['tag'][:2] == 'NN':
+                            dict_add(target_dict, w, node['word'])
+                        #R_1_2
                         for index in i_list:
                             word = dep_list[index]
-                            #R_1_2
                             w = stem(word['word'])
                             if w in target_list and word['tag'][:2] == 'NN':
                                 dict_add(target_dict, w, word['word'])
-                            #R_1_1
-                            w = stem(node['word'])
-                            if w in target_list and node['tag'][:2] == 'NN':
-                                dict_add(target_dict, w, node['word'])
                         #R_4_2
                         for index in index_list:
                             if len(index) == 1:
@@ -119,51 +123,41 @@ def gather_target_opinion(s):
                 
             if len(i_list) > 0:
                 target = stem(node['word'])
-                #print(target)
                 if target in target_list:
-                    #print(target)
                     H = True
+                for index in i_list:
+                        #print(index)
+                        target = stem(dep_list[index]['word'])
+                        #print(opinion)
+                        if target in target_list:
+                            H = True
+                            break
                 
                 if H == True:
-                    for index in i_list:
-                        word = dep_list[index]
-                        w = stem(word['word'])
-                        #R_2_1
-                        if w in opinion_list and word['tag'][:2] == 'JJ':
+                    #R_2_1
+                    w = stem(node['word'])
+                    if node['tag'][:2] == 'JJ' and w in opinion_list:
                             dict_add(opinion_dict, w, word['word'])
-                            
-            H = False
-            if len(i_list) > 0:
-                for index in i_list:
-                    #print(index)
-                    target = stem(dep_list[index]['word'])
-                    #print(target)
-                    if target in target_list:
-                        H = True
-                        break
-                #R_2_2
-                if H == True:
+                    #R_2_2
                     for index in i_list:
                         opinion = dep_list[index]
                         w =stem(opinion['word'])
                         if w in opinion_list and opinion['tag'][:2] == 'JJ':
                             dict_add(opinion_dict, w, opinion['word']) 
                         
-                #R_3_2
-                for index in index_list:
-                    if len(index) == 1:
-                        continue
-                    for i in index:
-                        w = stem(dep_list[i]['word'])
-                        if w in target_list and dep_list[i]['tag'][:2] == 'NN':
-                            dict_add(target_dict, w, dep_list[i]['word'])
+                    #R_3_2
+                    for index in index_list:
+                        if len(index) == 1:
+                            continue
+                        for i in index:
+                            w = stem(dep_list[i]['word'])
+                            if w in target_list and dep_list[i]['tag'][:2] == 'NN':
+                                dict_add(target_dict, w, dep_list[i]['word'])
     #for key in target_dict.keys():
     #    target_dict[key] = list(set(target_dict[key]))
     #for key in opinion_dict.keys():
     #    opinion_dict[key] = list(set(opinion_dict[key]))
-
     return target_dict,opinion_dict
-
 def merge_dict(d1,d2):
     for key, value in d1.items():
         if key in d2.keys():
@@ -183,11 +177,11 @@ def parse_comment(sents):
         opinion_d = merge_dict(op,opinion_d)
     return target_d, opinion_d
 
-f1 = open('opinion_list.txt','r')
+f1 = open('opinion_list_1.txt','r')
 lines = f1.readlines()
 opinion_list =[line.split("\n")[0] for line in lines]
 
-f2 = open('target_list.txt','r')
+f2 = open('target_list_1.txt','r')
 lines = f2.readlines()
 target_list = [line.split("\n")[0] for line in lines]
 

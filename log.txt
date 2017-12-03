@@ -1,0 +1,7 @@
+28 Nov 2017
+1. use rule to extract opinion list and target list
+2. use tag to find target and opinion for each sentence
+3. use tag to extrct target phase
+plan:
+first pruning target for each sentence
+then extract target phase

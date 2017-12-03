@@ -1,0 +1,6 @@
+['good', 'bad', 'busi', 'fine', 'fast', 'quick', 'slow', 'easi']
+100
+1
+2
+3
+4

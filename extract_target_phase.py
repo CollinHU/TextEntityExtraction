@@ -58,6 +58,9 @@ def extract_target_phase(target_dict, s):
                     i_list += index
                     
                 if len(i_list) > 0:
+                    if stem(node['word']) in opinion_list:
+                        #print(node['word'])
+                        H = True
                     for index in i_list:
                         #print(index)
                         opinion = stem(dep_list[index]['word'])
@@ -65,10 +68,20 @@ def extract_target_phase(target_dict, s):
                         if opinion in opinion_list:
                             H = True
                             break
+                    
                     if H == True:
+                        #R_1_1
+                        w = stem(node['word'])
+                        if w in target_list and node['tag'][:2] == 'NN' and 'compound' in node['deps']:
+                            comp_index = node['deps']['compound'][0]
+                            comp_word = dep_list[comp_index]['word']
+                            comp_w = stem(comp_word)
+                            old_w = w
+                            new_w = comp_w + ' ' + w
+                            dict_update(target_dict, old_w, new_w, comp_word, node['word'])
+                        #R_1_2
                         for index in i_list:
                             word = dep_list[index]
-                            #R_1_2
                             w = stem(word['word'])
                             if w in target_list and word['tag'][:2] == 'NN' and 'compound' in word['deps']:
                                 comp_index = word['deps']['compound'][0]
@@ -77,15 +90,6 @@ def extract_target_phase(target_dict, s):
                                 old_w = w
                                 new_w = comp_w + ' ' + w
                                 dict_update(target_dict, old_w, new_w, comp_word, word['word'])
-                            #R_1_1
-                            w = stem(node['word'])
-                            if w in target_list and node['tag'][:2] == 'NN' and 'compound' in node['deps']:
-                                comp_index = node['deps']['compound'][0]
-                                comp_word = dep_list[comp_index]['word']
-                                comp_w = stem(comp_word)
-                                old_w = w
-                                new_w = comp_w + ' ' + w
-                                dict_update(target_dict, old_w, new_w, comp_word, node['word'])
     for _, node in sorted(dep.nodes.items()):
          if node['word'] is not None:
             dep_dict = dict(node['deps'])
@@ -116,21 +120,32 @@ def extract_target_phase(target_dict, s):
                 i_list += index
             
             if len(i_list) > 0:
+                target = stem(node['word'])
+                if target in target_list:
+                    H = True
+                for index in i_list:
+                        #print(index)
+                        target = stem(dep_list[index]['word'])
+                        #print(opinion)
+                        if target in target_list:
+                            H = True
+                            break
+            if H == True:
                 #R_3_2
-                for index in index_list:
-                    if len(index) == 1:
-                        continue
-                    for i in index:
-                        word = dep_list[i]
-                        w = stem(word['word'])
-                        if w in target_list and word['tag'][:2] == 'NN' and 'compound' in word['deps']:
+                if len(i_list) > 0:
+                    for index in index_list:
+                        if len(index) == 1:
+                            continue
+                        for i in index:
+                            word = dep_list[i]
+                            w = stem(word['word'])
+                            if w in target_list and word['tag'][:2] == 'NN' and 'compound' in word['deps']:
                                 comp_index = word['deps']['compound'][0]
                                 comp_word = dep_list[comp_index]['word']
                                 comp_w = stem(comp_word)
                                 old_w = w
                                 new_w = comp_w + ' ' + w
                                 dict_update(target_dict, old_w, new_w, comp_word, word['word'])
-
 
 
 
@@ -146,11 +161,11 @@ def update_target(sents, target):
     return target_d
 
 
-f1 = open('opinion_list.txt','r')
+f1 = open('opinion_list_1.txt','r')
 lines = f1.readlines()
 opinion_list =[line.split("\n")[0] for line in lines]
 
-f2 = open('target_list.txt','r')
+f2 = open('target_list_1.txt','r')
 lines = f2.readlines()
 target_list = [line.split("\n")[0] for line in lines]
 

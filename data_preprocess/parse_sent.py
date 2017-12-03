@@ -6,10 +6,19 @@ import re
 from nltk.corpus import stopwords
 import pandas as pd
 
+##2017 12 3 using a different parser to parse sentence
+'''
 from nltk.parse.stanford import StanfordDependencyParser
 path_to_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser.jar'
 path_to_models_jar = '/home/collin/stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
 dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
+'''
+from nltk.parse.corenlp import CoreNLPServer, CoreNLPDependencyParser
+path_to_jar = '/Users/collin/stanford/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0.jar'
+path_to_models_jar = '/Users/collin/stanford/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-models.jar'
+server = CoreNLPServer(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
+server.start()
+dependency_parser = CoreNLPDependencyParser()
 
 
 stemmer = SnowballStemmer('english')
