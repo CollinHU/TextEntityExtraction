@@ -27,13 +27,13 @@
 25,{},"{'good': ['good'], 'cours': ['course'], 'capston': ['capstone'], 'project': ['projects']}"
 26,"{'complex': ['complex'], 'challeng': ['challenging'], 'great': ['great']}","{'materi': ['material'], 'way': ['way'], 'sens': ['sense'], 'accomplish': ['accomplishment']}"
 27,{'excel': ['Excellent']},{'cours': ['Course']}
-28,{'practic': ['practical']},{}
+28,"{'sophist': ['sophisticated'], 'friend': ['friendly'], 'practic': ['practical']}",{'instruct': ['instructions']}
 29,{'amaz': ['Amazing']},"{'cours': ['course'], 'lot': ['lot']}"
 30,{'awesom': ['awesome']},"{'cluster': ['clustering'], 'cours': ['course']}"
 31,{},{'special': ['specialization']}
 32,{'help': ['helpful']},{}
 33,"{'great': ['Great'], 'strong': ['strong'], 'long': ['long']}","{'cours': ['course'], 'time': ['times', 'time'], 'math': ['maths'], 'background': ['background'], 'assign': ['assignments']}"
-34,"{'great': ['great'], 'non-exist': ['non-existent'], 'first': ['first'], 'fine': ['fine']}","{'cours': ['courses', 'course'], 'special': ['specialization'], 'time': ['time', 'time'], 'materi': ['materials', 'material'], 'instructor': ['instructors'], 'week': ['week', 'week', 'week'], 'view': ['viewing'], 'understand': ['understanding'], 'lda': ['LDA'], 'section': ['section'], 'method': ['method'], 'cliff': ['cliff'], 'feedback': ['feedback'], 'learner': ['learners']}"
+34,"{'great': ['great'], 'non-exist': ['non-existent'], 'first': ['first'], 'fine': ['fine']}","{'cours': ['courses', 'course'], 'special': ['specialization'], 'time': ['time', 'time'], 'materi': ['materials', 'material'], 'instructor': ['instructors'], 'week': ['week', 'week', 'week'], 'view': ['viewing'], 'understand': ['understanding'], 'lda': ['LDA'], 'section': ['section'], 'method': ['method'], 'instruct': ['instruction'], 'cliff': ['cliff'], 'feedback': ['feedback'], 'learner': ['learners']}"
 35,{'great': ['great']},{}
 36,{'impress': ['IMPRESSIVE']},{'cours': ['COURSE']}
 37,"{'mani': ['many'], 'fast': ['fast'], 'special': ['special'], 'import': ['important'], 'more': ['more']}","{'cours': ['course', 'course'], 'topic': ['topic', 'topics'], 'pace': ['pace'], 'end': ['end'], 'machin': ['Machine'], 'learn': ['learning'], 'time': ['time'], 'thank': ['Thanks']}"

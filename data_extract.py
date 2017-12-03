@@ -34,7 +34,7 @@ DR_two = ['amod']
 DR_three = ['conj']
 DR = DR_one + DR_three
 
-opinion_list = ['good','bad','busy','fine','fast','quick','slow','easy']
+opinion_list = ['helpful','practical','sophisticated','good','bad','busy','fine','fast','quick','slow','easy']
 opinion_list = [stem(item) for item in opinion_list]
 print(opinion_list)
 target_list = []
