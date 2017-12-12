@@ -20,17 +20,17 @@ def calculate_language_ratios(text):
     ratio =float(len(common_elements))/sen_size
     return ratio
 
-data = pd.read_csv('data/raw_data.csv',quoting=csv.QUOTE_ALL)
+data = pd.read_csv('../data/step1_data.csv',quoting=csv.QUOTE_ALL)
 data.dropna(inplace = True)
-
+print("before cleaning, there are ",len(data)," comments")
 
 comments = data['comment']
-print(comments.count())
+#print(comments.count())
 comments = comments.apply(lambda s: re.sub("\"",'',s))
 comments = comments.apply(lambda s: re.sub('\n',' ',s))
 comments = comments.apply(lambda s: re.sub('\s+',' ',s))
 #comments.dropna()
-print type(comments)
+#print type(comments)
 
 course_id = data['course_id']
 
@@ -47,10 +47,10 @@ new_data['ratio'] = new_data['comment'].apply(calculate_language_ratios)
 
 #print comments['ratio']
 new_data = new_data[new_data['ratio'] >= 0.5]
-print(new_data.head(5))
-print(new_data.count())
+#print(new_data.head(5))
+print("bafter cleaning, there are ",len(new_data)," comments")
 
 #new_data.drop('index',axis = 1, inplace=True)
 new_data.reset_index(inplace=True)
 new_data.drop('index', axis = 1, inplace = True)
-new_data.to_csv('data/step1_data.csv',header = True)
+new_data.to_csv('../data/step2_data.csv',header = True)

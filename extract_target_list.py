@@ -189,12 +189,19 @@ target_size = len(target_list)
 sents.apply(parse_comment)
 count = 1
 print(count)
+server.stop()
 while(opinion_size != len(opinion_list) or target_size != len(target_list)):
-    opinion_size = len(opinion_list)
-    target_size = len(target_list)
-    sents.apply(parse_comment)
-    count += 1
-    print(count)
+    try:
+        server.start()
+        dependency_parser = CoreNLPDependencyParser()
+        opinion_size = len(opinion_list)
+        target_size = len(target_list)
+        sents.apply(parse_comment)
+        count += 1
+        print(count)
+        server.stop()
+    except:
+        print('something wrong')
 
 f1 = open('opinion_list_1.txt','w')
 f2 = open('target_list_1.txt','w')
