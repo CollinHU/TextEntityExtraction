@@ -37,7 +37,7 @@ DR = DR_one + DR_three
 #opinion_list = ['helpful','practical','sophisticated','good','bad','busy','fine','fast','quick','slow','easy']
 #opinion_list = [stem(item) for item in opinion_list]
 
-data_file = "course_dPkbnh6zEeWP0w4yK2369w"
+data_file = "course_meQ0ic9uEeWu4RLrx6VBYw"
 opinion_file = "opinion_list.txt"
 target_file = "../result/{}_target_list.txt".format(data_file)
 data_file = "../data/course/" + data_file + ".csv"
@@ -201,9 +201,10 @@ target_size = len(target_list)
 count = 1
 print(count)
 for i in range(size):
-	if (i + 1) % 400 == 0:
+	if (i + 1) % 300 == 0:
 		server.stop()
 		server.start()
+	#print(i)
 	parse_comment(sents[i])
 print("finish iteration ", count)
 
@@ -217,9 +218,10 @@ while(opinion_size != len(opinion_list) or target_size != len(target_list)):
         opinion_size = len(opinion_list)
         target_size = len(target_list)
         for i in range(size):
-        	if (i + 1) % 400 == 0:
+        	if (i + 1) % 300 == 0:
         		server.stop()
         		server.start()
+        	#print(i)
         	parse_comment(sents[i])
         print("finish iteration ", count)
         server.stop()

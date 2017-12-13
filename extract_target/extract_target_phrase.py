@@ -97,7 +97,7 @@ def update_target(sents):
 #lines = f1.readlines()
 #opinion_list =[line.split("\n")[0] for line in lines]
 
-data_file = "course_dPkbnh6zEeWP0w4yK2369w"
+data_file = "course_meQ0ic9uEeWu4RLrx6VBYw"
 target_file = "../result/{}_target_list.txt".format(data_file)
 target_summary = "../result/{}_transaction.csv".format(data_file)
 data_file = "../data/course/" + data_file + ".csv"
@@ -119,7 +119,7 @@ size = len(df)
 target_dict = []
 for i in range(size):
     #print(i)
-    if (i+1) % 400 == 0:
+    if (i+1) % 300 == 0:
         server.stop()
         server.start()
     dic = update_target(sents[i])

@@ -18,7 +18,7 @@ def matching(key_one, key_two):
     else:
         return False
 
-summary_file = "course_dPkbnh6zEeWP0w4yK2369w"
+summary_file = "course_meQ0ic9uEeWu4RLrx6VBYw"
 filtered_summary = "../result/{}_target_filtered.txt".format(summary_file)
 summary_file = "../result/"+ summary_file + "_transaction.csv"
 
@@ -29,6 +29,9 @@ targets = transaction['target'].values
 
 size = len(targets)
 threshold = int(0.01*size)
+phrase_threshold = 0
+if size > 300:
+    phrase_threshold = 1
 
 G_dict = {}
 for i in range(size):
@@ -59,7 +62,7 @@ for key in G_dict.keys():
 
 filter_dict = {}
 for key in new_dict.keys():
-    if len(word_tokenize(key)) > 1:
+    if len(word_tokenize(key)) > 1 and G_dict[key] > phrase_threshold:
         filter_dict[key] = G_dict[key]
     elif new_dict[key] > threshold:
         filter_dict[key] = new_dict[key]

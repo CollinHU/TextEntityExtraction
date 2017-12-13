@@ -1,0 +1,243 @@
+,comment,target
+0,Excellent course material,"{'cours': ['course'], 'materi': ['material']}"
+1,Gave me a footing on Server-side Development. I recommend it!,{'server-sid develop': ['Server-side Development']}
+2,Excellent introduction to Server-side development. I have used PHP for some similar but Node really rules!!,"{'introduct': ['introduction'], 'develop': ['development'], 'php': ['PHP'], 'node': ['Node']}"
+3,Very bad video quality. The teacher is obviously bored by this course and does not put much effort in the creation process. ,"{'qualiti': ['quality'], 'teacher': ['teacher'], 'cours': ['course'], 'effort': ['effort'], 'creation process': ['creation process']}"
+4,very good,{}
+5,"It was great experience. Thank you, professor ","{'experi': ['experience'], 'professor': ['professor']}"
+6,Awesome course. Everything explained in details and with great quality.,"{'cours': ['course'], 'everyth': ['Everything'], 'detail': ['details'], 'qualiti': ['quality']}"
+7,This the best course available on Node.js,"{'cours': ['course'], 'node.j': ['Node.js']}"
+8,Excellent introduction to NodeJS. The professor is too good ,"{'introduct': ['introduction'], 'nodej': ['NodeJS'], 'professor': ['professor']}"
+9,good enough,{'enough': ['enough']}
+10,"Really great course! I feel like I learned a lot, and was even forced to dig a little deeper on my own than other courses. ","{'cours': ['courses', 'course'], 'lot': ['lot']}"
+11,"Wow! So much is covered in this part of the course. I know we only scratched the surface but everything from the quick setup of an API server using tools like Loopback to doing simple password auth and advanced Facebook authentication, and all of it connected to a MongoDB backend. Very useful!","{'part': ['part'], 'cours': ['course'], 'surfac': ['surface'], 'everyth': ['everything'], 'setup': ['setup'], 'api server': ['API server'], 'tool': ['tools'], 'password auth': ['password auth'], 'facebook authent': ['Facebook authentication'], 'mongodb backend': ['MongoDB backend']}"
+12,A good Introduction to Server Side Programming in MEAN Stack,"{'introduct': ['Introduction'], 'server side program': ['Server Side Programming'], 'mean stack': ['MEAN Stack']}"
+13, I really enjoyed this training and I intend to deepen my knowledge in NodeJS. Thank You ,"{'train': ['training'], 'knowledg': ['knowledge'], 'nodej': ['NodeJS']}"
+14,Good course,{'cours': ['course']}
+15,It is very good course. Teachs basics of NodeJs and backend and also gives some tricks. I recommend this course whoever want to learn NodeJs.,"{'cours': ['course'], 'basic': ['basics'], 'nodej': ['NodeJs'], 'trick': ['tricks']}"
+16,thanks,{'thank': ['thanks']}
+17,One of the best courses I ever took. The course material is amazing with proper instructions. More focus is put on building basics which is the need in the present world.,"{'cours': ['courses'], 'cours materi': ['course material'], 'instruct': ['instructions'], 'focus': ['focus'], 'build basic': ['building basics'], 'world': ['world']}"
+18,"Very challenging, the lecture are really deep and could be improve overall really helpful!",{'lectur': ['lecture']}
+19,The course is excellent. The professor is very clear and presents many concepts and resources usefuls.,"{'cours': ['course'], 'professor': ['professor'], 'concept': ['concepts'], 'resourc use': ['resources usefuls']}"
+20,Its good to get started with server side development with node.,"{'server side develop': ['server side development'], 'node': ['node']}"
+21,Excellent course to learn a lot about back end server development. The coverage is not only for database and APIs but touches upon user authentication etc. as well. I have a good grounding on server side development now. Thanks.,"{'cours': ['course'], 'lot': ['lot'], 'end server develop': ['end server development'], 'coverag': ['coverage'], 'databas': ['database'], 'api': ['APIs'], 'ground': ['grounding'], 'server side develop': ['server side development'], 'thank': ['Thanks']}"
+22,Wonderful course to learn Server-side coding. Again Thanks a lot to Jogesh K Muppala for explaining each every topic very clear.,"{'cours': ['course'], 'code': ['coding'], 'thank': ['Thanks'], 'lot': ['lot'], 'jogesh k muppala': ['Jogesh K Muppala'], 'topic': ['topic']}"
+23,Great course by great person!,"{'cours': ['course'], 'person': ['person']}"
+24,Excellent course!,{'cours': ['course']}
+25,Very good but basic course.,{'cours': ['course']}
+26,Excellent course and teaching lessons the examples are according the videos and the teacher has a lot of patience explaining everything with details.,"{'cours': ['course'], 'teach lesson': ['teaching lessons'], 'exampl': ['examples'], 'video': ['videos'], 'teacher': ['teacher'], 'lot': ['lot'], 'patienc': ['patience'], 'everyth': ['everything'], 'detail': ['details']}"
+27,i do not understand why do i need in the videos see the face of the lecturer? i rather see the whole screen of code slides why do i need to see him talk? in every site of videos like pluralsight etc u do not see the lecturer. concerning this course.. i was a bit disappointed i thought it would give me more profound knowledge on node. but it was cool. ,"{'video': ['videos'], 'lectur': ['lecturer'], 'screen': ['screen'], 'code slide': ['code slides'], 'site': ['site'], 'cours': ['course']}"
+28,Great course. Smart and fun !,"{'cours': ['course'], 'smart': ['Smart'], 'fun': ['fun']}"
+29,Excellent course material narrated in detail.,"{'cours materi': ['course material'], 'detail': ['detail']}"
+30,"Nothing but following the lectures, hardly any quizes or assignments where you have to work things out on your own. Also, there's way too much material crammed into four weeks, leading to a lack of depth. I learned a lot, but this was not very engaging.","{'noth': ['Nothing'], 'quiz': ['quizes'], 'assign': ['assignments'], 'thing': ['things'], 'way': ['way'], 'materi': ['material'], 'week': ['weeks'], 'lack': ['lack'], 'depth': ['depth'], 'lot': ['lot']}"
+31,I like the humor of the professor although I can not understand what that means.,"{'humor': ['humor'], 'professor': ['professor']}"
+32,Good tutorials That's not because it is FREE ,"{'tutori': ['tutorials'], 'free': ['FREE']}"
+33,"Awesome Course, Learnt many things.","{'cours': ['Course'], 'learnt thing': ['Learnt things']}"
+34,awesome course!!!!,{'cours': ['course']}
+35,This is very well designed course.,{'cours': ['course']}
+36,one the best backend development courses on the web covers a lot of topics and yet gives you enough depth to be able to discover the rest on your own. the only problem with it is that it stall on the some basic stuff and then accelerates a little when it comes to the more advanced techniques.,"{'develop cours': ['development courses'], 'web': ['web'], 'lot': ['lot'], 'topic': ['topics'], 'depth': ['depth'], 'rest': ['rest'], 'problem': ['problem'], 'stuff': ['stuff'], 'techniqu': ['techniques']}"
+37,Very good course. Features well explained.,"{'cours': ['course'], 'featur': ['Features']}"
+38,"Best course for Node.js, express.js, MongoDB, Mongoose and putting them all together in perspective!","{'cours': ['course'], 'node.j': ['Node.js'], 'express.j': ['express.js'], 'mongodb': ['MongoDB']}"
+39,Very applicable and lot of insight into new NodeJS Territory ,"{'lot': ['lot'], 'insight': ['insight'], 'nodej territori': ['NodeJS Territory']}"
+40,"A well structured course that gives a good introduction to NodeJS. The final assignment does have a bit of a ramp in difficulty. However, I prefer it if a course has some challenges in it because I feel it is when you learn the most.","{'cours': ['course'], 'introduct': ['introduction'], 'nodej': ['NodeJS'], 'assign': ['assignment'], 'bit': ['bit'], 'difficulti': ['difficulty'], 'challeng': ['challenges']}"
+41,"clearly structured, easy to understand; different technology stacks, quite complete; to my knowledge, the only course of this kind available. ","{'technolog stack': ['technology stacks'], 'knowledg': ['knowledge'], 'cours': ['course'], 'kind': ['kind']}"
+42,"Superb Course, Thank You!",{'superb cours': ['Superb Course']}
+43,Great course!! i learn a lotvery professional and simple teaching.,"{'cours': ['course'], 'lotveri teach': ['lotvery teaching']}"
+44,"Last assignment is a big jump, but i like it so very much ","{'assign': ['assignment'], 'jump': ['jump']}"
+45,Awesome course! and strongloop is fantastic!,"{'cours': ['course'], 'strongloop': ['strongloop']}"
+46,This course is awesome,{'cours': ['course']}
+47,Excellent! First time in the server-side; it was a very good course.,"{'time': ['time'], 'server-sid': ['server-side'], 'cours': ['course']}"
+48,Slow and redundant. Would have preferred a faster-paced and more substantive course.,{'cours': ['course']}
+49,Very nice!,{}
+50,This course is the best starting material for learning server programming,"{'cours': ['course'], 'materi': ['material'], 'server program': ['server programming']}"
+51,good,{}
+52,Really an awesome course.,{'cours': ['course']}
+53,Great course! I learned so much and the difficulty is really well graded.,"{'cours': ['course'], 'difficulti': ['difficulty']}"
+54,Nice course for Full stack.,{'cours': ['course']}
+55,Very helpful. With this we do not need to reinvent the wheel. Can REST easy pun intended on server side and focus more on the application.,"{'rest pun': ['REST pun'], 'server side': ['server side'], 'applic': ['application']}"
+56,Great course! I'm glad I did it. ,{'cours': ['course']}
+57,"The course is suitable for any programmers even you only have very basic knowledge on Javascript and no experience on Web development, professor is teaching the Node.js in a very clear structure so it is easy for any learners to understand.I would give 5 stars but the contents of this courses are too basic, I am hoping we can dig into a little bit the details instead of just installing and using the existing components.","{'cours': ['courses', 'course'], 'programm': ['programmers'], 'knowledg': ['knowledge'], 'javascript': ['Javascript'], 'experi': ['experience'], 'web develop': ['Web development'], 'professor': ['professor'], 'node.j': ['Node.js'], 'structur': ['structure'], 'learner': ['learners'], 'star': ['stars'], 'content': ['contents'], 'bit': ['bit'], 'detail': ['details'], 'compon': ['components']}"
+58,"Great introductory course, however, there are some anti-patterns taught e.g. mongodb unbounded arrays Also, there is no testing frameworks used - and this is a big missing element for modern careers in web development.","{'cours': ['course'], 'mongodb array': ['mongodb arrays'], 'element': ['element'], 'career': ['careers'], 'web develop': ['web development']}"
+59,Great course. Very informative. Fully integrated API's as a result of completing this course. ,"{'cours': ['course'], 'api': ['API'], 'result': ['result']}"
+60,Very good!,{}
+61,"I love this course. Muppala sir, taught so well they explain each and every topics so well.","{'cours': ['course'], 'topic': ['topics']}"
+62,awesome,{}
+63,"Concise and to the point in every corner, lean like a good verse, the path is clear as you go. A sum of seemingly simple parts constitute a valuable body of knowledge, covering hours of alternative late night stackoverflow sitting. Thank you, Prof. Muppala!","{'corner': ['corner'], 'vers': ['verse'], 'path': ['path'], 'sum': ['sum'], 'part': ['parts'], 'bodi': ['body'], 'knowledg': ['knowledge'], 'hour': ['hours'], 'night stackoverflow': ['night stackoverflow'], 'prof. muppala': ['Prof. Muppala']}"
+64,really amazing ,{}
+65,It's exellent course I have ever studied. I would like to thank Professor Muppala very much.,"{'cours': ['course'], 'professor muppala': ['Professor Muppala']}"
+66,"There's a lack of crucial information such as how to merge AngularJs with all the Back-End. A few chapters such as cookies and session could had been skipped, even the prof. Muppala doesn't advice to use them, but as they're easy to teach so they're explained intead of more imporant things.I'm getting crazy to do the most simple thing a MEAN Stack Login. So why is not explained the most usual thing here? There are no excuses. Login and uploading files IS IMPORTANT to be learned.","{'lack': ['lack'], 'inform': ['information'], 'angularj': ['AngularJs'], 'back-end': ['Back-End'], 'chapter': ['chapters'], 'cooki': ['cookies'], 'session': ['session'], 'prof. muppala': ['prof. Muppala'], 'advic': ['advice'], 'intead': ['intead'], 'things.i': ['things.I'], 'thing': ['thing'], 'excus': ['excuses'], 'login file': ['Login files']}"
+67,The course is a very good start to learn NodeJS. Strong recommend for anyone who wants to start NodeJS.,"{'cours': ['course'], 'start': ['start'], 'nodej': ['NodeJS'], 'anyon': ['anyone']}"
+68,"It provides good resources and code, but if you get stuck, there's no help. By the time one gets this far the participation has plummeted and there's no mentors or instructor help. Very frustrating to get this far only to be stopped because you're on your very own.","{'resourc': ['resources'], 'code': ['code'], 'help': ['help'], 'time': ['time'], 'mentor': ['mentors'], 'instructor help': ['instructor help']}"
+69,Enthusiastic instructor,{'instructor': ['instructor']}
+70,good,{}
+71,"Very good explanations about each topic, some times instructor is explaining basics to get more knowledge on topic. Excellent. Thanks for opportunity.","{'explan': ['explanations'], 'topic': ['topic'], 'time': ['times'], 'instructor': ['instructor'], 'basic': ['basics'], 'knowledg': ['knowledge'], 'thank': ['Thanks'], 'opportun': ['opportunity']}"
+72,Quite easy to understand!,{}
+73,Very good curriculum! Everything explained in the correct way. Each unit has its concrete topic. All needed to start work in this field. Thank you so much.,"{'curriculum': ['curriculum'], 'everyth': ['Everything'], 'way': ['way'], 'unit': ['unit'], 'topic': ['topic'], 'work': ['work'], 'field': ['field']}"
+74,learned a lot. I,{'lot': ['lot']}
+75,Mr. Muppala has a natural talent for teaching. ,"{'mr. muppala': ['Mr. Muppala'], 'talent': ['talent'], 'teach': ['teaching']}"
+76,"This is the best, most comprehensive NodeJS course on the internet, PERIOD! ","{'nodej cours': ['NodeJS course'], 'internet': ['internet']}"
+77,The direction of the content is correct. First node and then his wrapper Express. ,"{'direct': ['direction'], 'content': ['content'], 'node': ['node'], 'wrapper express': ['wrapper Express']}"
+78,This course covered most of topics and very well explained. Unit testing for nodejs could also have been part of it. Oauth2 and JSON webtokens and Mongoose concepts are very well explained.,"{'cours': ['course'], 'topic': ['topics'], 'unit test': ['Unit testing'], 'nodej': ['nodejs'], 'part': ['part'], 'oauth2 webtoken': ['Oauth2 webtokens'], 'mongoos concept': ['Mongoose concepts']}"
+79,very good course,{'cours': ['course']}
+80,Enough material to make this a two course. Feels more crammed than other courses but invaluable coverage.,"{'enough materi': ['Enough material'], 'cours': ['courses', 'course'], 'coverag': ['coverage']}"
+81,EXCELLENT! Worth taking. Professor is awesome!,"{'worth': ['Worth'], 'professor': ['Professor']}"
+82,Very interesting course and learnt many new things. Excellent teaching and assignments. Highly recommend to others who want to learn nodejs and mongodb! ,"{'cours': ['course'], 'thing': ['things'], 'teach': ['teaching'], 'assign': ['assignments'], 'other': ['others'], 'nodej': ['nodejs'], 'mongodb': ['mongodb']}"
+83,Great content and teaching! Thanks Professor Muppala!,"{'content': ['content'], 'teach': ['teaching'], 'thank professor muppala': ['Thanks Professor Muppala']}"
+84,Awesome Course. easy to understand.,{'cours': ['Course']}
+85,Extremely boring and very confusing,{}
+86,amazing course!,{'cours': ['course']}
+87,It's a good course but it lacks web socket and socket io Please add a few lessons for them,"{'cours': ['course'], 'web socket': ['web socket'], 'socket io': ['socket io'], 'lesson': ['lessons']}"
+88,Excellent course,{'cours': ['course']}
+89,"I have learn a lot, big thanks to the PHd!","{'lot': ['lot'], 'thank': ['thanks'], 'phd': ['PHd']}"
+90,Excelent course! Many different aspects are studied. ,"{'cours': ['course'], 'aspect': ['aspects']}"
+91,I'm enjoying this practical course,{'cours': ['course']}
+92,Good enough to be an intro.,{'intro': ['intro']}
+93,great course for node beginner. Let's continue to create some great course,"{'cours': ['course'], 'node beginn': ['node beginner']}"
+94,Awesome Course !!!!,{'cours': ['Course']}
+95,"Great introductory class on Node.js! I took this without the other courses in the specialization, and found it to meet my needs perfectly.","{'class': ['class'], 'node.j': ['Node.js'], 'cours': ['courses'], 'special': ['specialization']}"
+96,"Best course ever, congratulations... ",{'cours': ['course']}
+97,Great course!,{'cours': ['course']}
+98,good,{}
+99,Lots of useful information!,"{'lot': ['Lots'], 'inform': ['information']}"
+100,nice!,{}
+101,Excellent course covering a wide range of topics and tools.,"{'cours': ['course'], 'rang': ['range'], 'topic': ['topics'], 'tool': ['tools']}"
+102,"The course is challenging, but the professor is really awesome. ","{'cours': ['course'], 'professor': ['professor']}"
+103,Super basic! The instructor goes super slowly and spends a lot of time on unnecessary stuff. Each video can be down in half the time,"{'super': ['Super'], 'instructor': ['instructor'], 'lot': ['lot'], 'time': ['time'], 'stuff': ['stuff'], 'video': ['video']}"
+104,"This was a good introduction to the topic, although a little slowly paced for my tastes, but I am a long time professional programmer, so I have much more background to draw on than many of the students. I started with this course, which encouraged me to go back and take more from the sequence. I recommend taking them in order.","{'introduct': ['introduction'], 'topic': ['topic'], 'tast': ['tastes'], 'time': ['time'], 'programm': ['programmer'], 'background': ['background'], 'student': ['students'], 'cours': ['course'], 'sequenc': ['sequence']}"
+105,"Fantastic Course, Learn a lot! ","{'cours': ['Course'], 'lot': ['lot']}"
+106,Just Awesome,{}
+107,"Though I did not finish the entire course, I have learned a lot on all the topics I am interested. Highly recommended. ","{'cours': ['course'], 'lot': ['lot'], 'topic': ['topics']}"
+108,"One of the best courses, very useful material and the teacher was great !!!","{'cours': ['courses'], 'materi': ['material'], 'teacher': ['teacher'], '!!': ['!!']}"
+109,"This course has covered most thing I need to know about about developing a website using MEAN. The lecture notes is easy to understand. After learnt this course, I have learn web development my self cause this course has provide real experience on not only learn with professor but also doing self learning.","{'cours': ['course'], 'thing': ['thing'], 'mean': ['MEAN'], 'lectur note': ['lecture notes'], 'web develop': ['web development'], 'self': ['self'], 'experi': ['experience'], 'professor': ['professor'], 'self learn': ['self learning']}"
+110,Great course to learn the basics of server-side development with nodejs ,"{'cours': ['course'], 'basic': ['basics'], 'develop': ['development'], 'nodej': ['nodejs']}"
+111,Great teacher! ,{'teacher': ['teacher']}
+112,superb,{}
+113,Very interesting explanation ,{'explan': ['explanation']}
+114,"Seems like the quality of this specialization goes down with every course. The instructor is not showing us the way we should think about developing programs in NodeJS, but he insists on using PowerPoint slides to show us how to code! It's 2016, and there are way better mediums for communicating with your students. Simply copying and pasting code and explaining what every line does is not the right way of teaching any concept, especially when you are dealing with a new technology. For the start, the instructor can actually type the code and explain what goes through his mind during each step. That way anyone can follow his problem solving methods and benefit from the course. I had to take other online courses on Code School and Pluralsight just to understand what's going on, and later come back to finish the homework. ","{'qualiti': ['quality'], 'special': ['specialization'], 'cours': ['courses', 'course'], 'instructor': ['instructor'], 'way': ['way'], 'program': ['programs'], 'nodej': ['NodeJS'], 'powerpoint slide': ['PowerPoint slides'], 'medium': ['mediums'], 'student': ['students'], 'copi code': ['copying code'], 'line': ['line'], 'concept': ['concept'], 'technolog': ['technology'], 'start': ['start'], 'code': ['code'], 'mind': ['mind'], 'step': ['step'], 'anyon': ['anyone'], 'problem': ['problem'], 'method': ['methods'], 'benefit': ['benefit'], 'code school': ['Code School'], 'pluralsight': ['Pluralsight'], 'homework': ['homework']}"
+115,the instructor is awesome ,{'instructor': ['instructor']}
+116, Bonne Formation j'ai aime ,{}
+117,Great course for anyone interested in web development,"{'cours': ['course'], 'anyon': ['anyone'], 'web develop': ['web development']}"
+118,Excellent Course!,{'cours': ['Course']}
+119,I learned a lot new things ,"{'lot': ['lot'], 'thing': ['things']}"
+120,happy for learning this course ,{'cours': ['course']}
+121,"I love the subject.To be honest for the first glance I didn't bet all my coins in this course, but I really got fascinated, the teacher indeed explains all the steps required and forth in order to grasp the idea around what is gonna be explained.","{'subject.to': ['subject.To'], 'glanc': ['glance'], 'coin': ['coins'], 'cours': ['course'], 'teacher': ['teacher'], 'step': ['steps'], 'idea': ['idea']}"
+122,Excellent,{}
+123,Amazing professor. Many thanks for taking the pains to explain the concepts so lucidly,"{'professor': ['professor'], 'thank': ['thanks'], 'pain': ['pains'], 'concept': ['concepts']}"
+124,"very clear, recommend!!",{}
+125, Excellent course really thank you for sharing this knowledge and learning ,"{'cours': ['course'], 'knowledg': ['knowledge'], 'learn': ['learning']}"
+126,Great!,{}
+127,"I have looked at several courses on NodeJS on udemy, pluralsight, this one is far the best. Jogesh is awesome teacher goes into fundamentals and this is the best introductory course on NodeJS. I am doing my regular day job and I am taking the course on side, the length of the weekly class is longer and it is harder for me to finish the class every week, that is just me. Thanks a ton Jogesh. ","{'cours': ['courses', 'course'], 'nodej': ['NodeJS'], 'udemi': ['udemy'], 'pluralsight': ['pluralsight'], 'jogesh': ['Jogesh'], 'teacher': ['teacher'], 'fundament': ['fundamentals'], 'day job': ['day job'], 'side': ['side'], 'length': ['length'], 'class': ['class'], 'week': ['week'], 'thank': ['Thanks'], 'ton jogesh': ['ton Jogesh']}"
+128,Amazing and very informative! Highly recommended!,{}
+129,good.,{}
+130,Pretty Good,{}
+131,I enjoyed this course ,{'cours': ['course']}
+132,"While a lot of useful ground was covered, it was a constant struggle simply getting my environment to work properly - the entire specialisation needs to do a better job of getting users on a level playing field with better environment setup.","{'lot': ['lot'], 'ground': ['ground'], 'struggl': ['struggle'], 'environ': ['environment'], 'specialis': ['specialisation'], 'job': ['job'], 'user': ['users'], 'level play field': ['level playing field'], 'environ setup': ['environment setup']}"
+133,for begginer is very easy and explicit.,{'beggin': ['begginer']}
+134,"Excellent teaching.First of all, i thank Dr.k.Muppalla for such wonderful teaching with good exercises.this course will help all those who want to learn about web services.","{'teaching.first': ['teaching.First'], 'dr.k.muppalla': ['Dr.k.Muppalla'], 'teach': ['teaching'], 'exercises.thi cours': ['exercises.this course'], 'web servic': ['web services']}"
+135,Great course and great professor!,"{'cours': ['course'], 'professor': ['professor']}"
+136,good,{}
+137,"very great course with lots of new concepts also not very fast like another courses ,lots of examples there to try","{'cours': ['courses', 'course'], 'lot': ['lots'], 'concept': ['concepts'], 'exampl': ['examples']}"
+138,"I don't like the fact you have to pay 80 dollars just to unlock assignment submissions. The fact that other students have to grade each other is not worth the 80 dollars. Think of all the students that may attend the course will more than cover the server costs if it was 10$. Otherwise, the class so far is useful.","{'fact': ['fact'], 'dollar': ['dollars'], 'unlock assign submiss': ['unlock assignment submissions'], 'student': ['students'], 'grade': ['grade'], 'cours': ['course'], 'server cost': ['server costs'], 'class': ['class']}"
+139,"Excellent course for those who want to drive into nodeJS and mongoDB. Theory, practice and assignments are perfectly constructed and presented in a structured, informative way. For me, it is exactly the course I needed. Thank you,Nikita","{'cours': ['course'], 'nodej': ['nodeJS'], 'mongodb': ['mongoDB'], 'theori': ['Theory'], 'practic': ['practice'], 'assign': ['assignments'], 'way': ['way']}"
+140,I liked it as a way to start developing a nodejs backend.I wished that it would have gone a bit deeper in some topics.,"{'way': ['way'], 'backend.i': ['backend.I'], 'bit': ['bit'], 'topic': ['topics']}"
+141,Great Course!!,{'cours': ['Course']}
+142,"It's a good course that covers a good amount of rich material in a short amount of time. Wish there was some more explanation on certain plugins we are using outside of just 'this is what you do'. Course files would help quite a bit when completing assignments, especially with the amount we are modifying our local projects.","{'cours': ['course'], 'amount': ['amount'], 'materi': ['material'], 'time': ['time'], 'wish': ['Wish'], 'explan': ['explanation'], 'plugin': ['plugins'], 'cours file': ['Course files'], 'bit': ['bit'], 'assign': ['assignments'], 'project': ['projects']}"
+143,"Thanks to Professor Muppala this course becomes very modern, useful and easy to understand!Enroll and have fun!","{'thank': ['Thanks'], 'professor muppala': ['Professor Muppala'], 'cours': ['course'], 'understand!enrol': ['understand!Enroll'], 'fun': ['fun']}"
+144,Great course! ,{'cours': ['course']}
+145,great course. very complete and thorough.,{'cours': ['course']}
+146,this is really helpful to me to develop my own web project. i wondered how nodejs operate with mongoDB. Thank you to professor and coursera.,"{'web project': ['web project'], 'nodej': ['nodejs'], 'mongodb': ['mongoDB'], 'professor': ['professor'], 'coursera': ['coursera']}"
+147,Thank you good course,{'cours': ['course']}
+148,Excellent. Well structured and good balance between theory and practice. ,"{'balanc': ['balance'], 'theori': ['theory'], 'practic': ['practice']}"
+149,Great Course!!!!,{'cours': ['Course']}
+150,great introductory stuff to node js,"{'stuff': ['stuff'], 'node js': ['node js']}"
+151,good course?????????????????????,{'cours': ['course']}
+152,Not a very good course. The assignments are not very clear. Could have done much more like integrating front-end etc in place of that loopback module. Was really disappointed with this one. Should have given 0 stars but gave 3 stars for Jogesh Muppala as he is my favourite teacher when it comes to MOOC,"{'cours': ['course'], 'assign': ['assignments'], 'etc': ['etc'], 'place': ['place'], 'star': ['stars'], 'jogesh muppala': ['Jogesh Muppala'], 'teacher': ['teacher'], 'mooc': ['MOOC']}"
+153,Thanks to the instructor for the great course. The course gives the possibility to dive into node.js,"{'thank': ['Thanks'], 'instructor': ['instructor'], 'cours': ['course'], 'possibl': ['possibility'], 'dive': ['dive'], 'node.j': ['node.js']}"
+154,Amazingly charismatic teacher. ,{'teacher': ['teacher']}
+155,Excellent course to get deep introduction to Node.JS!!,"{'cours': ['course'], 'introduct': ['introduction'], 'node.j': ['Node.JS']}"
+156,Awesome!,{}
+157,A good introductory course spanning full-stack server side development. I liked the structured flow of lessons and excercises. A great minus though is that this course has little to none focus on testing. While in the middle of this course I lack insight into testing strategies with node js.,"{'cours': ['course'], 'server side develop': ['server side development'], 'flow': ['flow'], 'lesson': ['lessons'], 'excercis': ['excercises'], 'none focus': ['none focus'], 'test': ['testing'], 'middl': ['middle'], 'insight': ['insight'], 'test strategi': ['testing strategies'], 'node js': ['node js']}"
+158,Pretty good course. I wouldn't be able to learn so much on my own.,{'pretti cours': ['Pretty course']}
+159,Good,{}
+160,It's the best.,{}
+161,Well designed and rich stuffed course,{'cours': ['course']}
+162,Excellent course. Well structured and includes great information. ,"{'cours': ['course'], 'inform': ['information']}"
+163,What a awesome explanation. Like it Thank you very much providing the session with live examples. Very much useful course to get clear idea of the topic.,"{'explan': ['explanation'], 'session': ['session'], 'exampl': ['examples'], 'cours': ['course'], 'idea': ['idea'], 'topic': ['topic']}"
+164,Remarkable,{}
+165,Great course and great specialization!!!! I have learned a lot!!!!,"{'cours': ['course'], 'special': ['specialization'], 'lot': ['lot']}"
+166,"Highly recommend - the course is brilliant, and I tip my hat to the professor for his 'node' of genius. Well structured, well explained, well detailed. Thank you for this wonderful specialization!","{'cours': ['course'], 'hat': ['hat'], 'professor': ['professor'], 'node': ['node'], 'genius': ['genius'], 'special': ['specialization']}"
+167,course and professor are great!,"{'cours': ['course'], 'professor': ['professor']}"
+168,"Till now, the course is really great! ",{'cours': ['course']}
+169,all right!,{}
+170,"This series is superb, you can get from beginner to advanced level in fullstack web &amp; mobile development if you religiously consume all the materials and teachings provided in this series. Professor Rogesh is an awesome instructor who spares no effort to provide us with consummate instructions. What's the best thing? You get a real, working products of your own when you finish this series. You will also get to deploy your product in the Capstone project and hence, I strongly recommend this specialization for those who are serious at developing a web product.","{'seri': ['series'], 'beginn': ['beginner'], 'level': ['level'], 'fullstack web': ['fullstack web'], 'develop': ['development'], 'materi': ['materials'], 'teach': ['teachings'], 'professor rogesh': ['Professor Rogesh'], 'instructor': ['instructor'], 'effort': ['effort'], 'instruct': ['instructions'], 'thing': ['thing'], 'product': ['products', 'product'], 'capston project': ['Capstone project'], 'special': ['specialization'], 'web product': ['web product']}"
+171,good course !!!,{'cours': ['course']}
+172,good,{}
+173, Great ,{}
+174,Excellent course material,"{'cours': ['course'], 'materi': ['material']}"
+175,Excellent introduction to Server-side development. I have used PHP for some similar but Node really rules!!,"{'introduct': ['introduction'], 'develop': ['development'], 'php': ['PHP'], 'node': ['Node']}"
+176,Very bad video quality. The teacher is obviously bored by this course and does not put much effort in the creation process. ,"{'qualiti': ['quality'], 'teacher': ['teacher'], 'cours': ['course'], 'effort': ['effort'], 'creation process': ['creation process']}"
+177,very good,{}
+178,"It was great experience. Thank you, professor ","{'experi': ['experience'], 'professor': ['professor']}"
+179,Awesome course. Everything explained in details and with great quality.,"{'cours': ['course'], 'everyth': ['Everything'], 'detail': ['details'], 'qualiti': ['quality']}"
+180,good enough,{'enough': ['enough']}
+181,"Really great course! I feel like I learned a lot, and was even forced to dig a little deeper on my own than other courses. ","{'cours': ['courses', 'course'], 'lot': ['lot']}"
+182,"Wow! So much is covered in this part of the course. I know we only scratched the surface but everything from the quick setup of an API server using tools like Loopback to doing simple password auth and advanced Facebook authentication, and all of it connected to a MongoDB backend. Very useful!","{'part': ['part'], 'cours': ['course'], 'surfac': ['surface'], 'everyth': ['everything'], 'setup': ['setup'], 'api server': ['API server'], 'tool': ['tools'], 'password auth': ['password auth'], 'facebook authent': ['Facebook authentication'], 'mongodb backend': ['MongoDB backend']}"
+183,A good Introduction to Server Side Programming in MEAN Stack,"{'introduct': ['Introduction'], 'server side program': ['Server Side Programming'], 'mean stack': ['MEAN Stack']}"
+184, I really enjoyed this training and I intend to deepen my knowledge in NodeJS. Thank You ,"{'train': ['training'], 'knowledg': ['knowledge'], 'nodej': ['NodeJS']}"
+185,Good course,{'cours': ['course']}
+186,thanks,{'thank': ['thanks']}
+187,"Very challenging, the lecture are really deep and could be improve overall really helpful!",{'lectur': ['lecture']}
+188,Its good to get started with server side development with node.,"{'server side develop': ['server side development'], 'node': ['node']}"
+189,Wonderful course to learn Server-side coding. Again Thanks a lot to Jogesh K Muppala for explaining each every topic very clear.,"{'cours': ['course'], 'code': ['coding'], 'thank': ['Thanks'], 'lot': ['lot'], 'jogesh k muppala': ['Jogesh K Muppala'], 'topic': ['topic']}"
+190,Very good but basic course.,{'cours': ['course']}
+191,i do not understand why do i need in the videos see the face of the lecturer? i rather see the whole screen of code slides why do i need to see him talk? in every site of videos like pluralsight etc u do not see the lecturer. concerning this course.. i was a bit disappointed i thought it would give me more profound knowledge on node. but it was cool. ,"{'video': ['videos'], 'lectur': ['lecturer'], 'screen': ['screen'], 'code slide': ['code slides'], 'site': ['site'], 'cours': ['course']}"
+192,Great course. Smart and fun !,"{'cours': ['course'], 'smart': ['Smart'], 'fun': ['fun']}"
+193,"Nothing but following the lectures, hardly any quizes or assignments where you have to work things out on your own. Also, there's way too much material crammed into four weeks, leading to a lack of depth. I learned a lot, but this was not very engaging.","{'noth': ['Nothing'], 'quiz': ['quizes'], 'assign': ['assignments'], 'thing': ['things'], 'way': ['way'], 'materi': ['material'], 'week': ['weeks'], 'lack': ['lack'], 'depth': ['depth'], 'lot': ['lot']}"
+194,I like the humor of the professor although I can not understand what that means.,"{'humor': ['humor'], 'professor': ['professor']}"
+195,"Awesome Course, Learnt many things.","{'cours': ['Course'], 'learnt thing': ['Learnt things']}"
+196,awesome course!!!!,{'cours': ['course']}
+197,This is very well designed course.,{'cours': ['course']}
+198,one the best backend development courses on the web covers a lot of topics and yet gives you enough depth to be able to discover the rest on your own. the only problem with it is that it stall on the some basic stuff and then accelerates a little when it comes to the more advanced techniques.,"{'develop cours': ['development courses'], 'web': ['web'], 'lot': ['lot'], 'topic': ['topics'], 'depth': ['depth'], 'rest': ['rest'], 'problem': ['problem'], 'stuff': ['stuff'], 'techniqu': ['techniques']}"
+199,Very good course. Features well explained.,"{'cours': ['course'], 'featur': ['Features']}"
+200,"Best course for Node.js, express.js, MongoDB, Mongoose and putting them all together in perspective!","{'cours': ['course'], 'node.j': ['Node.js'], 'express.j': ['express.js'], 'mongodb': ['MongoDB']}"
+201,"Superb Course, Thank You!",{'superb cours': ['Superb Course']}
+202,Great course!! i learn a lotvery professional and simple teaching.,"{'cours': ['course'], 'lotveri teach': ['lotvery teaching']}"
+203,"Last assignment is a big jump, but i like it so very much ","{'assign': ['assignment'], 'jump': ['jump']}"
+204,Awesome course! and strongloop is fantastic!,"{'cours': ['course'], 'strongloop': ['strongloop']}"
+205,Very nice!,{}
+206,good,{}
+207,Great course! I learned so much and the difficulty is really well graded.,"{'cours': ['course'], 'difficulti': ['difficulty']}"
+208,Very helpful. With this we do not need to reinvent the wheel. Can REST easy pun intended on server side and focus more on the application.,"{'rest pun': ['REST pun'], 'server side': ['server side'], 'applic': ['application']}"
+209,Great course! I'm glad I did it. ,{'cours': ['course']}
+210,"Great introductory course, however, there are some anti-patterns taught e.g. mongodb unbounded arrays Also, there is no testing frameworks used - and this is a big missing element for modern careers in web development.","{'cours': ['course'], 'mongodb array': ['mongodb arrays'], 'element': ['element'], 'career': ['careers'], 'web develop': ['web development']}"
+211,Great course. Very informative. Fully integrated API's as a result of completing this course. ,"{'cours': ['course'], 'api': ['API'], 'result': ['result']}"
+212,"Concise and to the point in every corner, lean like a good verse, the path is clear as you go. A sum of seemingly simple parts constitute a valuable body of knowledge, covering hours of alternative late night stackoverflow sitting. Thank you, Prof. Muppala!","{'corner': ['corner'], 'vers': ['verse'], 'path': ['path'], 'sum': ['sum'], 'part': ['parts'], 'bodi': ['body'], 'knowledg': ['knowledge'], 'hour': ['hours'], 'night stackoverflow': ['night stackoverflow'], 'prof. muppala': ['Prof. Muppala']}"
+213,"There's a lack of crucial information such as how to merge AngularJs with all the Back-End. A few chapters such as cookies and session could had been skipped, even the prof. Muppala doesn't advice to use them, but as they're easy to teach so they're explained intead of more imporant things.I'm getting crazy to do the most simple thing a MEAN Stack Login. So why is not explained the most usual thing here? There are no excuses. Login and uploading files IS IMPORTANT to be learned.","{'lack': ['lack'], 'inform': ['information'], 'angularj': ['AngularJs'], 'back-end': ['Back-End'], 'chapter': ['chapters'], 'cooki': ['cookies'], 'session': ['session'], 'prof. muppala': ['prof. Muppala'], 'advic': ['advice'], 'intead': ['intead'], 'things.i': ['things.I'], 'thing': ['thing'], 'excus': ['excuses'], 'login file': ['Login files']}"
+214,"It provides good resources and code, but if you get stuck, there's no help. By the time one gets this far the participation has plummeted and there's no mentors or instructor help. Very frustrating to get this far only to be stopped because you're on your very own.","{'resourc': ['resources'], 'code': ['code'], 'help': ['help'], 'time': ['time'], 'mentor': ['mentors'], 'instructor help': ['instructor help']}"
+215,good,{}
+216,learned a lot. I,{'lot': ['lot']}
+217,This course covered most of topics and very well explained. Unit testing for nodejs could also have been part of it. Oauth2 and JSON webtokens and Mongoose concepts are very well explained.,"{'cours': ['course'], 'topic': ['topics'], 'unit test': ['Unit testing'], 'nodej': ['nodejs'], 'part': ['part'], 'oauth2 webtoken': ['Oauth2 webtokens'], 'mongoos concept': ['Mongoose concepts']}"
+218,very good course,{'cours': ['course']}
+219,Enough material to make this a two course. Feels more crammed than other courses but invaluable coverage.,"{'enough materi': ['Enough material'], 'cours': ['courses', 'course'], 'coverag': ['coverage']}"
+220,EXCELLENT! Worth taking. Professor is awesome!,"{'worth': ['Worth'], 'professor': ['Professor']}"
+221,Excellent course,{'cours': ['course']}
+222,"I have learn a lot, big thanks to the PHd!","{'lot': ['lot'], 'thank': ['thanks'], 'phd': ['PHd']}"
+223,Excelent course! Many different aspects are studied. ,"{'cours': ['course'], 'aspect': ['aspects']}"
+224,"Great introductory class on Node.js! I took this without the other courses in the specialization, and found it to meet my needs perfectly.","{'class': ['class'], 'node.j': ['Node.js'], 'cours': ['courses'], 'special': ['specialization']}"
+225,"Best course ever, congratulations... ",{'cours': ['course']}
+226,good,{}
+227,Excellent course covering a wide range of topics and tools.,"{'cours': ['course'], 'rang': ['range'], 'topic': ['topics'], 'tool': ['tools']}"
+228,Great course to learn the basics of server-side development with nodejs ,"{'cours': ['course'], 'basic': ['basics'], 'develop': ['development'], 'nodej': ['nodejs']}"
+229,Great teacher! ,{'teacher': ['teacher']}
+230, Bonne Formation j'ai aime ,{}
+231,Great course for anyone interested in web development,"{'cours': ['course'], 'anyon': ['anyone'], 'web develop': ['web development']}"
+232,Excellent Course!,{'cours': ['Course']}
+233,Excellent,{}
+234, Excellent course really thank you for sharing this knowledge and learning ,"{'cours': ['course'], 'knowledg': ['knowledge'], 'learn': ['learning']}"
+235,Amazing and very informative! Highly recommended!,{}
+236,I enjoyed this course ,{'cours': ['course']}
+237,Thank you good course,{'cours': ['course']}
+238,Great Course!!!!,{'cours': ['Course']}
+239,great introductory stuff to node js,"{'stuff': ['stuff'], 'node js': ['node js']}"
+240,Not a very good course. The assignments are not very clear. Could have done much more like integrating front-end etc in place of that loopback module. Was really disappointed with this one. Should have given 0 stars but gave 3 stars for Jogesh Muppala as he is my favourite teacher when it comes to MOOC,"{'cours': ['course'], 'assign': ['assignments'], 'etc': ['etc'], 'place': ['place'], 'star': ['stars'], 'jogesh muppala': ['Jogesh Muppala'], 'teacher': ['teacher'], 'mooc': ['MOOC']}"
+241,Thanks to the instructor for the great course. The course gives the possibility to dive into node.js,"{'thank': ['Thanks'], 'instructor': ['instructor'], 'cours': ['course'], 'possibl': ['possibility'], 'dive': ['dive'], 'node.j': ['node.js']}"
