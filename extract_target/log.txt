@@ -14,4 +14,4 @@ above plan has finished
 3. extract target phase from each sentence
 
 plan
-mapping 
+aggregation

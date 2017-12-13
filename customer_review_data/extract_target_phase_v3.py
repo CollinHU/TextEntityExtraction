@@ -71,22 +71,38 @@ def extract_target_phase(target_dict, s):
             if w in target_list and node['tag'][:2] == 'NN' and 'compound' in dep_dict.keys():
                 new_w = ''
                 word = ''
+                adj_index = dep_dict['compound'][0] - 1
+                adj_node = dep_list[adj_index]
+                if adj_node['tag'][:2] == 'JJ' and adj_node['head'] == adj_index + 1:
+                    new_w = stem(adj_node['word'])
+                    word = adj_node['word']
                 for index in dep_dict['compound']:
+                    comp_word = dep_list[index]['word']
                     if new_w =='':
-                        comp_word = dep_list[index]['word']
-                        comp_w = stem(comp_word)
-                        new_w = comp_w
+                        new_w = stem(comp_word)
                         word = comp_word
                     else:
-                        comp_word = dep_list[index]['word']
-                        comp_w = stem(comp_word)
-                        new_w = new_w + ' ' + comp_w
+                        new_w = new_w + ' ' + stem(comp_word)
                         word = word + ' ' + comp_word
                 new_w = new_w + ' ' + w
                 word = word + ' ' + node['word']
                 dict_update(target_dict, new_w, word)
             elif w in target_list and node['tag'][:2] == 'NN' and node['rel'] !='compound':
-                dict_update(target_dict, w, node['word'])
+                new_w = ''
+                word = ''
+                adj_index = node['address'] - 1
+                adj_node = dep_list[adj_index]
+                if adj_node['tag'][:2] == 'JJ' and adj_node['head'] == adj_index + 1:
+                    new_w = stem(adj_node['word'])
+                    word = adj_node['word']
+                comp_word = node['word']
+                if new_w =='':
+                    new_w = stem(comp_word)
+                    word = comp_word
+                else:
+                    new_w = new_w + ' ' + stem(comp_word)
+                    word = word + ' ' + comp_word
+                dict_update(target_dict, new_w, word)
 
 
 def update_target(sents):
@@ -107,8 +123,8 @@ f2 = open(target_file,'r')
 lines = f2.readlines()
 target_list = [line.split("\n")[0] for line in lines]
 
-print(opinion_list)
-print(target_list)
+#print(opinion_list)
+#print(target_list)
 
 df = pd.read_csv(data_file,index_col = 0)
 df['comment'] = df['comment'].apply(process_sentence)

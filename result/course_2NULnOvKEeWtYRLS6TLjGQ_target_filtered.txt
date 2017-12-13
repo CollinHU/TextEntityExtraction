@@ -1,0 +1,1 @@
+{"explan": 2, "lack": 1, "exampl": 1, "concept": 1, "foundat": 1, "teacher": 1, "slide": 3, "read exercis": 1, "add valu": 1, "cours": 8, "attent": 1, "time": 1, "plenti": 1, "room": 1, "improv": 1, "topic": 1, "professor": 1, "job": 1, "quiz": 1, "assign": 2, "present": 1, "univers cours": 1, "help": 1, "data mine studi": 1}

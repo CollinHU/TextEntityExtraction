@@ -1,0 +1,731 @@
+,comment,target
+0,Great course! ,{'cours': ['course']}
+1,"Excellent course.Gives you a hands-on approach to Angular JS, with links to more resources so that you can explore further and find all information you need to build a complete project.","{'course.g': ['course.Gives'], 'approach': ['approach'], 'js': ['JS'], 'link': ['links'], 'resourc': ['resources'], 'inform': ['information'], 'project': ['project']}"
+2,Tough but worth it,{}
+3,There are no better ways than this! It's a great course and i would really recommend it for anyone because i gained more experience i never grasp before doing AngularJs course from another source and find the technique in this course more easier to understand too. ,"{'way': ['ways'], 'cours': ['course'], 'anyon': ['anyone'], 'experi i grasp': ['experience i grasp'], 'angularj cours': ['AngularJs course'], 'sourc': ['source'], 'techniqu': ['technique']}"
+4,Tough and fast paced. It requires a lot troubleshooting. This is one of those classes where it hurts so good.,{'class': ['classes']}
+5,great class. assignment 4 is a killer. make sure you really learn things in first assignments instead of just copy and paste.,"{'class': ['class'], 'assign': ['assignments', 'assignment'], 'killer': ['killer'], 'thing': ['things'], 'copi': ['copy']}"
+6,very good course,{'cours': ['course']}
+7,really great course with awesome professor,"{'cours': ['course'], 'professor': ['professor']}"
+8,Highly recommended course. Helped a lot to get deeper understanding and later translate the knowledge to knew projects. Some topics you might need to watch more than one time.,"{'cours': ['course'], 'lot': ['lot'], 'understand': ['understanding'], 'knowledg': ['knowledge'], 'project': ['projects'], 'topic': ['topics'], 'time': ['time']}"
+9,"A tough course, requires consistent hard work!!!!","{'cours': ['course'], 'work': ['work']}"
+10,Practical and interesting.,{'practic': ['Practical']}
+11,Very general but complete guide to get started on integrating some patterns and practices to deliver responsive web apps with open source tools,"{'guid': ['guide'], 'pattern': ['patterns'], 'practic': ['practices'], 'web app': ['web apps'], 'sourc tool': ['source tools']}"
+12,Great Course! ,{'cours': ['Course']}
+13,Great course! I just had some little problems with some explanations but it was just once. Thank you very much Coursera and University of Hong Kong and proffesors ,"{'cours': ['course'], 'problem': ['problems'], 'explan': ['explanations'], 'coursera': ['Coursera'], 'univers': ['University'], 'hong kong': ['Hong Kong']}"
+14,Excelente curso,{}
+15,"Great course. It is great for learning Angular1. we can learned with angular term services, controller, model, templates, dependency injection, filter.. Great for angular basic and we develop project along course.","{'cours': ['course'], 'term servic': ['term services'], 'control': ['controller'], 'filter': ['filter']}"
+16,"At first I didn't know the value of this course. Every one just criticized me by saying that this is a time waste and need to concentrate more on back-end. But, now a days everyone is moving towards angularJs and updating their frameworks using Angular. Now, people who blamed me, were coming to me and saying that I was lucky knowing about this. Now, I knew the value about this. Thanks for the course !","{'valu': ['value'], 'cours': ['course'], 'time': ['time'], 'wast': ['waste'], 'day': ['days'], 'everyon': ['everyone'], 'angularj': ['angularJs'], 'framework': ['frameworks'], 'peopl': ['people'], 'thank': ['Thanks']}"
+17,Very Good,{}
+18, Excellent instructor with a sense of humor. Nicely organized course. You'll learn - if you're willing to. Invest more time than suggested. -- Iftekhar Ahmad Chowdhury,"{'instructor': ['instructor'], 'sens': ['sense'], 'humor': ['humor'], 'cours': ['course'], 'time': ['time']}"
+19,Great course!,{'cours': ['course']}
+20,Great Learning,{'great learn': ['Great Learning']}
+21, Excelente ,{}
+22,"Thanks all for this greate course, I want to give special thank to our teacher Mr Jogesh K. Muppala.","{'thank': ['Thanks'], 'great cours': ['greate course'], 'jogesh k. muppala': ['Jogesh K. Muppala']}"
+23,great class.,{'class': ['class']}
+24,"This was very difficult course for me as for newbie But at the same time it broadened my horizons. AngularJS - very interesting course. I'm glad to become graduate. Special thanks to professor Jogesh K. Muppala for his intelligence, kindness and excellent sense of humour. Also thanks to all people, who made a major contribution to this course record videos, write subtitles, correct code, consulting as mentors. So I wish prosperity to this course and lots of success!","{'cours': ['course'], 'newbi': ['newbie'], 'time': ['time'], 'angularj': ['AngularJS'], 'graduat': ['graduate'], 'thank': ['thanks'], 'jogesh k. muppala': ['Jogesh K. Muppala'], 'intellig': ['intelligence'], 'kind': ['kindness'], 'sens': ['sense'], 'humour': ['humour'], 'peopl': ['people'], 'contribut': ['contribution'], 'record video': ['record videos'], 'subtitl': ['subtitles'], 'code': ['code'], 'mentor': ['mentors'], 'prosper': ['prosperity'], 'lot': ['lots'], 'success': ['success']}"
+25,This course is well designed with very good coverage of technical details of various aspects of web development. The exercises and assignments are quite inspiring. I would strongly recommend this course to those want to learn wen development and don't have much experience yet. ,"{'cours': ['course'], 'coverag': ['coverage'], 'detail': ['details'], 'aspect': ['aspects'], 'web develop': ['web development'], 'exercis': ['exercises'], 'assign': ['assignments'], 'develop': ['development'], 'experi': ['experience']}"
+26,little bit slow but very good. some extra tools added that make it slow and boring but it makes it very interesting if we understand its benefit ,"{'bit': ['bit'], 'tool': ['tools'], 'benefit': ['benefit']}"
+27,Nicely designed course to learn AngularJS,"{'cours': ['course'], 'angularj': ['AngularJS']}"
+28,"Covers all the essential topics. At the end of the course, one should have enough confidence to try and deploy pages on their own. The topics are well explained and the teacher keeps the listener engaged with his teaching style.","{'topic': ['topics'], 'end': ['end'], 'cours': ['course'], 'confid': ['confidence'], 'page': ['pages'], 'teacher': ['teacher'], 'listen': ['listener'], 'teach style': ['teaching style']}"
+29,Course is very compact and informative,{'cours': ['Course']}
+30,"Lots of random details that the professor seems to have missed make the course difficult because you end up spending hours debugging random, irrelevant things.","{'lot': ['Lots'], 'detail': ['details'], 'professor': ['professor'], 'cours': ['course'], 'spend hour': ['spending hours'], 'thing': ['things']}"
+31,Very well explained from basics,{'basic': ['basics']}
+32,"The practical approach of taking a problem and solving it throughout the course and in the process teach stuff is super awesome. You get introduced to a concept and immediately followed by implementing it in the product at hand and thereby improving the product. When you actually do the exercises you get a satisfaction of developing a product along the way, which is very nice.If I ever plan to teach, this is the approach I'll be taking.PS The sprinkle of humor is refreshing breaks from serious listening otherwise! Thanks for that too.","{'approach': ['approach'], 'problem': ['problem'], 'cours': ['course'], 'process': ['process'], 'stuff': ['stuff'], 'concept': ['concept'], 'product': ['product'], 'hand': ['hand'], 'exercis': ['exercises'], 'way': ['way'], 'humor': ['humor'], 'break': ['breaks'], 'thank': ['Thanks']}"
+33,It is a awesome course,{'cours': ['course']}
+34,Great course to be introduced in AngularJS and learn the basic functionality of this framework.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'function': ['functionality'], 'framework': ['framework']}"
+35,"Should be a more in depth course.Although for an introduction into AngularJS, it is a very good course.","{'depth course.although': ['depth course.Although'], 'introduct': ['introduction'], 'angularj': ['AngularJS'], 'cours': ['course']}"
+36,"Thank you for these lessons, answered my pressing questions about web development","{'lesson': ['lessons'], 'question': ['questions'], 'web develop': ['web development']}"
+37,I've been trying to learn Angular for so long! This course finally demystified the basics for me.,"{'cours': ['course'], 'basic': ['basics']}"
+38,"good and useful course, but includes some content unit testing that is extraneous and could be in a separate course","{'cours': ['course'], 'unit test': ['unit testing']}"
+39,Awesome course,{'cours': ['course']}
+40,Its great!,{}
+41,Overall course arrangement is awsome,{'cours arrang': ['course arrangement']}
+42,Excelent course,{'cours': ['course']}
+43,good,{}
+44,"During this course I had many issues with bower and version conflicts. I do everything step by step like in the video, and nothing works. I look at error log and realize there is some issue with versions. It would be really nice if you explained how to deal with it, instead of making me waste hours of my time on googling this stuff. It almost made me quit using bower forever. ","{'cours': ['course'], 'issu': ['issues', 'issue'], 'bower': ['bower'], 'version conflict': ['version conflicts'], 'everyth': ['everything'], 'step': ['step'], 'video': ['video'], 'noth work': ['nothing works'], 'version': ['versions'], 'wast': ['waste'], 'hour': ['hours'], 'time': ['time'], 'googl': ['googling'], 'stuff': ['stuff']}"
+45,Wonderful course to learn AngularJS. Thank you to Jogesh K Muppala for explaining in a each and every topic and excercises more practically.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'jogesh k muppala': ['Jogesh K Muppala'], 'topic': ['topic']}"
+46,"Apart from angular i learn task runners, testings, scaffolds and more. Love this one!","{'task runner': ['task runners'], 'test': ['testings'], 'love': ['Love']}"
+47,"This is excellent training for the person who likes to keep up with the latest and greatest front-end developments. If you don't like to switch up and turn on a dime then this course is not for you. I had trouble aplenty and yet the point seemed to be stay flexible, be prepared to use obscure tools that are supposed to make the site work better but who knows exactly what is happening under the hood , expect change and adversity, become an expert at debugging that crappy code and refactoring everything at the drop of a hat. This is probably good approximation of real world experience where you would need to come in on a project and bail them out of angularjs damnation. Be prepared to be frustrated.","{'train': ['training'], 'person': ['person'], 'develop': ['developments'], 'cours': ['course'], 'troubl': ['trouble'], 'point': ['point'], 'tool': ['tools'], 'site': ['site'], 'work': ['work'], 'chang': ['change'], 'advers': ['adversity'], 'expert': ['expert'], 'code': ['code'], 'refactor': ['refactoring'], 'everyth': ['everything'], 'drop': ['drop'], 'hat': ['hat'], 'approxim': ['approximation'], 'world experi': ['world experience'], 'project': ['project'], 'angularj damnat': ['angularjs damnation']}"
+48,It was a challenging and a fun course. Good in-depth and hands on experience on Angular and other web-tools.,"{'fun cours': ['fun course'], 'hand': ['hands'], 'experi': ['experience'], 'web-tool': ['web-tools']}"
+49,"Very nice course! You should include an explanation of the versions of the angular components that are compatible, it could be very releasing.","{'cours': ['course'], 'explan': ['explanation'], 'version': ['versions'], 'compon': ['components']}"
+50,Excellent course!,{'cours': ['course']}
+51,"some difficult, but it's so useful and powerful languages",{'languag': ['languages']}
+52,Perfect course to get started with AngularJS,"{'perfect cours': ['Perfect course'], 'angularj': ['AngularJS']}"
+53,Great course to learn about AngularJS. Syllabus is good to provide step by step and deep learning. Examples are good to provide practice practices with steps. Assignment is also a good test for the knowledge learned in each week. ,"{'cours': ['course'], 'angularj': ['AngularJS'], 'syllabus': ['Syllabus'], 'step': ['step', 'steps'], 'learn': ['learning'], 'exampl': ['Examples'], 'practic practic': ['practice practices'], 'assign': ['Assignment'], 'test': ['test'], 'knowledg': ['knowledge'], 'week': ['week']}"
+54,Excellent course,{'cours': ['course']}
+55,Great course.,{'cours': ['course']}
+56,I did not know what was going on and I have to stop.,{}
+57,Must for a new age programmer,{'age programm': ['age programmer']}
+58,Great!,{}
+59,amazing course gave me in-depth knowledge of Angular.js framework!,"{'cours': ['course'], 'knowledg': ['knowledge'], 'angular.j framework': ['Angular.js framework']}"
+60,comprehensive ,{}
+61, This is a Great Course. However I think that is a wonderful option to have an intermediate leve with angularJs. ,"{'cours': ['Course'], 'option': ['option'], 'leve': ['leve'], 'angularj': ['angularJs']}"
+62,Should be updated with angular 2 components. Rest it was awesome,{'compon': ['components']}
+63,good and useful course ,{'cours': ['course']}
+64,excellent course i ever did ,{'cours': ['course']}
+65,Bad video quality and errors in course material. Worst course on Coursera.,"{'qualiti': ['quality'], 'error': ['errors'], 'cours materi': ['course material'], 'cours': ['course'], 'coursera': ['Coursera']}"
+66,"The lessons were well structured and easy to follow, while covering all of the essential topics needed to use Angular, including some server-side development tools. As an introductory course, it met my expectations.","{'lesson': ['lessons'], 'topic': ['topics'], 'develop tool': ['development tools'], 'cours': ['course'], 'expect': ['expectations']}"
+67,Very in depth and practical course that gets you jump-started on AngularJS. The quizzes were a bit too simple but I imagine the assignments would have more content since they are locked behind purchase Would love to see a Angular 2 course as well.,"{'depth': ['depth'], 'cours': ['course'], 'angularj': ['AngularJS'], 'quizz': ['quizzes'], 'bit': ['bit'], 'assign': ['assignments']}"
+68,We need Angular 2,{}
+69,Nice Description with good exercises.Please provide a course for Angular 2 also,"{'descript': ['Description'], 'exercises.pleas': ['exercises.Please'], 'cours': ['course']}"
+70,Awesome course for a good startup!!!,"{'cours': ['course'], 'startup': ['startup']}"
+71,"Very Good Course to learn. Assignments are very good,","{'cours': ['Course'], 'assign': ['Assignments']}"
+72,very satisfied ,{}
+73,"this course overall is great. the content needs to be more in depth and give more compact information in each session. also need to give more detail why we should do certain step instead of just tell how to do. the course offer resources, and this aids with further self-pace learning, which is helpful. the ppt resource could cover more content in detail.overall it is a good course.","{'cours': ['course'], 'overal': ['overall'], 'content': ['content'], 'depth': ['depth'], 'inform': ['information'], 'session': ['session'], 'detail': ['detail'], 'step': ['step'], 'cours offer resourc': ['course offer resources'], 'aid': ['aids'], 'learn': ['learning'], 'ppt resourc': ['ppt resource'], 'detail.overal': ['detail.overall']}"
+74,superb course,{'cours': ['course']}
+75,Best Ever!,{}
+76,Superb course,{'cours': ['course']}
+77,love it,{'love': ['love']}
+78,The most complete course for angular beginners. Grat job teacjer Mupala D,"{'cours': ['course'], 'beginn': ['beginners'], 'teacjer mupala d': ['teacjer Mupala D']}"
+79,good. its a worth your time,{'time': ['time']}
+80,good,{}
+81,Excellent break down of Angular JS. A very good introduction; you will still need to read the Angular JS docs to get depth.,"{'break': ['break'], 'js': ['JS'], 'introduct': ['introduction'], 'js doc': ['JS docs'], 'depth': ['depth']}"
+82,"This course was too messy. I spent 75% of my time to get the examples to work. It would have been better if after each module all the js and html files would be given in total, not just the snippets.","{'cours': ['course'], '%': ['%'], 'time': ['time'], 'exampl': ['examples'], 'modul': ['module'], 'js': ['js'], 'html file': ['html files'], 'total': ['total']}"
+83,Great Course. Have a wide knowledge about Angular js.,"{'cours': ['Course'], 'knowledg': ['knowledge'], 'js': ['js']}"
+84,Amazing instructor!,{'instructor': ['instructor']}
+85,Very nice course! Huge amount of things to learn and very useful to work on the web app field! Thanks,"{'cours': ['course'], 'amount': ['amount'], 'thing': ['things'], 'web app field': ['web app field'], 'thank': ['Thanks']}"
+86,"Explicit design of course, easy to understand flow and good practice assignments","{'design': ['design'], 'cours': ['course'], 'flow': ['flow'], 'practic assign': ['practice assignments']}"
+87,Very Good course. Recommended,{'cours': ['course']}
+88,It was a great course,{'cours': ['course']}
+89,this course is good thank you for this information we look forward more,"{'cours': ['course'], 'inform': ['information']}"
+90,"The course was really demanding for me but in the end you feel like you achieved something. Don't give up if your localhosts don't work, there are solutions, look it up.","{'cours': ['course'], 'end': ['end'], 'someth': ['something'], 'localhost': ['localhosts']}"
+91,"Good introductory type course but when there are issues a student is having that no other peer can resolve, the instructors are almost NEVER available to assist.","{'type cours': ['type course'], 'issu': ['issues'], 'student': ['student'], 'instructor': ['instructors']}"
+92,Really useful and informative!,{}
+93,"Overall pretty good, but I think maybe the course ought to be extended a week or so to really take time and look at descriptions of the tasks run in the task runners. The angular content is pretty good and helpful, though. ","{'cours': ['course'], 'week': ['week'], 'time': ['time'], 'descript': ['descriptions'], 'task': ['tasks'], 'task runner': ['task runners'], 'content': ['content']}"
+94,Great,{}
+95,"Should update to Angular 2, or at least revise some exercises to include code for Angular 1.6.. and keep track properly of when gulpfile should be updated!","{'exercis': ['exercises'], 'code': ['code']}"
+96," Starting from fundamental concepts to basic practice, Professor Muppala has the way to make you learn better. ","{'concept': ['concepts'], 'practic': ['practice'], 'professor muppala': ['Professor Muppala'], 'way': ['way']}"
+97,Great course. AngularJS is presented gradually with good manners. Super work by Jogesh K. Muppala.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'manner': ['manners'], 'super work': ['Super work'], 'jogesh k. muppala': ['Jogesh K. Muppala']}"
+98,A well presented course with broad coverage of AngularJS. I thoroughly enjoyed it. The Coursera platform is excellent and easy to use.,"{'cours': ['course'], 'coverag': ['coverage'], 'angularj': ['AngularJS'], 'coursera platform': ['Coursera platform']}"
+99,Good content and awesome instructor ,"{'content': ['content'], 'instructor': ['instructor']}"
+100,sir you are best i learnt so much from you and i really appreciatie your work for students,"{'work': ['work'], 'student': ['students']}"
+101,Good Course Learned much from it,{'cours': ['Course']}
+102,"Exercise sources are not up to date, I have come across many problems.","{'exercis sourc': ['Exercise sources'], 'problem': ['problems']}"
+103, Excellent! First time in Angular ; it was a very good course. ,"{'time': ['time'], 'cours': ['course']}"
+104,perfect,{}
+105,The course is well structured. ,{'cours': ['course']}
+106,Amazing course. Thank you Yakov.,"{'cours': ['course'], 'yakov': ['Yakov']}"
+107,One of the best course in coursera. Thanks!,"{'cours': ['course'], 'coursera': ['coursera'], 'thank': ['Thanks']}"
+108,Great! I have really learned a lot by attending this course. Hope to see the AngularJS 2 or React course anytime soon ,"{'lot': ['lot'], 'cours': ['course'], 'angularj': ['AngularJS']}"
+109," Amazing Course, made me understand Angular in an easy way. It gave me a good quick start. Hats of to the teacher for all the hard work.","{'cours': ['Course'], 'way': ['way'], 'start': ['start'], 'hat': ['Hats'], 'teacher': ['teacher'], 'work': ['work']}"
+110,it was fun .,{'fun': ['fun']}
+111,Very easy to understand.E,{'understand.': ['understand.E']}
+112,Great Course,{'great cours': ['Great Course']}
+113,Excellent ,{}
+114,Thanks to Mr. Jogesh for carrying out complex concepts with ease. ,"{'thank': ['Thanks'], 'mr. jogesh': ['Mr. Jogesh'], 'concept': ['concepts'], 'eas': ['ease']}"
+115,Awesome course,{'cours': ['course']}
+116,very helpful for newbies,{'newbi': ['newbies']}
+117,Rushed though the core material. ,{'core materi': ['core material']}
+118,Definitely Not for young new front end learners Lots of things difficult to understand.,"{'end learner lot': ['end learners Lots'], 'thing': ['things']}"
+119,Nice course getting into AngularJS programming foundations and some very useful tools.,"{'cours': ['course'], 'angularj program foundat': ['AngularJS programming foundations'], 'tool': ['tools']}"
+120,"Good course, cover most important topics in didatc way. But the code quality is poor and I advice to study the John Papa's Angula code style to learn a better way of using AngularJS.","{'cours': ['course'], 'topic': ['topics'], 'way': ['way'], 'code qualiti': ['code quality'], 'angula code style': ['Angula code style'], 'angularj': ['AngularJS']}"
+121,Easy to understand.,{'easi': ['Easy']}
+122,"This great course will teach you not only how to create a single page application, but it will also show you the basics about developing to the web, as it shows you the tools that will allow you to work better as a web developer.","{'cours': ['course'], 'page applic': ['page application'], 'basic': ['basics'], 'tool': ['tools'], 'web develop': ['web developer']}"
+123,This was a hard course and many of the exercises did not have enough details to complete the assignments on time. I had to rely on course forums and a lot of googling to finish the course successfully. ,"{'cours': ['course'], 'exercis': ['exercises'], 'detail': ['details'], 'assign': ['assignments'], 'time': ['time'], 'cours forum': ['course forums'], 'lot': ['lot'], 'googl': ['googling']}"
+124,"Many errors appeared doing exercises, material needs to be updated - many node modules already deprecated. Also it'll be better if teacher more clarify all the actions he doing. Sometimes he did something not clear and there was no answer what is happening and why in this way.","{'error': ['errors'], 'exercis': ['exercises'], 'materi': ['material'], 'node modul': ['node modules'], 'teacher': ['teacher'], 'action': ['actions'], 'someth': ['something'], 'way': ['way']}"
+125,i got bunch of info in this course i believe i won't get it in organized and net way anywhere else. and i recomned even learn angular from anywhere else take the course. ,"{'bunch': ['bunch'], 'info': ['info'], 'cours': ['course'], 'way': ['way']}"
+126, The course was very clear and interesting! ,{'cours': ['course']}
+127,Nice course. However I am hearing scratching noises when the tutor is speaking which is little disturbing.,"{'cours': ['course'], 'nois': ['noises'], 'tutor': ['tutor']}"
+128,This course is not for javascript beginners. You should come in with solid understanding of the language - probably more than you would get from the first two courses of this program. ,"{'cours': ['course', 'courses'], 'javascript beginn': ['javascript beginners'], 'understand': ['understanding'], 'languag': ['language'], 'program': ['program']}"
+129,"A bit outdated now, however it is still a good resource to get started.","{'bit': ['bit'], 'resourc': ['resource']}"
+130,recommended course covers all angular 1,{'cours': ['course']}
+131,Thank you for providing new Angulagr js course ,{'angulagr js cours': ['Angulagr js course']}
+132,This course is very clear. The assignments were very well for improving my understanding.Thank you.,"{'cours': ['course'], 'assign': ['assignments'], 'understanding.thank': ['understanding.Thank']}"
+133,Very useful course with excellent course material. However there were some problems with the audio quality. Fixing them would make this course really enjoyable.,"{'cours': ['course'], 'cours materi': ['course material'], 'problem': ['problems'], 'qualiti': ['quality']}"
+134,Not well designed and the professor hard to follow...,{'professor': ['professor']}
+135,Good ,{}
+136,Very fine explanation,{'explan': ['explanation']}
+137,This class gives me a very useful knowledge that help me a lot in my work. The teacher's lecture is very suited with novice,"{'class': ['class'], 'knowledg': ['knowledge'], 'lot': ['lot'], 'work': ['work'], 'teacher': ['teacher'], 'lectur': ['lecture']}"
+138,Nice!! I can write a web application now!,"{'!!': ['!!'], 'web applic': ['web application']}"
+139,good,{}
+140,Thank you !,{}
+141,nice course and nice explanation ,"{'cours': ['course'], 'explan': ['explanation']}"
+142,Excellent source of information.,"{'sourc': ['source'], 'inform': ['information']}"
+143,"Angular is very extensive, difficult to understand, but the teacher finds the way putting together everything, Excellent course, the best until now. ","{'teacher': ['teacher'], 'way': ['way'], 'everyth': ['everything'], 'cours': ['course']}"
+144,Excellent course. I was very helpful!!,{'cours': ['course']}
+145,very good,{}
+146,This is the best course in getting the basic understanding of AngularJS. I really did get a lot out this course and I would highly recommend anyone for trying to learn angularJs. The organization and the layout of the course and also the professor explanation of the concept are really great!!,"{'cours': ['course'], 'understand': ['understanding'], 'angularj': ['AngularJS', 'angularJs'], 'lot': ['lot'], 'anyon': ['anyone'], 'organ': ['organization'], 'layout': ['layout'], 'professor explan': ['professor explanation'], 'concept': ['concept']}"
+147,Nice Course. Professor makes it more easy and interesting to learn. Thank You Sir.,"{'cours': ['Course'], 'professor': ['Professor'], 'sir': ['Sir']}"
+148,Too hard to listen his English,{'english': ['English']}
+149,very well structured for learning at our own space!,{'space': ['space']}
+150,I like the professor...but the activities and projects always had errors and issues that weren't easily fixable. And the mentors are absolutely terrible at providing guidance. So I most likely won't be able to finish this course.,"{'professor': ['professor'], 'activ': ['activities'], 'project': ['projects'], 'error': ['errors'], 'issu': ['issues'], 'mentor': ['mentors'], 'guidanc': ['guidance'], 'cours': ['course']}"
+151,"AngularJS is The brain in the front-end development, and it was the most difficult part of this specialization so far, regarding all the concepts behind, like TDD, REST, MVC, etc. Once that you understand all of these concepts, the course is great. Professor Joggesh explains the angular features in a comprehensive way and his references to external links are a must.","{'angularj': ['AngularJS'], 'brain': ['brain'], 'develop': ['development'], 'part': ['part'], 'special': ['specialization'], 'concept': ['concepts'], 'tdd': ['TDD'], 'rest': ['REST'], 'cours': ['course'], 'professor joggesh': ['Professor Joggesh'], 'featur': ['features'], 'way': ['way'], 'refer': ['references'], 'link': ['links']}"
+152,very interesting course,{'cours': ['course']}
+153,Fantastic!!,{}
+154,Super good start for people without any javascript experience. But you will need more in real life ,"{'super start': ['Super start'], 'peopl': ['people'], 'javascript experi': ['javascript experience'], 'life': ['life']}"
+155,The teacher is amazing,{'teacher': ['teacher']}
+156,Nice Course ,{'cours': ['Course']}
+157,"I loved this coursed, it allowed me to get more opportunities in my work field, I highly recommend it.","{'opportun': ['opportunities'], 'work field': ['work field']}"
+158,Learning materials are poorly delivered. Codes given are bug-ridden this in turn makes it incredibly difficult to follow on. Disappointing,"{'learn materi': ['Learning materials'], 'code': ['Codes']}"
+159, This course is the best part of the Full Stack series. I would like to see a more advance course just on Angular.,"{'cours': ['course'], 'part': ['part'], 'stack seri': ['Stack series']}"
+160,"I liked this course so much. I never had used Angular JS nor JSON before and now I leanerd something new. Now, I'm going to put in practice all I've learned with my new projects. Thanks a lot to Jogesh K. Muppala and Coursera for the shared knowledges.","{'cours': ['course'], 'js': ['JS'], 'json': ['JSON'], 'someth': ['something'], 'practic': ['practice'], 'project': ['projects'], 'thank': ['Thanks'], 'lot': ['lot'], 'jogesh k. muppala': ['Jogesh K. Muppala'], 'coursera': ['Coursera'], 'knowledg': ['knowledges']}"
+161,"Very good course, go ahead",{'cours': ['course']}
+162,"it is good , but some items needs to be illustrated in more details , a great thing of this course is that it gives a lot of practice exercises ","{'item': ['items'], 'detail': ['details'], 'thing': ['thing'], 'cours': ['course'], 'lot': ['lot'], 'practic exercis': ['practice exercises']}"
+163,The tutor is exceptionally good. It included all the sources for documentation but I felt I learned more from by reading the Angularjs official documentation than from this course. Assignments covered a variety of concepts. ,"{'tutor': ['tutor'], 'sourc': ['sources'], 'cours': ['course'], 'assign': ['Assignments'], 'varieti': ['variety'], 'concept': ['concepts']}"
+164,Great introduction to angular.js,"{'introduct': ['introduction'], 'angular.j': ['angular.js']}"
+165,For a newbie in Frameworks I could learn a lot! Thanks to the professor and this excelent complete course.,"{'newbi': ['newbie'], 'framework': ['Frameworks'], 'lot': ['lot'], 'thank': ['Thanks'], 'professor': ['professor'], 'cours': ['course']}"
+166,Quite a good experience.,{'experi': ['experience']}
+167,Very nice explanations!,{'explan': ['explanations']}
+168,"Very complete course, good teacher on my first experience with coursera, really great ! ","{'cours': ['course'], 'teacher': ['teacher'], 'experi': ['experience'], 'coursera': ['coursera']}"
+169,The course was very helpful. I can now work comfortably with Angular. Thank you!,{'cours': ['course']}
+170,"A nice overview on Angular JS, just enough to get you started!","{'overview': ['overview'], 'js': ['JS']}"
+171,There are steps that are missing at times which require you to scour for help. There are also quirks that aren't mentioned that other students have to point out. Unaddressed questions in the discussion board required escalation. Feels rushed and it's hard to learn for a beginner. Feels like you're just going through the motions and copy and pasting code.,"{'step': ['steps'], 'time': ['times'], 'help': ['help'], 'student': ['students'], 'question': ['questions'], 'discuss board': ['discussion board'], 'escal': ['escalation'], 'beginn': ['beginner'], 'motion': ['motions'], 'past': ['pasting'], 'copi code': ['copy code']}"
+172,I am a bit disappointed by this course. I was expecting a more fast paced course with more information regarding Angular. Unfortunately in the videos there is a lot of time spent on unnecessary details and reading out loud the source code. The exercises are quite basic and they did not pose real challenges - except for errors coming from mismatched packages or mistakes in configuration files. Also I think that the level of support provided by the mentors of this course is lacking. Mentors are quite absent and very late in providing any help in the forums so the students have to kind of counsel one another - that is sometimes good but a proper class also requires a good level of supervision.All in all I think this is an OK course that is mostly geared to the uninitiated. It needs some serious work to make it a great course.,"{'bit': ['bit'], 'cours': ['course'], 'inform': ['information'], 'video': ['videos'], 'lot': ['lot'], 'time': ['time'], 'detail': ['details'], 'sourc code': ['source code'], 'exercis': ['exercises'], 'challeng': ['challenges'], 'error': ['errors'], 'packag': ['packages'], 'mistak': ['mistakes'], 'configur file': ['configuration files'], 'level': ['level'], 'support': ['support'], 'mentor': ['Mentors', 'mentors'], 'help': ['help'], 'forum': ['forums'], 'student': ['students'], 'kind': ['kind'], 'counsel': ['counsel'], 'class': ['class'], 'supervision.al': ['supervision.All'], 'work': ['work']}"
+173,"Professor just does not explain the concepts well, just reads the code snippets. You need to figure things out the hard way. You don't get too much help from the moderators as well.","{'professor': ['Professor'], 'concept': ['concepts'], 'thing': ['things'], 'way': ['way'], 'help': ['help'], 'moder': ['moderators']}"
+174,Amazing course!,{'cours': ['course']}
+175,a great course and good instructor.,"{'cours': ['course'], 'instructor': ['instructor']}"
+176,"Great Course for angular 1.x for angular newbies.It includes almost all the angular basic concept,including module,controller,service,filter,directive,view,data model,expressions,two way binding,dependency injection.And also this course provides a good full example illustrating how to use angular CRUD app.However,finishing this course is far from being proficient in angular developing,you should keep practicing more and find more resources from angular official websites.","{'cours': ['course', 'Course'], '1.x': ['1.x'], 'newbies.it': ['newbies.It'], 'concept': ['concept'], 'modul': ['module'], 'control': ['controller'], 'servic': ['service'], 'filter': ['filter'], 'direct': ['directive'], 'exampl': ['example'], 'crud app.howev': ['CRUD app.However'], 'resourc': ['resources'], 'websit': ['websites']}"
+177,"very informative and challenging course, i enjoyed finishing it.",{'cours': ['course']}
+178,Challenging but fun!,{'fun': ['fun']}
+179,"It's a lot better than trying to learn the methods and information on my own without an instructor. I feel very empowered. In any case, the course was a very good brain workout.","{'lot': ['lot'], 'method': ['methods'], 'inform': ['information'], 'instructor': ['instructor'], 'case': ['case'], 'cours': ['course'], 'brain workout': ['brain workout']}"
+180,Teacher is really bad. Terrible.,{'teacher': ['Teacher']}
+181,I definitely enjoyed doing this course. The exercises really helped me understand it and it makes you more involved. ,"{'cours': ['course'], 'exercis': ['exercises']}"
+182,Excellent course. Thanks.,"{'cours': ['course'], 'thank': ['Thanks']}"
+183,very useful course,{'cours': ['course']}
+184,Best Course for Beginner,"{'cours': ['Course'], 'beginn': ['Beginner']}"
+185,Top interest!,{'interest': ['interest']}
+186,There are no advanced stuff these what is taught are basics any graduate or undergraduate student can easily pickup on his her own interest. What a waste of time ,"{'stuff': ['stuff'], 'basic': ['basics'], 'graduat': ['graduate'], 'student': ['student'], 'pickup': ['pickup'], 'interest': ['interest'], 'wast': ['waste'], 'time': ['time']}"
+187,Everything is clearly explained! Practice was great!,"{'everyth': ['Everything'], 'practic': ['Practice']}"
+188,Well i am surprised that Angularjs is not easy to learn but how easily and smartly you teach this course.. Really appreciated Sir!!,"{'angularj': ['Angularjs'], 'cours': ['course']}"
+189,excellent,{}
+190,Loved it,{}
+191,Superb Course!!!!,{'superb cours': ['Superb Course']}
+192,A wonderful course! Good theory with coll practices!,"{'cours': ['course'], 'theori': ['theory'], 'coll practic': ['coll practices']}"
+193,It help me a lot. thanks,"{'lot': ['lot'], 'thank': ['thanks']}"
+194,very nice and helpful,{}
+195,This course is awesome!! it is very informative and you learn a lot as a beginner. I love the blooper alert. ,"{'cours': ['course'], 'lot': ['lot'], 'beginn': ['beginner'], 'blooper alert': ['blooper alert']}"
+196,"good course, very informative ",{'cours': ['course']}
+197,"This course will help you to fall in love with AngularJS. Great explanation and exercise, assignments. Thank you very much.","{'cours': ['course'], 'love': ['love'], 'angularj': ['AngularJS'], 'explan': ['explanation'], 'exercis': ['exercise'], 'assign': ['assignments']}"
+198,Wonderful course! Love it and learn a lot!,"{'cours': ['course'], 'love': ['Love'], 'lot': ['lot']}"
+199,clear and the examples are very useful!,{'exampl': ['examples']}
+200,nice course and sequenced well.,{'cours': ['course']}
+201,"The Course is an extensive coverage of various in-depth resources of technologies and concepts related to AngularJS. I really like the course and the mentor, who is taking great pain in making us understand the jargons behind the course. Thank You Sir for your invaluable insight. ","{'cours': ['course', 'Course'], 'coverag': ['coverage'], 'resourc': ['resources'], 'technolog': ['technologies'], 'concept': ['concepts'], 'angularj': ['AngularJS'], 'mentor': ['mentor'], 'pain': ['pain'], 'jargon': ['jargons'], 'sir': ['Sir'], 'insight': ['insight']}"
+202,easy to learn.,{}
+203,"For all the many courses I took on Coursera, this course is one of the best. ","{'cours': ['course', 'courses'], 'coursera': ['Coursera']}"
+204,The course was just fine. Some of the lectures were really good while some lectures were really confusing. The good thing is that course provides excellent resources for further exploring the topics in the course. So i had to consult these additional resources when i find lectures confusing.Course Assignments were really simple. Hardly any assignment took me more than an hour to complete. ,"{'cours': ['course'], 'thing': ['thing'], 'resourc': ['resources'], 'topic': ['topics'], 'confusing.cours assign': ['confusing.Course Assignments'], 'assign': ['assignment'], 'hour': ['hour']}"
+205,"It was informative course. Assignments could be more involved, and exercises could be more open-ended. ","{'cours': ['course'], 'assign': ['Assignments'], 'exercis': ['exercises']}"
+206,"Examples are clear, very good introductory course. Can using w3schoool as reference","{'exampl': ['Examples'], 'cours': ['course'], 'w3schoool': ['w3schoool'], 'refer': ['reference']}"
+207,This course teach me one important thing That is my job in the future.,"{'cours': ['course'], 'thing': ['thing'], 'job': ['job']}"
+208,Perfect and comprehensive course..thank you very much.,"{'perfect': ['Perfect'], 'cours': ['course']}"
+209,I recommend this course for naive to medium level expertise.,"{'cours': ['course'], 'medium level expertis': ['medium level expertise']}"
+210,I like this course for some reasons - a lot of understandable theory; - good practical tasks; - understandable and detailed speech of teacher.,"{'cours': ['course'], 'reason': ['reasons'], 'lot': ['lot'], 'theori': ['theory'], 'task': ['tasks'], 'speech': ['speech'], 'teacher': ['teacher']}"
+211,Helpful,{}
+212,Good.,{}
+213,Good quality content and great instructor. I recommend it!It does not cover though a very important feature from angular directives. ,"{'qualiti content': ['quality content'], 'instructor': ['instructor'], 'it!it': ['it!It'], 'featur': ['feature'], 'direct': ['directives']}"
+214,Quite helpful,{}
+215,Very complex and interesting module.,"{'complex': ['complex'], 'modul': ['module']}"
+216,This course is a real workout! ,"{'cours': ['course'], 'workout': ['workout']}"
+217,Great course!,{'cours': ['course']}
+218,Great! ,{}
+219,"Overall the course is very good but it gets trickier the further you go, specially if you have no experience in this area whatsoever... Take it from someone who's first contact with Web Development was the first course in this Specialization HTML, CSS &amp; JavaScript. My advice to students in a similar situation is to look for other sources of information as well and try to experiment with your code as the lessons go by so you can really grasp the meaning of the pieces of code you're writing. Eventually, they'll start to make sense - ","{'cours': ['course'], 'experi': ['experiment', 'experience'], 'area': ['area'], 'contact': ['contact'], 'web develop': ['Web Development'], 'special html': ['Specialization HTML'], 'css': ['CSS'], 'student': ['students'], 'situat': ['situation'], 'sourc': ['sources'], 'inform': ['information'], 'code': ['code'], 'lesson': ['lessons'], 'mean': ['meaning'], 'piec': ['pieces'], 'sens': ['sense']}"
+220,"Extremely poor help and feedback. Almost no replies on discussion forums from mentors peers so many issues end up unresolved. Considering how difficult this course is compared to other courses, the lack of real assistance is appalling. Seemingly outdated lessons. A lot of errors I get come from version discrepancies. Lessons should be checked over. If I have to Google problems to complete step-by-step lessons, the lesson is extremely ill-prepared. This is enough to make me abort this specialization. ","{'help': ['help'], 'feedback': ['feedback'], 'discuss forum': ['discussion forums'], 'issu': ['issues'], 'cours': ['course', 'courses'], 'lack': ['lack'], 'assist': ['assistance'], 'lesson': ['Lessons', 'lessons', 'lesson'], 'lot': ['lot'], 'error': ['errors'], 'version discrep': ['version discrepancies'], 'googl problem': ['Google problems'], 'special': ['specialization']}"
+221,Its very challenging for me... ,{}
+222,This course is awesome!!!!! Thanks ,"{'cours': ['course'], 'thank': ['Thanks']}"
+223,very good course to help me start with angular and javascript frame work learning!,"{'cours': ['course'], 'frame work': ['frame work']}"
+224,"Best full stack courses, even after this single course you can separately make a powerful front end","{'stack cours': ['stack courses'], 'cours': ['course'], 'front end': ['front end']}"
+225,"A great course on Angular JS, explained in an excellent practical manner. Exercise videos clearly show and allow us to practice along which makes the understanding very effective.","{'cours': ['course'], 'js': ['JS'], 'manner': ['manner'], 'exercis video': ['Exercise videos'], 'understand': ['understanding']}"
+226,La verdad este curso es de lo mejor te da las herramientas para que puedas desarrollar con angular recomendado,{'desarrollar con recomendado': ['desarrollar con recomendado']}
+227,Good Course,{'cours': ['Course']}
+228,Best course ever!,{'cours': ['course']}
+229,Good one.Like the Bloomers at the end of some videos.,"{'one.lik': ['one.Like'], 'end': ['end'], 'video': ['videos']}"
+230,Good.,{}
+231,excellent,{}
+232,A good course for Angular JS.,"{'cours': ['course'], 'js': ['JS']}"
+233,Awesome course!,{'cours': ['course']}
+234,Fantastic. Very glad to have taken this course.,{'cours': ['course']}
+235,Very bad explanation too boring lectures,{'explan': ['explanation']}
+236,Complete,{}
+237,excellent course,{'cours': ['course']}
+238,Excellent education!,{'educ': ['education']}
+239,good course,{'cours': ['course']}
+240,sometimes it's hard to get things.. but it's very useful and strong course,{'thing': ['things']}
+241,"This course is excellent, highly recommended",{'cours': ['course']}
+242,Had good content but description was a like scattered manner. It could have better if explanation should be in fluent manner.,"{'content': ['content'], 'descript': ['description'], 'manner': ['manner'], 'explan': ['explanation']}"
+243,"Very good course, with much to learn. By applying step by step every aspect of the course was for me very helpful. I hope more and more courses to follow this example.","{'cours': ['course', 'courses'], 'step': ['step'], 'aspect': ['aspect'], 'exampl': ['example']}"
+244,Great Course for those who wants to go deeper in Front-End Frameworks,"{'cours': ['Course'], 'front-end framework': ['Front-End Frameworks']}"
+245,Good,{}
+246,This course needs an easier way to peer review. Downloading individual files to computer and plugging into your project without overwriting your own work is a nuisance. Especially during assignment 4 where everything needed to be hosted in the server in order to work; this made is extremely difficult to review. ,"{'cours': ['course'], 'way': ['way'], 'review': ['review'], 'file': ['files'], 'comput': ['computer'], 'project': ['project'], 'work': ['work'], 'nuisanc': ['nuisance'], 'assign': ['assignment'], 'everyth': ['everything'], 'server': ['server']}"
+247,"Great Content, and by the end of the course you have a full fledged Front-end website working.","{'great content': ['Great Content'], 'end': ['end'], 'cours': ['course'], 'front-end websit work': ['Front-end website working']}"
+248,Great course! ,{'cours': ['course']}
+249,Wonderful experience y Must try!!,{'experi y': ['experience y']}
+250,"Fantastic course, fantastic teacher.","{'cours': ['course'], 'teacher': ['teacher']}"
+251,"Easy to understand, but hard to listen. I think we need a American teacher","{'easi': ['Easy'], 'teacher': ['teacher']}"
+252,Cannot believe charge me homework,{'homework': ['homework']}
+253,Great,{}
+254,so far excellent. After first week.,{'week': ['week']}
+255,Everything is explained in a big rush. Very hard to get starting from the second week,"{'everyth': ['Everything'], 'rush': ['rush'], 'week': ['week']}"
+256,thank you professor,{'professor': ['professor']}
+257,Excellent,{}
+258,"not good as usual one, the code you provided can not work, I had to debug againand the instructions for the assignments are not concrete as the last two courses","{'code': ['code'], 'instruct': ['instructions'], 'assign': ['assignments'], 'cours': ['courses']}"
+259,"A massive amount of content to cover, some of it quite advanced. The exercises become fraught if your code is out of sync with the tutor's code. Things won't work, you won't know why, and there's no real recovery from that. ","{'amount': ['amount'], 'content': ['content'], 'exercis': ['exercises'], 'code': ['code'], 'tutor': ['tutor'], 'thing': ['Things'], 'recoveri': ['recovery']}"
+260,I didnt know anything about Angular. Now I feel confident with the skills learned. Great instructor. Funny,"{'anyth': ['anything'], 'skill': ['skills'], 'instructor': ['instructor']}"
+261,no basics being taught! straight away code snippets are pasted.,{'basic': ['basics']}
+262,This course was really helpful in understanding the basic functionalities in angular js.Looking forward to learning more in the next few days,"{'cours': ['course'], 'function': ['functionalities'], 'js.look': ['js.Looking'], 'day': ['days']}"
+263,great course,{'cours': ['course']}
+264,Enjoyed the course. It really increased my skills,"{'cours': ['course'], 'skill': ['skills']}"
+265,"Very nice course, but it would be even better if it was about Angular 2, since it is to become the standard AngularJS is was.","{'cours': ['course'], 'angularj': ['AngularJS']}"
+266,Good course,{'cours': ['course']}
+267,"Excellent course on Front-End JavaScript Frameworks. Covers a wide range of web development topics and tools that can easily overwhelm first-time takers. Professor Jogesh is a great instructor who knows his stuff and explains everything thoroughly. Students may have to take this class twice to really soak in the material, and this is just the front-end side of web development! ","{'cours': ['course'], 'front-end javascript framework': ['Front-End JavaScript Frameworks'], 'rang': ['range'], 'web develop topic': ['web development topics'], 'tool': ['tools'], 'taker': ['takers'], 'professor jogesh': ['Professor Jogesh'], 'instructor': ['instructor'], 'stuff': ['stuff'], 'everyth': ['everything'], 'student': ['Students'], 'class': ['class'], 'materi': ['material'], 'side': ['side'], 'web develop': ['web development']}"
+268,Very good,{}
+269,"also, good course but not free to access the assignment","{'cours': ['course'], 'assign': ['assignment']}"
+270,"That course is very useful to became a Fullstack Web developer. Of course, a lot of work to be done but in the end - a full respect of yourself and .a sigh of relief by Professor J.Muppala -D","{'cours': ['course'], 'fullstack web develop': ['Fullstack Web developer'], 'lot': ['lot'], 'work': ['work'], 'end': ['end'], 'respect': ['respect']}"
+271,"Amazing Course , i recommend it !",{'amaz cours': ['Amazing Course']}
+272,very good course,{'cours': ['course']}
+273,"Very Nice Course. Takes us through everything and enables us with basic promised objective. Good Luck to Course creators, keep adding more to it.","{'cours': ['Course'], 'everyth': ['everything'], 'object': ['objective'], 'luck': ['Luck'], 'cours creator': ['Course creators']}"
+274,I would recommend the full specialization for anyone interested in web field ,"{'special': ['specialization'], 'anyon': ['anyone'], 'web field': ['web field']}"
+275,great hands on course materialgreat delivery by prof. Muppala,"{'hand': ['hands'], 'cours': ['course'], 'deliveri': ['delivery'], 'prof. muppala': ['prof. Muppala']}"
+276,Very good. i liked this course. Thank you.,{'cours': ['course']}
+277,Great course,{'cours': ['course']}
+278,Excellent! Especially after taking previous course on Bootstrap and JQuery and realize how same website can be converted to AngularJS easily and why this is better.,"{'cours': ['course'], 'bootstrap': ['Bootstrap'], 'jqueri': ['JQuery'], 'websit': ['website'], 'angularj': ['AngularJS']}"
+279,Not happy with this course.,{'cours': ['course']}
+280,Great course. I had a lot of fun. Structure of the course is very good.,"{'cours': ['course'], 'lot': ['lot'], 'fun': ['fun'], 'structur': ['Structure']}"
+281,Love,{'love': ['Love']}
+282,Good course,{'cours': ['course']}
+283, The teacher is very good! He explains very well and the material is very carefully prepared. Great Course! ,"{'teacher': ['teacher'], 'materi': ['material'], 'cours': ['Course']}"
+284,Awesome course! Expecting Angular2 or React taught by this amazing teacher,"{'cours': ['course'], 'teacher': ['teacher']}"
+285,"A good introduction to AngularJS, but falls short on connecting the dots in places.","{'introduct': ['introduction'], 'angularj': ['AngularJS']}"
+286,Remarkable.,{}
+287,awesome,{}
+288,It was really a extremely good course.,{'cours': ['course']}
+289,"The teacher is very comprehensive and very serious and provides a lot of supplementary reading materials, I like it very much.","{'teacher': ['teacher'], 'lot': ['lot'], 'read materi': ['reading materials']}"
+290,"Angular 1 not Angular 2 which is disappointing but worse still, it teaches use of scope which is no longer recommended by the angular team themselves.Could be vastly improved by using modern angular best practice such as Controller As syntax and teaching you to write code that is more compatible with Angular 2","{'use': ['use'], 'scope': ['scope'], 'team themselves.could': ['team themselves.Could'], 'practic': ['practice'], 'control': ['Controller'], 'syntax': ['syntax'], 'teach': ['teaching'], 'code': ['code']}"
+291,"Pros a lot of good content, worth 8 weeks of study, so good bang for the buck. Takes modular approach, where things are gradually taken apart and shown how to improve using another Angular module or approach. Cons can be a little academical, very time-intensive.I have a much better understanding now of MVC concept using JS framework. ","{'lot': ['lot'], 'content': ['content'], 'week': ['weeks'], 'studi': ['study'], 'bang': ['bang'], 'buck': ['buck'], 'approach': ['approach'], 'thing': ['things'], 'modul': ['module'], 'con': ['Cons'], 'academ': ['academical']}"
+292,"Excellent course, thank you very much teacher for its depth on the issues and passion for what he does !!","{'cours': ['course'], 'teacher': ['teacher'], 'depth': ['depth'], 'issu': ['issues'], 'passion': ['passion']}"
+293,Excellent course,{'cours': ['course']}
+294,good course,{'cours': ['course']}
+295,Very good course. Absolutely recommendable.,{'cours': ['course']}
+296,Great course!,{'cours': ['course']}
+297,So good i love it so much Thank you,{}
+298,very practical,{}
+299,Excellent course!,{'cours': ['course']}
+300,Very good course and teacher!,"{'cours': ['course'], 'teacher': ['teacher']}"
+301,"Excellent course, the professor is fantastic with his explanations and the course gives a great foundation to build upon.","{'cours': ['course'], 'professor': ['professor'], 'explan': ['explanations'], 'foundat': ['foundation']}"
+302,My First course with Coursera loved it.,"{'cours': ['course'], 'coursera': ['Coursera']}"
+303, Great ,{}
+304,Excellent introduction!,{'introduct': ['introduction']}
+305,The great one!,{}
+306,Excellent Course. Excellent Professor. ,"{'cours': ['Course'], 'professor': ['Professor']}"
+307,Very good. Thank you,{}
+308,"Not a bad course, but videos must be shorter. Divide 30-40 min videos into small ones","{'cours': ['course'], 'video': ['videos'], 'min video': ['min videos'], 'one': ['ones']}"
+309,Good D,{'d': ['D']}
+310,Very good course.. Assignments should be independent of lectures to test understanding.,"{'cours': ['course'], 'assign': ['Assignments'], 'understand': ['understanding']}"
+311,Excellent! ,{}
+312,great class,{'class': ['class']}
+313,"Update Coursera or the course content provider has changed this course in a bad way You have to PAY for the course IN FULL AMOUNT JUST to get your assignments submitted and reviewed by peer learner.What a pity. -------------------------------------------------------------------------------------------------------------Great course! Material is very useful and interesting!The course introduces concepts in a progressive and comprehensive way so that knowledge is easy to be understood. Practise quiz and assignments perfectly reflects course materials.Also, professor Muppala is quite funny. Enjoy the course!","{'updat coursera': ['Update Coursera'], 'cours content provid': ['course content provider'], 'cours': ['course'], 'way': ['way'], 'full amount': ['FULL AMOUNT'], 'assign': ['assignments'], 'learner.what': ['learner.What'], 'piti': ['pity'], 'materi': ['Material'], 'interesting!th cours': ['interesting!The course'], 'concept': ['concepts'], 'knowledg': ['knowledge'], 'quiz': ['quiz'], 'cours materials.also': ['course materials.Also'], 'professor muppala': ['professor Muppala']}"
+314,best angular course I have seen,{'cours': ['course']}
+315,"Amazing, nothing less ",{'noth': ['nothing']}
+316,Amazing course. Helped learn a new framework very quickly D,"{'cours': ['course'], 'framework': ['framework'], 'd': ['D']}"
+317,It is a good course to know AngulerJS,{'cours': ['course']}
+318,"The course is very good, the teacher very clear, easy to follow. In yet it is a basic course","{'cours': ['course'], 'teacher': ['teacher']}"
+319,"excellent course, assignments and marvelous teacher. Though an example of writing personal directive would be a nice addition.","{'cours': ['course'], 'assign': ['assignments'], 'teacher': ['teacher'], 'exampl': ['example'], 'direct': ['directive'], 'addit': ['addition']}"
+320,What better way to understand angular JS than doing hands on project. The transformation of entering into learning angular JS with bootstrap is something I loved about this course. Thank you Professor Jogesh Muppala. It is a great learning experience.,"{'way': ['way'], 'js': ['JS'], 'hand': ['hands'], 'project': ['project'], 'bootstrap': ['bootstrap'], 'someth': ['something'], 'cours': ['course'], 'professor jogesh muppala': ['Professor Jogesh Muppala'], 'learn experi': ['learning experience']}"
+321,Very interesting course,{'cours': ['course']}
+322,Great course. A lot of information in lectures and detailed tasks for assignments. The course gives the review and the basis of Angular and helps to create your own Angular application. Thanks,"{'cours': ['course'], 'lot': ['lot'], 'inform': ['information'], 'task': ['tasks'], 'assign': ['assignments'], 'review': ['review'], 'basi': ['basis'], 'applic': ['application'], 'thank': ['Thanks']}"
+323,Really the best!!! But It will be good if lecture includes some errors we can make and silly mistakes which affects results adversely. Jogesh sir is very good teacher and he is clear and brief in less time,"{'!!!': ['!!!'], 'lectur': ['lecture'], 'error': ['errors'], 'mistak': ['mistakes'], 'result': ['results'], 'sir': ['sir'], 'teacher': ['teacher'], 'time': ['time']}"
+324,"Great teacher, AngularJS it's awesome...","{'teacher': ['teacher'], 'angularj': ['AngularJS']}"
+325,Top,{}
+326,Very very good course!!,{'cours': ['course']}
+327,Very good course,{'cours': ['course']}
+328,very good!,{}
+329,"Takes a bit of time to get adjusted to the workflow. It's a bit trial and error, especially if your using Windows. Best bet is to use a unix-terminal so if you have windows use a terminal like Git Bash. Overall it's a very good course and gets you into the meat and bones of Web Development. Just remember to come with patience and do things on time ","{'bit': ['bit'], 'time': ['time'], 'workflow': ['workflow'], 'bit trial': ['bit trial'], 'error': ['error'], 'window': ['windows', 'Windows'], 'bet': ['bet'], 'git bash': ['Git Bash'], 'cours': ['course'], 'web develop': ['Web Development'], 'patienc': ['patience'], 'thing': ['things']}"
+330,Nice course for beginners,"{'cours': ['course'], 'beginn': ['beginners']}"
+331,Very helpful course ,{'cours': ['course']}
+332,"Superb guidance, hands-on project, rich extensions and ample opportunities for learning new things.One of the best specializations!","{'guidanc': ['guidance'], 'project': ['project'], 'extens': ['extensions'], 'opportun': ['opportunities'], 'things.on': ['things.One'], 'special': ['specializations']}"
+333,Best Angular and task runners course!,"{'task': ['task'], 'runner cours': ['runners course']}"
+334,"Well Organized, and very informative and practical course. Touches as well on the important concepts like dependency injection design pattern and its use in Angular JS.","{'organ': ['Organized'], 'cours': ['course'], 'concept': ['concepts'], 'inject design pattern': ['injection design pattern'], 'use': ['use'], 'js': ['JS']}"
+335,I really enjoyed this course; it has given me a really good platform of AngularJS to build upon.,"{'cours': ['course'], 'platform': ['platform'], 'angularj': ['AngularJS']}"
+336,This instructor is awesome.,{'instructor': ['instructor']}
+337,it 's amzing AngularJS's course and a good teacher . Thank you,"{'angularj': ['AngularJS'], 'cours': ['course'], 'teacher': ['teacher']}"
+338,Good to begin with Angular,{}
+339,Great course...,{'cours': ['course']}
+340,Pity that people had to spend more time on making the plugins work than actually doing the exercises assignments but good content nonetheless.,"{'piti': ['Pity'], 'peopl': ['people'], 'time': ['time'], 'plugin': ['plugins'], 'exercis assign': ['exercises assignments'], 'content': ['content']}"
+341,Very good course overall. It could dig into a little more detail but given the duration and workload it's still pretty good. I think it's targeted towards people who are either working or studying full-time and taking this on the side.,"{'cours': ['course'], 'detail': ['detail'], 'peopl': ['people'], 'side': ['side']}"
+342,"Thank you for this great course. Great teacher, really useful assignment which push my skills to understand more of angular's way. Very recommended","{'cours': ['course'], 'teacher': ['teacher'], 'assign': ['assignment'], 'skill': ['skills'], 'way': ['way']}"
+343,Great class. Very in depth. ,"{'class': ['class'], 'depth': ['depth']}"
+344,"Great combination of theory and practical, gives good understanding of angular and framework.","{'combin': ['combination'], 'theori': ['theory'], 'understand': ['understanding'], 'framework': ['framework']}"
+345,"Professor's lecture is pretty good, and assignment is well designed.","{'professor': ['Professor'], 'lectur': ['lecture'], 'assign': ['assignment']}"
+346,"Hard work, I had to watch most of the videos at least twice so took much more time than I anticipated. I'm glad I stuck with it because it made the start of the next course much easier. Very satisfying to have completed it. ","{'work': ['work'], 'video': ['videos'], 'time': ['time'], 'start': ['start'], 'cours': ['course']}"
+347,zero to hero,{'hero': ['hero']}
+348,"The course is very good. My only point of concern is the installation procedures of packages, where the instructor either is installing an old package or not using any new installation procedures causing students to have a whole lot of issues with setting up their development environment","{'cours': ['course'], 'point': ['point'], 'concern': ['concern'], 'instal procedur': ['installation procedures'], 'packag': ['package', 'packages'], 'instructor': ['instructor'], 'student': ['students'], 'lot': ['lot'], 'issu': ['issues'], 'develop environ': ['development environment']}"
+349,"The perfect course to start learning about Angular, the professor is incredible, full recommended this course, It help me a lot.","{'cours': ['course'], 'professor': ['professor'], 'lot': ['lot']}"
+350,Excellent course well explained everything I liked the additional resources also.,"{'cours': ['course'], 'everyth': ['everything'], 'resourc': ['resources']}"
+351,Amazing!!!,{'!!': ['!!']}
+352,Provides a thorough knowledge but could be extended to one more week to cover testing part.,"{'knowledg': ['knowledge'], 'week': ['week'], 'test part': ['testing part']}"
+353,"Very well explained, great teacher! ",{'teacher': ['teacher']}
+354,Really good course to get your feet wet! A good mix of theory and exercises. Loved it!,"{'cours': ['course'], 'mix': ['mix'], 'theori': ['theory'], 'exercis': ['exercises']}"
+355,"This course is good only for newbies and very high-level. No advanced info about Angrular. No tricks. No info about custom directives, $watch, digest cycle, etc. I had expected more detailed course","{'cours': ['course'], 'newbi': ['newbies'], 'info': ['info'], 'custom direct': ['custom directives'], 'cycl': ['cycle']}"
+356,Great course with excellent lections and homeworks.,"{'cours': ['course'], 'lection': ['lections'], 'homework': ['homeworks']}"
+357,Great course. Jogesh has done wonderful job in designing the hands on exercises.,"{'cours': ['course'], 'jogesh': ['Jogesh'], 'job': ['job'], 'hand': ['hands'], 'exercis': ['exercises']}"
+358, a very good introduction to angularJS,"{'introduct': ['introduction'], 'angularj': ['angularJS']}"
+359,"You get to learn a lot about AngularJS and other tools. I enjoyed learning this course. It was demanding at times but in the process you get to learn a lot of things, so it was rewarding.","{'lot': ['lot'], 'angularj': ['AngularJS'], 'tool': ['tools'], 'cours': ['course'], 'time': ['times'], 'process': ['process'], 'thing': ['things']}"
+360,"This one was much tougher than the previous two courses. Out of four weeks, I ended up delivering my assignments overdue on three occasions, which really has not impact on your grade, but it shows that this time around it is a bit more difficult to complete them. AngularJS is the bread and butter in the industry. All in all, I would say you could already code a basic website from head to toe, including very basic server setup, after completing this class.","{'one': ['one'], 'cours': ['courses'], 'week': ['weeks'], 'assign': ['assignments'], 'occas': ['occasions'], 'time': ['time'], 'bit': ['bit'], 'angularj': ['AngularJS'], 'bread': ['bread'], 'butter': ['butter'], 'industri': ['industry'], 'websit': ['website'], 'head': ['head'], 'server setup': ['server setup'], 'class': ['class']}"
+361,Good Angular exercises. But I think that testing should get its own segment. Becomes a bit lengthy with 30 min videos and only scraping the surface on the subject.,"{'exercis': ['exercises'], 'test': ['testing'], 'segment': ['segment'], 'bit': ['bit'], 'min video': ['min videos'], 'surfac': ['surface'], 'subject': ['subject']}"
+362,"The course is nice, however the assignments are the same every time and the pace is too slow. The final week suddenly too compact, and testing yo is not assigned at all.","{'cours': ['course'], 'assign': ['assignments'], 'time': ['time'], 'pace': ['pace'], 'week': ['week'], 'test yo': ['testing yo']}"
+363,Excellent course. I will follow also some others or all the next courses of this specialization.,"{'cours': ['course', 'courses'], 'other': ['others'], 'special': ['specialization']}"
+364,Very good course and very pleasant Professor !,"{'cours': ['course'], 'professor': ['Professor']}"
+365,Excellent Course. Good teaching and coverage of wide range of topics. ,"{'cours': ['Course'], 'teach': ['teaching'], 'coverag': ['coverage'], 'rang': ['range'], 'topic': ['topics']}"
+366,"Very good overview and step by step dive into this javascript framework. The instructor knows how to deliver one piece of information at a time and with simple exercices to put it into practice.The assignments are not very hard, but they give you confidence in what you have learned.","{'overview': ['overview'], 'step': ['step'], 'step dive': ['step dive'], 'javascript framework': ['javascript framework'], 'instructor': ['instructor'], 'piec': ['piece'], 'inform': ['information'], 'time': ['time'], 'exercic': ['exercices'], 'practice.th assign': ['practice.The assignments'], 'confid': ['confidence']}"
+367,The progression in this course is amazing! You will see how your web page is transformed beautifully into different modules. MVC concept is clearly illustrated and implemented in this course.,"{'progress': ['progression'], 'cours': ['course'], 'web page': ['web page'], 'modul': ['modules'], 'mvc concept': ['MVC concept']}"
+368,Great course. Gived me a good knowledge and understanding of an AngularJs.I would like to take all the courses of this specialisation.,"{'cours': ['course', 'courses'], 'knowledg': ['knowledge'], 'understand': ['understanding'], 'angularjs.i': ['AngularJs.I']}"
+369,good course,{'cours': ['course']}
+370,"FAntastic course. With a great illustration, you progressively build a full dynamic website using json server. ","{'cours': ['course'], 'illustr': ['illustration'], 'websit': ['website'], 'json server': ['json server']}"
+371,Nice Course helped me to learn Angular JS,"{'cours': ['Course'], 'js': ['JS']}"
+372,just love the fact that there is a course on angularJS,"{'fact': ['fact'], 'cours': ['course'], 'angularj': ['angularJS']}"
+373,Very amazing course!,{'cours': ['course']}
+374,Very good lesson! With good material and good explanation of everything! ,"{'lesson': ['lesson'], 'materi': ['material'], 'explan': ['explanation'], 'everyth': ['everything']}"
+375,Awesome,{}
+376,Love it,{'love': ['Love']}
+377,"Tougher than the Bootstrap course, but it was worth it.",{'bootstrap cours': ['Bootstrap course']}
+378,A very good course.I did not have such an experience even in the classroom.The course was fantastic.Thank you from the heart to all teachers and the coursera community.,"{'course.i': ['course.I'], 'experi': ['experience'], 'classroom.th cours': ['classroom.The course'], 'heart': ['heart'], 'teacher': ['teachers'], 'coursera communiti': ['coursera community']}"
+379,Great course.,{'cours': ['course']}
+380,useful course.,{'cours': ['course']}
+381,Really good course!,{'cours': ['course']}
+382,good quality,{'qualiti': ['quality']}
+383,"Good explanation with examples.Few examples need changes in gulp file to run and view the output. For beginners, it may be tough to understand and make changes. Please handle it.","{'explan': ['explanation'], 'examples.few exampl': ['examples.Few examples'], 'chang': ['changes'], 'gulp file': ['gulp file'], 'beginn': ['beginners']}"
+384,"Jogesh K. Muppala is a great professor, funny, entertaining and knowledgeable. The examples he provides work well and offer a great introduction to Angular.","{'jogesh k. muppala': ['Jogesh K. Muppala'], 'professor': ['professor'], 'exampl': ['examples'], 'work': ['work'], 'introduct': ['introduction']}"
+385,"Fun course, learn how to create a basic Angular website without getting too overwhelmed.","{'fun cours': ['Fun course'], 'websit': ['website']}"
+386,simply a great course! it's long but the time dedicated to it os worth it.,"{'cours': ['course'], 'time': ['time']}"
+387,"Highly recommended for beginners! The professor explain concepts in a neat, well-paced and clear manner. There's ample support for all the assignments too!","{'beginn': ['beginners'], 'professor': ['professor'], 'concept': ['concepts'], 'manner': ['manner'], 'support': ['support'], 'assign': ['assignments']}"
+388,"Was very difficult to follow. This is a complex subject and the prof is trying his best, but there are times the explanation is not sufficient. Instructions for installing gulp was not good. I was unable to complete the following exercises after gulp installation failed. Instruction needs to be short and crisp. Building on top of each other project has its negative. There must be solution at the end or at least a check point where you can start clean for the next project.","{'subject': ['subject'], 'prof': ['prof'], 'time': ['times'], 'explan': ['explanation'], 'instruct': ['Instructions', 'Instruction'], 'gulp': ['gulp'], 'exercis': ['exercises'], 'gulp instal': ['gulp installation'], 'build': ['Building'], 'top': ['top'], 'project': ['project'], 'end': ['end'], 'check point': ['check point']}"
+389,The course is escellent! The teacher is excellent!,"{'cours': ['course'], 'teacher': ['teacher']}"
+390,Thanks for this introduction to AngularJS.Unfortunately we have to pay in order to obtain a certificate of accomplishment.,"{'thank': ['Thanks'], 'introduct': ['introduction'], 'certif': ['certificate'], 'accomplish': ['accomplishment']}"
+391,"Great course, didactial and very well explained",{'cours': ['course']}
+392,"More on Angular, less on Gulp and Grunt. Lectures about them are so tedious, and when you need them you get the finished code and modify it via tutorial ","{'gulp': ['Gulp'], 'grunt': ['Grunt'], 'lectur': ['Lectures'], 'code': ['code'], 'tutori': ['tutorial']}"
+393,"Too long videos, you should make more short videos, instead of one boring long video. You speak too slow and that makes a 8 minutes video turns into 30 minutes video.","{'video': ['video', 'videos'], 'minut': ['minutes']}"
+394,steps for exercises are not clear.,"{'step': ['steps'], 'exercis': ['exercises']}"
+395,Much more than I expected from the course organizers. Great work!,"{'cours organ': ['course organizers'], 'work': ['work']}"
+396,This course is amazing. I am learning a lot with Mr. Muppala. Thank you!,"{'cours': ['course'], 'lot': ['lot'], 'mr. muppala': ['Mr. Muppala']}"
+397,great teacher with an solid approach the course is full of exercises and built in a way to increment as bigger project Excellent !!!,"{'teacher': ['teacher'], 'approach': ['approach'], 'cours': ['course'], 'exercis': ['exercises'], 'way': ['way'], 'increment': ['increment'], 'project !!': ['project !!']}"
+398,Good course for the introduction to Angular JS,"{'cours': ['course'], 'introduct': ['introduction'], 'js': ['JS']}"
+399,Great course for beginners. Very well explained. Thanks!,"{'cours': ['course'], 'beginn': ['beginners'], 'thank': ['Thanks']}"
+400,well done,{}
+401,The course is amazing! The only thing I'd like to be corrected is the subtitles. There are lots of mistakes that disturb our learning.,"{'cours': ['course'], 'thing': ['thing'], 'subtitl': ['subtitles'], 'lot': ['lots'], 'mistak': ['mistakes'], 'learn': ['learning']}"
+402,Nice course.,{'cours': ['course']}
+403,Good and useful course! Try it!,{'cours': ['course']}
+404,Awesome course,{'cours': ['course']}
+405,An excellent course! Thank you so much for providing wonderful explanations to all the lectures!,"{'cours': ['course'], 'explan': ['explanations']}"
+406,"As the rest of the courser, this one is another example of a good job","{'rest': ['rest'], 'courser': ['courser'], 'exampl': ['example'], 'job': ['job']}"
+407,The most relevant course I have done in Coursera,"{'cours': ['course'], 'coursera': ['Coursera']}"
+408,The paste of the lectures is too slow. Much too slow,{}
+409,Great course. Very methodical and a great example of incremental learning. Every assignment built on the previous assignment and I always felt I was being very well guided through my first learning experience with Angularjs. ,"{'cours': ['course'], 'exampl': ['example'], 'learn': ['learning'], 'assign': ['assignment'], 'learn experi': ['learning experience'], 'angularj': ['Angularjs']}"
+410,"Awesome course content, nice explanation by the tutor. Must for beginners who want to have a start with AngularJS, grunt, gulp and other tools.","{'cours content': ['course content'], 'explan': ['explanation'], 'tutor': ['tutor'], 'beginn': ['beginners'], 'start': ['start'], 'angularj': ['AngularJS'], 'grunt': ['grunt'], 'gulp': ['gulp'], 'tool': ['tools']}"
+411,Excellent course!!!,{'cours': ['course']}
+412,Not bad!,{}
+413,Excelente,{}
+414,A very well explained course,{'cours': ['course']}
+415,"Good course, especially good is coverent grunt and gulp which is very useful, also angular is covered very well for start. I learned a lot, even if i have some of angular knowledge.","{'cours': ['course'], 'grunt': ['grunt'], 'gulp': ['gulp'], 'start': ['start'], 'lot': ['lot'], 'knowledg': ['knowledge']}"
+416,Great course. Lots of hands on tasks,"{'cours': ['course'], 'lot': ['Lots'], 'hand': ['hands'], 'task': ['tasks']}"
+417,Great course and very good explanations of the concepts.,"{'cours': ['course'], 'explan': ['explanations'], 'concept': ['concepts']}"
+418,Great introduction to Angular! Learnt a lot.,"{'introduct': ['introduction'], 'lot': ['lot']}"
+419,very good teacher and good hard working course,"{'teacher': ['teacher'], 'cours': ['course']}"
+420,"Great course. Well explained, well prepared.Thank you!",{'cours': ['course']}
+421,super detailed and professional materials!,{'materi': ['materials']}
+422,This course is very well done and gives a very good understanding of angular framework.,"{'cours': ['course'], 'understand': ['understanding'], 'framework': ['framework']}"
+423,"great course!week 4 a little bit overloaded of topics, but still great","{'bit': ['bit'], 'topic': ['topics']}"
+424,"Excellent course, this course is very well planned and covered a lot of ground. In additional to angular itself, it covers the tooling, automation test utilities that support angular, this make the course very practical and in-depth. Professor Muppala designs this specification very well and make it easy to follow, but yet learning the important detail.","{'cours': ['course'], 'lot': ['lot'], 'tool': ['tooling'], 'autom test util': ['automation test utilities'], 'professor muppala': ['Professor Muppala'], 'specif': ['specification'], 'detail': ['detail']}"
+425,Jogesh Muppala did a great job in this course!Angular simple and direct,"{'muppala': ['Muppala'], 'job': ['job']}"
+426,"I think it's a very good introduction to AngularJS. You learn and understand what you're doing in almost lessons. I'd hardly recommend it to any beginner !!!I found that the 4rth week was very very compressed. You could spend 1 more week explaining all the Front-End tools such as Gulp, Grunt, Yo Yeoman etc. And go deeper with the AngularJS as well. In some points I felt myself alone with no teacher support regardless there's a students forum. I'd improve the transparency and the communication teacher-student. Anyway I very happy to spent that time on this course he explains really paciently D","{'introduct': ['introduction'], 'angularj': ['AngularJS'], 'lesson': ['lessons'], 'beginn': ['beginner'], 'week': ['week'], 'front-end tool': ['Front-End tools'], 'gulp': ['Gulp'], 'grunt': ['Grunt'], 'point': ['points'], 'teacher support': ['teacher support'], 'student forum': ['students forum'], 'transpar': ['transparency'], 'communic teacher-stud': ['communication teacher-student'], 'time': ['time'], 'cours': ['course'], 'd': ['D']}"
+427,Very good course as for me!,{'cours': ['course']}
+428,"Very good course, just a few notes short of excelence.","{'cours': ['course'], 'note': ['notes'], 'excel': ['excelence']}"
+429,"I liked this course, especially in the way is built. The subject was not so easy but anyway, thanks to the organization of lectures and exercises, i was able to achieve the target.The teacher is good and clear in the explanation.","{'cours': ['course'], 'way': ['way'], 'subject': ['subject'], 'thank': ['thanks'], 'organ': ['organization'], 'target.th teacher': ['target.The teacher'], 'explan': ['explanation']}"
+430,"Although a good introduction course, sometime is focus on javascript tools rather than on AngularJS itself which, in hand, looses time and doesn't explain give examples on how to create directives and filters, which are two core functionalities of this framework.","{'introduct cours': ['introduction course'], 'javascript tool': ['javascript tools'], 'angularj': ['AngularJS'], 'hand': ['hand'], 'time': ['time'], 'exampl': ['examples'], 'direct': ['directives'], 'filter': ['filters'], 'function': ['functionalities'], 'framework': ['framework']}"
+431,Very useful course.,{'cours': ['course']}
+432,Excellent course. Going through all the exercises and doing the assignments was a great way to get introduced to Front-end development for me.,"{'cours': ['course'], 'exercis': ['exercises'], 'assign': ['assignments'], 'way': ['way'], 'develop': ['development']}"
+433,Great Course,{'great cours': ['Great Course']}
+434,Lecturer make the course more interesting !!,"{'lectur': ['Lecturer'], 'cours': ['course']}"
+435,Great course! Excellent teacher!,"{'cours': ['course'], 'teacher': ['teacher']}"
+436,"A lot of material for one course. Would appreciate more discussion of package managers, how to find packages that may be useful.","{'lot': ['lot'], 'materi': ['material'], 'cours': ['course'], 'discuss': ['discussion'], 'packag manag': ['package managers'], 'packag': ['packages']}"
+437,The homework is the best practice for hands on. Excellent material ,"{'homework': ['homework'], 'practic': ['practice'], 'hand': ['hands'], 'materi': ['material']}"
+438,Very useful course! ,{'cours': ['course']}
+439,Just Excelent! Thank you all the people who did this possible! I learned a lot! D,"{'peopl': ['people'], 'lot': ['lot'], 'd': ['D']}"
+440,Great course for overview of Angular JS and other useful techologies connecte,"{'cours': ['course'], 'overview': ['overview'], 'js': ['JS'], 'techolog': ['techologies']}"
+441,"The course is excellent; however, it requires more time than promised...","{'cours': ['course'], 'time': ['time']}"
+442,"Amount of AngularJS topics covered by the course is too small. All assignments are very typical, just copy-paste from lecture exercises.","{'amount': ['Amount'], 'angularj topic': ['AngularJS topics'], 'cours': ['course'], 'assign': ['assignments'], 'lectur exercis': ['lecture exercises']}"
+443,Easy to follow course with raising complexity. Same example from the beginning helping to better understand the need for different tools and objects. Very well structured and even fun to follow,"{'easi': ['Easy'], 'cours': ['course'], 'complex': ['complexity'], 'exampl': ['example'], 'need': ['need'], 'tool': ['tools'], 'object': ['objects'], 'fun': ['fun']}"
+444,Very good course !,{'cours': ['course']}
+445,Great Course!! A Must!!,{'cours !!': ['Course !!']}
+446,"Interesting content, but sooo slow. 20 minutes long videos could have been done in 5 minutes. Moreover, the teacher's voice and tone did nothing to make the content live.","{'content': ['content'], 'minut': ['minutes'], 'video': ['videos'], 'teacher': ['teacher'], 'voic': ['voice'], 'tone': ['tone'], 'noth': ['nothing']}"
+447,very interesting and well structured! i'm interested in one more specialized now!,{}
+448,Thank you Professor Muppala. I learned lot of thinks and enjoyed this course.I was able to complete all the assignment with the help of this tutorials.It is organized in a very good manner. ,"{'professor muppala': ['Professor Muppala'], 'lot': ['lot'], 'course.i': ['course.I'], 'assign': ['assignment'], 'help': ['help'], 'tutorials.it': ['tutorials.It'], 'manner': ['manner']}"
+449,Very detailed and interesting,{}
+450,"Very good Course , professor makes course very easy.","{'cours': ['course', 'Course'], 'professor': ['professor']}"
+451,It is good course to learn Angular JS for beginner. It explained well how to use web tools with angular and how to start with it. ,"{'cours': ['course'], 'js': ['JS'], 'beginn': ['beginner'], 'web tool': ['web tools']}"
+452,"I love the style of the courses in this specialization. The exercises are useful and set you up for the assignments. I also really appreciate how the instructor guides you in the use of tools like bower, grunt, gulp and yo, and that he takes the time to cover unit and end-to-end testing. Looking forward to the next course!","{'style': ['style'], 'cours': ['course', 'courses'], 'special': ['specialization'], 'exercis': ['exercises'], 'assign': ['assignments'], 'instructor guid': ['instructor guides'], 'use': ['use'], 'tool': ['tools'], 'bower': ['bower'], 'grunt': ['grunt'], 'gulp': ['gulp'], 'yo': ['yo'], 'time': ['time'], 'unit test': ['unit testing']}"
+453,Very practical approach to teach AngularJS,"{'approach': ['approach'], 'angularj': ['AngularJS']}"
+454,Great course. Very useful,{'cours': ['course']}
+455,great course!!!!!!,{'cours': ['course']}
+456,"Excellent teacher! Excellent discipline and way of teaching, being practical, critic and a lot fun.I'm really enjoy all the courses. This teacher is essencial to the course success.","{'teacher': ['teacher'], 'disciplin': ['discipline'], 'way': ['way'], 'teach': ['teaching'], 'critic': ['critic'], 'lot fun.i': ['lot fun.I'], 'cours': ['courses'], 'cours success': ['course success']}"
+457,"Very useful material, the professor teaches it at a good pace and at an easy to understand level, the exercises are easy to follow and replicating the professor's steps is very simple except for the Gulp steps, but that's not graded anyway , so you can follow how he did what he did","{'materi': ['material'], 'professor': ['professor'], 'pace': ['pace'], 'level': ['level'], 'exercis': ['exercises'], 'step': ['steps'], 'gulp step': ['Gulp steps']}"
+458,"Excellent course! All the material was relevant and the exerises were challenging without being impossible. Professor Muppala is a very entertaining instructor. All three courses in the specialization so far have exceeded expectations. The only remark so far is the subpar quality of the subtitles in this course. There were many mistakes in nearly every video. Other than that, great work!","{'cours': ['course', 'courses'], 'materi': ['material'], 'exeris': ['exerises'], 'professor muppala': ['Professor Muppala'], 'instructor': ['instructor'], 'special': ['specialization'], 'expect': ['expectations'], 'remark': ['remark'], 'qualiti': ['quality'], 'subtitl': ['subtitles'], 'mistak': ['mistakes'], 'video': ['video'], 'work': ['work']}"
+459,I missed a lot of it because many NPM modules wouldn't install on my Windows environment. ,"{'lot': ['lot'], 'npm modul': ['NPM modules'], 'window environ': ['Windows environment']}"
+460,A well-organized course that makes you ??????do the puzzles one by one.,{'cours': ['course']}
+461,Perfecto para empezar con AngularJS,{'empezar con angularj': ['empezar con AngularJS']}
+462,Excellent Course and Excellent Teacher,"{'cours': ['Course'], 'excel teacher': ['Excellent Teacher']}"
+463,It's a good course to start with this technology,"{'cours': ['course'], 'technolog': ['technology']}"
+464,"Fantastic course, all explained very clearly",{'cours': ['course']}
+465,its a great course with so much to learn in a short period. course is well structured and intructor knows his stuff. the assignments are well designed to reinforce the presentations,"{'cours': ['course'], 'period': ['period'], 'stuff': ['stuff'], 'assign': ['assignments'], 'present': ['presentations']}"
+466,Good Course,{'cours': ['Course']}
+467,"What an awesome course. The teacher is top-class, really knows the subject, and how to continually explain each module. The video exercises are just made for the student to grasp the content. One of the best courses I hev experienced on Coursera.","{'cours': ['course', 'courses'], 'teacher': ['teacher'], 'subject': ['subject'], 'modul': ['module'], 'video exercis': ['video exercises'], 'student': ['student'], 'content': ['content'], 'coursera': ['Coursera']}"
+468,"Great course, I had a lot of fun","{'cours': ['course'], 'lot': ['lot'], 'fun': ['fun']}"
+469,Very good course,{'cours': ['course']}
+470,After completion I got a pretty good understanding about AngularJS and its features.,"{'complet': ['completion'], 'understand': ['understanding'], 'angularj': ['AngularJS'], 'featur': ['features']}"
+471,very very very very good course. I learned quite a lot from it. Thanks Professor.,"{'cours': ['course'], 'lot': ['lot'], 'thank professor': ['Thanks Professor']}"
+472,I liked this Course. Now i am familiar with AngularJS. Thank you,"{'cours': ['Course'], 'angularj': ['AngularJS']}"
+473,Very good.,{}
+474,Great Course and really great professor,"{'cours': ['Course'], 'professor': ['professor']}"
+475,"Good introduction to AngularJS. Moreover their provide a wide variety of additional information related to the course, which is very useful to enlarge the basic contents studied.","{'introduct': ['introduction'], 'angularj': ['AngularJS'], 'varieti': ['variety'], 'inform': ['information'], 'cours': ['course'], 'content': ['contents']}"
+476,awesome course!!!,{'cours': ['course']}
+477,great course,{'cours': ['course']}
+478,"Very good course. It allows to learn the basics of angular js very fast and easily. I only missed a little more of content in directives scopes, but here you can learn a lot.","{'cours': ['course'], 'basic': ['basics'], 'js': ['js'], 'content': ['content'], 'direct scope': ['directives scopes'], 'lot': ['lot']}"
+479,Amazing material and teaching style excellent!,"{'materi': ['material'], 'teach style': ['teaching style']}"
+480,Great teacher. Great Angular overview. I wish the instruction went deeper into Angular than it did.,"{'teacher': ['teacher'], 'overview': ['overview'], 'instruct': ['instruction']}"
+481,"Covers End 2 End web application development with AngularJS, Learned a lot and got me going with web app development.","{'cover end': ['Covers End'], 'web applic develop': ['web application development'], 'angularj': ['AngularJS'], 'lot': ['lot'], 'web app develop': ['web app development']}"
+482,This is an awesome course! Many interesting and useful topics were taught. I'm looking forward for your next courses.,"{'cours': ['course', 'courses'], 'topic': ['topics']}"
+483,Great Course,{'great cours': ['Great Course']}
+484,I love this instructor.,{'instructor': ['instructor']}
+485,Great course !,{'cours': ['course']}
+486,I ,{}
+487,"NIce and very usefull course to get started with angular and web tools such as grunt, gulp and yeoman","{'cours': ['course'], 'tool': ['tools'], 'grunt': ['grunt'], 'gulp': ['gulp']}"
+488,"Clear, Pleasant and Useful!","{'pleasant': ['Pleasant'], 'use': ['Useful']}"
+489,Very good course and very well organized. Is a must if you want you want to learn angular from the begining.,"{'cours': ['course'], 'begin': ['begining']}"
+490,Excellent course for beginners ,"{'cours': ['course'], 'beginn': ['beginners']}"
+491,Great course! ,{'cours': ['course']}
+492,One of the best tutorial!!!! You will never regret ,{'tutori': ['tutorial']}
+493,Awesome!!,{}
+494,Awesome course! I have learned so much!,{'cours': ['course']}
+495,"The professor is really great, very clear and understandable course.","{'professor': ['professor'], 'cours': ['course']}"
+496,Excellent Course.Just Superb.Great Professor.,{'course.just superb.great professor': ['Course.Just Superb.Great Professor']}
+497,Excellent Course!,{'cours': ['Course']}
+498,it was excellent,{}
+499,"I have completed 2 MOOCs till but am very happy with the new curriculum,dividing the course into small modules.I am showing interest when am watching videos,clear explanation and fully satisfied with this course.Thank you","{'mooc': ['MOOCs'], 'curriculum': ['curriculum'], 'cours': ['course'], 'modules.i': ['modules.I'], 'interest': ['interest'], 'video': ['videos'], 'explan': ['explanation'], 'course.thank': ['course.Thank']}"
+500,Excellent course!!Easy to follow..course organisation is really good. - ,{'cours': ['course']}
+501,We have a very cool Profesor on this course!If you think AngularJS is hard to learn you will change your mind after this course!Thank you Jogesh K. Muppala for sharing your knowledge!,"{'profesor': ['Profesor'], 'angularj': ['AngularJS'], 'jogesh k. muppala': ['Jogesh K. Muppala'], 'knowledg': ['knowledge']}"
+502,Excellent cours sur AngularJS,"{'cour': ['cours'], 'angularj': ['AngularJS']}"
+503,Great course and professor.,"{'cours': ['course'], 'professor': ['professor']}"
+504,Excellent Course,{'cours': ['Course']}
+505,Very nice course teaches you a real life examples.Lots of thanks to the trainer because i do understand in a very easy way.,"{'cours': ['course'], 'life examples.lot': ['life examples.Lots'], 'thank': ['thanks'], 'trainer': ['trainer'], 'way': ['way']}"
+506,Very good tutorials...,{'tutori': ['tutorials']}
+507,The course is very boring and monotonous. It should be made more engaging. One needs to capture the concentration of students for a subject like Angular.,"{'cours': ['course'], 'concentr': ['concentration'], 'student': ['students'], 'subject': ['subject']}"
+508,i like a javascript. and i really thanks to hong kong university for this course and coursera.org also.,"{'thank': ['thanks'], 'univers': ['university'], 'cours': ['course']}"
+509,Very comprehensive course ,{'cours': ['course']}
+510,Great course! ,{'cours': ['course']}
+511,"Excellent course.Gives you a hands-on approach to Angular JS, with links to more resources so that you can explore further and find all information you need to build a complete project.","{'course.g': ['course.Gives'], 'approach': ['approach'], 'js': ['JS'], 'link': ['links'], 'resourc': ['resources'], 'inform': ['information'], 'project': ['project']}"
+512,There are no better ways than this! It's a great course and i would really recommend it for anyone because i gained more experience i never grasp before doing AngularJs course from another source and find the technique in this course more easier to understand too. ,"{'way': ['ways'], 'cours': ['course'], 'anyon': ['anyone'], 'experi i grasp': ['experience i grasp'], 'angularj cours': ['AngularJs course'], 'sourc': ['source'], 'techniqu': ['technique']}"
+513,great class. assignment 4 is a killer. make sure you really learn things in first assignments instead of just copy and paste.,"{'class': ['class'], 'assign': ['assignments', 'assignment'], 'killer': ['killer'], 'thing': ['things'], 'copi': ['copy']}"
+514,really great course with awesome professor,"{'cours': ['course'], 'professor': ['professor']}"
+515,Highly recommended course. Helped a lot to get deeper understanding and later translate the knowledge to knew projects. Some topics you might need to watch more than one time.,"{'cours': ['course'], 'lot': ['lot'], 'understand': ['understanding'], 'knowledg': ['knowledge'], 'project': ['projects'], 'topic': ['topics'], 'time': ['time']}"
+516,"A tough course, requires consistent hard work!!!!","{'cours': ['course'], 'work': ['work']}"
+517,Practical and interesting.,{'practic': ['Practical']}
+518,Great Course! ,{'cours': ['Course']}
+519,Great course! I just had some little problems with some explanations but it was just once. Thank you very much Coursera and University of Hong Kong and proffesors ,"{'cours': ['course'], 'problem': ['problems'], 'explan': ['explanations'], 'coursera': ['Coursera'], 'univers': ['University'], 'hong kong': ['Hong Kong']}"
+520,"Great course. It is great for learning Angular1. we can learned with angular term services, controller, model, templates, dependency injection, filter.. Great for angular basic and we develop project along course.","{'cours': ['course'], 'term servic': ['term services'], 'control': ['controller'], 'filter': ['filter']}"
+521,"At first I didn't know the value of this course. Every one just criticized me by saying that this is a time waste and need to concentrate more on back-end. But, now a days everyone is moving towards angularJs and updating their frameworks using Angular. Now, people who blamed me, were coming to me and saying that I was lucky knowing about this. Now, I knew the value about this. Thanks for the course !","{'valu': ['value'], 'cours': ['course'], 'time': ['time'], 'wast': ['waste'], 'day': ['days'], 'everyon': ['everyone'], 'angularj': ['angularJs'], 'framework': ['frameworks'], 'peopl': ['people'], 'thank': ['Thanks']}"
+522, Excellent instructor with a sense of humor. Nicely organized course. You'll learn - if you're willing to. Invest more time than suggested. -- Iftekhar Ahmad Chowdhury,"{'instructor': ['instructor'], 'sens': ['sense'], 'humor': ['humor'], 'cours': ['course'], 'time': ['time']}"
+523,Great course!,{'cours': ['course']}
+524,Great Learning,{'great learn': ['Great Learning']}
+525, Excelente ,{}
+526,"Thanks all for this greate course, I want to give special thank to our teacher Mr Jogesh K. Muppala.","{'thank': ['Thanks'], 'great cours': ['greate course'], 'jogesh k. muppala': ['Jogesh K. Muppala']}"
+527,great class.,{'class': ['class']}
+528,"This was very difficult course for me as for newbie But at the same time it broadened my horizons. AngularJS - very interesting course. I'm glad to become graduate. Special thanks to professor Jogesh K. Muppala for his intelligence, kindness and excellent sense of humour. Also thanks to all people, who made a major contribution to this course record videos, write subtitles, correct code, consulting as mentors. So I wish prosperity to this course and lots of success!","{'cours': ['course'], 'newbi': ['newbie'], 'time': ['time'], 'angularj': ['AngularJS'], 'graduat': ['graduate'], 'thank': ['thanks'], 'jogesh k. muppala': ['Jogesh K. Muppala'], 'intellig': ['intelligence'], 'kind': ['kindness'], 'sens': ['sense'], 'humour': ['humour'], 'peopl': ['people'], 'contribut': ['contribution'], 'record video': ['record videos'], 'subtitl': ['subtitles'], 'code': ['code'], 'mentor': ['mentors'], 'prosper': ['prosperity'], 'lot': ['lots'], 'success': ['success']}"
+529,Nicely designed course to learn AngularJS,"{'cours': ['course'], 'angularj': ['AngularJS']}"
+530,"Covers all the essential topics. At the end of the course, one should have enough confidence to try and deploy pages on their own. The topics are well explained and the teacher keeps the listener engaged with his teaching style.","{'topic': ['topics'], 'end': ['end'], 'cours': ['course'], 'confid': ['confidence'], 'page': ['pages'], 'teacher': ['teacher'], 'listen': ['listener'], 'teach style': ['teaching style']}"
+531,Course is very compact and informative,{'cours': ['Course']}
+532,Very well explained from basics,{'basic': ['basics']}
+533,It is a awesome course,{'cours': ['course']}
+534,Great course to be introduced in AngularJS and learn the basic functionality of this framework.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'function': ['functionality'], 'framework': ['framework']}"
+535,"Should be a more in depth course.Although for an introduction into AngularJS, it is a very good course.","{'depth course.although': ['depth course.Although'], 'introduct': ['introduction'], 'angularj': ['AngularJS'], 'cours': ['course']}"
+536,I've been trying to learn Angular for so long! This course finally demystified the basics for me.,"{'cours': ['course'], 'basic': ['basics']}"
+537,Awesome course,{'cours': ['course']}
+538,Its great!,{}
+539,Overall course arrangement is awsome,{'cours arrang': ['course arrangement']}
+540,Excelent course,{'cours': ['course']}
+541,Wonderful course to learn AngularJS. Thank you to Jogesh K Muppala for explaining in a each and every topic and excercises more practically.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'jogesh k muppala': ['Jogesh K Muppala'], 'topic': ['topic']}"
+542,"Apart from angular i learn task runners, testings, scaffolds and more. Love this one!","{'task runner': ['task runners'], 'test': ['testings'], 'love': ['Love']}"
+543,"This is excellent training for the person who likes to keep up with the latest and greatest front-end developments. If you don't like to switch up and turn on a dime then this course is not for you. I had trouble aplenty and yet the point seemed to be stay flexible, be prepared to use obscure tools that are supposed to make the site work better but who knows exactly what is happening under the hood , expect change and adversity, become an expert at debugging that crappy code and refactoring everything at the drop of a hat. This is probably good approximation of real world experience where you would need to come in on a project and bail them out of angularjs damnation. Be prepared to be frustrated.","{'train': ['training'], 'person': ['person'], 'develop': ['developments'], 'cours': ['course'], 'troubl': ['trouble'], 'point': ['point'], 'tool': ['tools'], 'site': ['site'], 'work': ['work'], 'chang': ['change'], 'advers': ['adversity'], 'expert': ['expert'], 'code': ['code'], 'refactor': ['refactoring'], 'everyth': ['everything'], 'drop': ['drop'], 'hat': ['hat'], 'approxim': ['approximation'], 'world experi': ['world experience'], 'project': ['project'], 'angularj damnat': ['angularjs damnation']}"
+544,It was a challenging and a fun course. Good in-depth and hands on experience on Angular and other web-tools.,"{'fun cours': ['fun course'], 'hand': ['hands'], 'experi': ['experience'], 'web-tool': ['web-tools']}"
+545,"Very nice course! You should include an explanation of the versions of the angular components that are compatible, it could be very releasing.","{'cours': ['course'], 'explan': ['explanation'], 'version': ['versions'], 'compon': ['components']}"
+546,Excellent course!,{'cours': ['course']}
+547,"some difficult, but it's so useful and powerful languages",{'languag': ['languages']}
+548,Perfect course to get started with AngularJS,"{'perfect cours': ['Perfect course'], 'angularj': ['AngularJS']}"
+549,Great course to learn about AngularJS. Syllabus is good to provide step by step and deep learning. Examples are good to provide practice practices with steps. Assignment is also a good test for the knowledge learned in each week. ,"{'cours': ['course'], 'angularj': ['AngularJS'], 'syllabus': ['Syllabus'], 'step': ['step', 'steps'], 'learn': ['learning'], 'exampl': ['Examples'], 'practic practic': ['practice practices'], 'assign': ['Assignment'], 'test': ['test'], 'knowledg': ['knowledge'], 'week': ['week']}"
+550,Great course.,{'cours': ['course']}
+551,Must for a new age programmer,{'age programm': ['age programmer']}
+552,amazing course gave me in-depth knowledge of Angular.js framework!,"{'cours': ['course'], 'knowledg': ['knowledge'], 'angular.j framework': ['Angular.js framework']}"
+553,comprehensive ,{}
+554, This is a Great Course. However I think that is a wonderful option to have an intermediate leve with angularJs. ,"{'cours': ['Course'], 'option': ['option'], 'leve': ['leve'], 'angularj': ['angularJs']}"
+555,Should be updated with angular 2 components. Rest it was awesome,{'compon': ['components']}
+556,good and useful course ,{'cours': ['course']}
+557,"The lessons were well structured and easy to follow, while covering all of the essential topics needed to use Angular, including some server-side development tools. As an introductory course, it met my expectations.","{'lesson': ['lessons'], 'topic': ['topics'], 'develop tool': ['development tools'], 'cours': ['course'], 'expect': ['expectations']}"
+558,We need Angular 2,{}
+559,Awesome course for a good startup!!!,"{'cours': ['course'], 'startup': ['startup']}"
+560,"Very Good Course to learn. Assignments are very good,","{'cours': ['Course'], 'assign': ['Assignments']}"
+561,very satisfied ,{}
+562,superb course,{'cours': ['course']}
+563,Best Ever!,{}
+564,Superb course,{'cours': ['course']}
+565,love it,{'love': ['love']}
+566,The most complete course for angular beginners. Grat job teacjer Mupala D,"{'cours': ['course'], 'beginn': ['beginners'], 'teacjer mupala d': ['teacjer Mupala D']}"
+567,good. its a worth your time,{'time': ['time']}
+568,Excellent break down of Angular JS. A very good introduction; you will still need to read the Angular JS docs to get depth.,"{'break': ['break'], 'js': ['JS'], 'introduct': ['introduction'], 'js doc': ['JS docs'], 'depth': ['depth']}"
+569,"This course was too messy. I spent 75% of my time to get the examples to work. It would have been better if after each module all the js and html files would be given in total, not just the snippets.","{'cours': ['course'], '%': ['%'], 'time': ['time'], 'exampl': ['examples'], 'modul': ['module'], 'js': ['js'], 'html file': ['html files'], 'total': ['total']}"
+570,Great Course. Have a wide knowledge about Angular js.,"{'cours': ['Course'], 'knowledg': ['knowledge'], 'js': ['js']}"
+571,Amazing instructor!,{'instructor': ['instructor']}
+572,Very Good course. Recommended,{'cours': ['course']}
+573,It was a great course,{'cours': ['course']}
+574,this course is good thank you for this information we look forward more,"{'cours': ['course'], 'inform': ['information']}"
+575,"The course was really demanding for me but in the end you feel like you achieved something. Don't give up if your localhosts don't work, there are solutions, look it up.","{'cours': ['course'], 'end': ['end'], 'someth': ['something'], 'localhost': ['localhosts']}"
+576,Great,{}
+577,Great course. AngularJS is presented gradually with good manners. Super work by Jogesh K. Muppala.,"{'cours': ['course'], 'angularj': ['AngularJS'], 'manner': ['manners'], 'super work': ['Super work'], 'jogesh k. muppala': ['Jogesh K. Muppala']}"
+578,A well presented course with broad coverage of AngularJS. I thoroughly enjoyed it. The Coursera platform is excellent and easy to use.,"{'cours': ['course'], 'coverag': ['coverage'], 'angularj': ['AngularJS'], 'coursera platform': ['Coursera platform']}"
+579,Good content and awesome instructor ,"{'content': ['content'], 'instructor': ['instructor']}"
+580,sir you are best i learnt so much from you and i really appreciatie your work for students,"{'work': ['work'], 'student': ['students']}"
+581,"Exercise sources are not up to date, I have come across many problems.","{'exercis sourc': ['Exercise sources'], 'problem': ['problems']}"
+582,perfect,{}
+583,The course is well structured. ,{'cours': ['course']}
+584,Great! I have really learned a lot by attending this course. Hope to see the AngularJS 2 or React course anytime soon ,"{'lot': ['lot'], 'cours': ['course'], 'angularj': ['AngularJS']}"
+585," Amazing Course, made me understand Angular in an easy way. It gave me a good quick start. Hats of to the teacher for all the hard work.","{'cours': ['Course'], 'way': ['way'], 'start': ['start'], 'hat': ['Hats'], 'teacher': ['teacher'], 'work': ['work']}"
+586,Very easy to understand.E,{'understand.': ['understand.E']}
+587,Great Course,{'great cours': ['Great Course']}
+588,Excellent ,{}
+589,Awesome course,{'cours': ['course']}
+590,very helpful for newbies,{'newbi': ['newbies']}
+591,Rushed though the core material. ,{'core materi': ['core material']}
+592,Definitely Not for young new front end learners Lots of things difficult to understand.,"{'end learner lot': ['end learners Lots'], 'thing': ['things']}"
+593,Nice course getting into AngularJS programming foundations and some very useful tools.,"{'cours': ['course'], 'angularj program foundat': ['AngularJS programming foundations'], 'tool': ['tools']}"
+594,"Good course, cover most important topics in didatc way. But the code quality is poor and I advice to study the John Papa's Angula code style to learn a better way of using AngularJS.","{'cours': ['course'], 'topic': ['topics'], 'way': ['way'], 'code qualiti': ['code quality'], 'angula code style': ['Angula code style'], 'angularj': ['AngularJS']}"
+595,Easy to understand.,{'easi': ['Easy']}
+596,"This great course will teach you not only how to create a single page application, but it will also show you the basics about developing to the web, as it shows you the tools that will allow you to work better as a web developer.","{'cours': ['course'], 'page applic': ['page application'], 'basic': ['basics'], 'tool': ['tools'], 'web develop': ['web developer']}"
+597,This was a hard course and many of the exercises did not have enough details to complete the assignments on time. I had to rely on course forums and a lot of googling to finish the course successfully. ,"{'cours': ['course'], 'exercis': ['exercises'], 'detail': ['details'], 'assign': ['assignments'], 'time': ['time'], 'cours forum': ['course forums'], 'lot': ['lot'], 'googl': ['googling']}"
+598, The course was very clear and interesting! ,{'cours': ['course']}
+599,Nice course. However I am hearing scratching noises when the tutor is speaking which is little disturbing.,"{'cours': ['course'], 'nois': ['noises'], 'tutor': ['tutor']}"
+600,"A bit outdated now, however it is still a good resource to get started.","{'bit': ['bit'], 'resourc': ['resource']}"
+601,Thank you for providing new Angulagr js course ,{'angulagr js cours': ['Angulagr js course']}
+602,Very useful course with excellent course material. However there were some problems with the audio quality. Fixing them would make this course really enjoyable.,"{'cours': ['course'], 'cours materi': ['course material'], 'problem': ['problems'], 'qualiti': ['quality']}"
+603,Not well designed and the professor hard to follow...,{'professor': ['professor']}
+604,Nice!! I can write a web application now!,"{'!!': ['!!'], 'web applic': ['web application']}"
+605,good,{}
+606,Thank you !,{}
+607,Excellent source of information.,"{'sourc': ['source'], 'inform': ['information']}"
+608,"Angular is very extensive, difficult to understand, but the teacher finds the way putting together everything, Excellent course, the best until now. ","{'teacher': ['teacher'], 'way': ['way'], 'everyth': ['everything'], 'cours': ['course']}"
+609,very good,{}
+610,This is the best course in getting the basic understanding of AngularJS. I really did get a lot out this course and I would highly recommend anyone for trying to learn angularJs. The organization and the layout of the course and also the professor explanation of the concept are really great!!,"{'cours': ['course'], 'understand': ['understanding'], 'angularj': ['AngularJS', 'angularJs'], 'lot': ['lot'], 'anyon': ['anyone'], 'organ': ['organization'], 'layout': ['layout'], 'professor explan': ['professor explanation'], 'concept': ['concept']}"
+611,Nice Course. Professor makes it more easy and interesting to learn. Thank You Sir.,"{'cours': ['Course'], 'professor': ['Professor'], 'sir': ['Sir']}"
+612,very well structured for learning at our own space!,{'space': ['space']}
+613,"AngularJS is The brain in the front-end development, and it was the most difficult part of this specialization so far, regarding all the concepts behind, like TDD, REST, MVC, etc. Once that you understand all of these concepts, the course is great. Professor Joggesh explains the angular features in a comprehensive way and his references to external links are a must.","{'angularj': ['AngularJS'], 'brain': ['brain'], 'develop': ['development'], 'part': ['part'], 'special': ['specialization'], 'concept': ['concepts'], 'tdd': ['TDD'], 'rest': ['REST'], 'cours': ['course'], 'professor joggesh': ['Professor Joggesh'], 'featur': ['features'], 'way': ['way'], 'refer': ['references'], 'link': ['links']}"
+614,very interesting course,{'cours': ['course']}
+615,Super good start for people without any javascript experience. But you will need more in real life ,"{'super start': ['Super start'], 'peopl': ['people'], 'javascript experi': ['javascript experience'], 'life': ['life']}"
+616,The teacher is amazing,{'teacher': ['teacher']}
+617,Nice Course ,{'cours': ['Course']}
+618,"I loved this coursed, it allowed me to get more opportunities in my work field, I highly recommend it.","{'opportun': ['opportunities'], 'work field': ['work field']}"
+619, This course is the best part of the Full Stack series. I would like to see a more advance course just on Angular.,"{'cours': ['course'], 'part': ['part'], 'stack seri': ['Stack series']}"
+620,"it is good , but some items needs to be illustrated in more details , a great thing of this course is that it gives a lot of practice exercises ","{'item': ['items'], 'detail': ['details'], 'thing': ['thing'], 'cours': ['course'], 'lot': ['lot'], 'practic exercis': ['practice exercises']}"
+621,Great introduction to angular.js,"{'introduct': ['introduction'], 'angular.j': ['angular.js']}"
+622,Very nice explanations!,{'explan': ['explanations']}
+623,"A nice overview on Angular JS, just enough to get you started!","{'overview': ['overview'], 'js': ['JS']}"
+624,There are steps that are missing at times which require you to scour for help. There are also quirks that aren't mentioned that other students have to point out. Unaddressed questions in the discussion board required escalation. Feels rushed and it's hard to learn for a beginner. Feels like you're just going through the motions and copy and pasting code.,"{'step': ['steps'], 'time': ['times'], 'help': ['help'], 'student': ['students'], 'question': ['questions'], 'discuss board': ['discussion board'], 'escal': ['escalation'], 'beginn': ['beginner'], 'motion': ['motions'], 'past': ['pasting'], 'copi code': ['copy code']}"
+625,I am a bit disappointed by this course. I was expecting a more fast paced course with more information regarding Angular. Unfortunately in the videos there is a lot of time spent on unnecessary details and reading out loud the source code. The exercises are quite basic and they did not pose real challenges - except for errors coming from mismatched packages or mistakes in configuration files. Also I think that the level of support provided by the mentors of this course is lacking. Mentors are quite absent and very late in providing any help in the forums so the students have to kind of counsel one another - that is sometimes good but a proper class also requires a good level of supervision.All in all I think this is an OK course that is mostly geared to the uninitiated. It needs some serious work to make it a great course.,"{'bit': ['bit'], 'cours': ['course'], 'inform': ['information'], 'video': ['videos'], 'lot': ['lot'], 'time': ['time'], 'detail': ['details'], 'sourc code': ['source code'], 'exercis': ['exercises'], 'challeng': ['challenges'], 'error': ['errors'], 'packag': ['packages'], 'mistak': ['mistakes'], 'configur file': ['configuration files'], 'level': ['level'], 'support': ['support'], 'mentor': ['Mentors', 'mentors'], 'help': ['help'], 'forum': ['forums'], 'student': ['students'], 'kind': ['kind'], 'counsel': ['counsel'], 'class': ['class'], 'supervision.al': ['supervision.All'], 'work': ['work']}"
+626,Amazing course!,{'cours': ['course']}
+627,a great course and good instructor.,"{'cours': ['course'], 'instructor': ['instructor']}"
+628,"Great Course for angular 1.x for angular newbies.It includes almost all the angular basic concept,including module,controller,service,filter,directive,view,data model,expressions,two way binding,dependency injection.And also this course provides a good full example illustrating how to use angular CRUD app.However,finishing this course is far from being proficient in angular developing,you should keep practicing more and find more resources from angular official websites.","{'cours': ['course', 'Course'], '1.x': ['1.x'], 'newbies.it': ['newbies.It'], 'concept': ['concept'], 'modul': ['module'], 'control': ['controller'], 'servic': ['service'], 'filter': ['filter'], 'direct': ['directive'], 'exampl': ['example'], 'crud app.howev': ['CRUD app.However'], 'resourc': ['resources'], 'websit': ['websites']}"
+629,"very informative and challenging course, i enjoyed finishing it.",{'cours': ['course']}
+630,Teacher is really bad. Terrible.,{'teacher': ['Teacher']}
+631,I definitely enjoyed doing this course. The exercises really helped me understand it and it makes you more involved. ,"{'cours': ['course'], 'exercis': ['exercises']}"
+632,very useful course,{'cours': ['course']}
+633,Everything is clearly explained! Practice was great!,"{'everyth': ['Everything'], 'practic': ['Practice']}"
+634,Superb Course!!!!,{'superb cours': ['Superb Course']}
+635,A wonderful course! Good theory with coll practices!,"{'cours': ['course'], 'theori': ['theory'], 'coll practic': ['coll practices']}"
+636,nice course and sequenced well.,{'cours': ['course']}
+637,Good.,{}
+638,Quite helpful,{}
+639,Great course!,{'cours': ['course']}
+640,"Best full stack courses, even after this single course you can separately make a powerful front end","{'stack cours': ['stack courses'], 'cours': ['course'], 'front end': ['front end']}"
+641,La verdad este curso es de lo mejor te da las herramientas para que puedas desarrollar con angular recomendado,{'desarrollar con recomendado': ['desarrollar con recomendado']}
+642,Good Course,{'cours': ['Course']}
+643,Best course ever!,{'cours': ['course']}
+644,Good.,{}
+645,excellent,{}
+646,Fantastic. Very glad to have taken this course.,{'cours': ['course']}
+647,excellent course,{'cours': ['course']}
+648,Excellent education!,{'educ': ['education']}
+649,good course,{'cours': ['course']}
+650,"This course is excellent, highly recommended",{'cours': ['course']}
+651,Had good content but description was a like scattered manner. It could have better if explanation should be in fluent manner.,"{'content': ['content'], 'descript': ['description'], 'manner': ['manner'], 'explan': ['explanation']}"
+652,"Very good course, with much to learn. By applying step by step every aspect of the course was for me very helpful. I hope more and more courses to follow this example.","{'cours': ['course', 'courses'], 'step': ['step'], 'aspect': ['aspect'], 'exampl': ['example']}"
+653,"Fantastic course, fantastic teacher.","{'cours': ['course'], 'teacher': ['teacher']}"
+654,"A massive amount of content to cover, some of it quite advanced. The exercises become fraught if your code is out of sync with the tutor's code. Things won't work, you won't know why, and there's no real recovery from that. ","{'amount': ['amount'], 'content': ['content'], 'exercis': ['exercises'], 'code': ['code'], 'tutor': ['tutor'], 'thing': ['Things'], 'recoveri': ['recovery']}"
+655,great course,{'cours': ['course']}
+656,Enjoyed the course. It really increased my skills,"{'cours': ['course'], 'skill': ['skills']}"
+657,"Very nice course, but it would be even better if it was about Angular 2, since it is to become the standard AngularJS is was.","{'cours': ['course'], 'angularj': ['AngularJS']}"
+658,Good course,{'cours': ['course']}
+659,very good course,{'cours': ['course']}
+660,"Very Nice Course. Takes us through everything and enables us with basic promised objective. Good Luck to Course creators, keep adding more to it.","{'cours': ['Course'], 'everyth': ['everything'], 'object': ['objective'], 'luck': ['Luck'], 'cours creator': ['Course creators']}"
+661,I would recommend the full specialization for anyone interested in web field ,"{'special': ['specialization'], 'anyon': ['anyone'], 'web field': ['web field']}"
+662,great hands on course materialgreat delivery by prof. Muppala,"{'hand': ['hands'], 'cours': ['course'], 'deliveri': ['delivery'], 'prof. muppala': ['prof. Muppala']}"
+663,Excellent! Especially after taking previous course on Bootstrap and JQuery and realize how same website can be converted to AngularJS easily and why this is better.,"{'cours': ['course'], 'bootstrap': ['Bootstrap'], 'jqueri': ['JQuery'], 'websit': ['website'], 'angularj': ['AngularJS']}"
+664, The teacher is very good! He explains very well and the material is very carefully prepared. Great Course! ,"{'teacher': ['teacher'], 'materi': ['material'], 'cours': ['Course']}"
+665,Awesome course! Expecting Angular2 or React taught by this amazing teacher,"{'cours': ['course'], 'teacher': ['teacher']}"
+666,"A good introduction to AngularJS, but falls short on connecting the dots in places.","{'introduct': ['introduction'], 'angularj': ['AngularJS']}"
+667,It was really a extremely good course.,{'cours': ['course']}
+668,"Angular 1 not Angular 2 which is disappointing but worse still, it teaches use of scope which is no longer recommended by the angular team themselves.Could be vastly improved by using modern angular best practice such as Controller As syntax and teaching you to write code that is more compatible with Angular 2","{'use': ['use'], 'scope': ['scope'], 'team themselves.could': ['team themselves.Could'], 'practic': ['practice'], 'control': ['Controller'], 'syntax': ['syntax'], 'teach': ['teaching'], 'code': ['code']}"
+669,"Pros a lot of good content, worth 8 weeks of study, so good bang for the buck. Takes modular approach, where things are gradually taken apart and shown how to improve using another Angular module or approach. Cons can be a little academical, very time-intensive.I have a much better understanding now of MVC concept using JS framework. ","{'lot': ['lot'], 'content': ['content'], 'week': ['weeks'], 'studi': ['study'], 'bang': ['bang'], 'buck': ['buck'], 'approach': ['approach'], 'thing': ['things'], 'modul': ['module'], 'con': ['Cons'], 'academ': ['academical']}"
+670,"Excellent course, thank you very much teacher for its depth on the issues and passion for what he does !!","{'cours': ['course'], 'teacher': ['teacher'], 'depth': ['depth'], 'issu': ['issues'], 'passion': ['passion']}"
+671,Excellent course,{'cours': ['course']}
+672,good course,{'cours': ['course']}
+673,Very good course. Absolutely recommendable.,{'cours': ['course']}
+674,Great course!,{'cours': ['course']}
+675,very practical,{}
+676, Great ,{}
+677,Very good. Thank you,{}
+678,"Not a bad course, but videos must be shorter. Divide 30-40 min videos into small ones","{'cours': ['course'], 'video': ['videos'], 'min video': ['min videos'], 'one': ['ones']}"
+679,"Amazing, nothing less ",{'noth': ['nothing']}
+680,Amazing course. Helped learn a new framework very quickly D,"{'cours': ['course'], 'framework': ['framework'], 'd': ['D']}"
+681,"excellent course, assignments and marvelous teacher. Though an example of writing personal directive would be a nice addition.","{'cours': ['course'], 'assign': ['assignments'], 'teacher': ['teacher'], 'exampl': ['example'], 'direct': ['directive'], 'addit': ['addition']}"
+682,What better way to understand angular JS than doing hands on project. The transformation of entering into learning angular JS with bootstrap is something I loved about this course. Thank you Professor Jogesh Muppala. It is a great learning experience.,"{'way': ['way'], 'js': ['JS'], 'hand': ['hands'], 'project': ['project'], 'bootstrap': ['bootstrap'], 'someth': ['something'], 'cours': ['course'], 'professor jogesh muppala': ['Professor Jogesh Muppala'], 'learn experi': ['learning experience']}"
+683,Very interesting course,{'cours': ['course']}
+684,Great course. A lot of information in lectures and detailed tasks for assignments. The course gives the review and the basis of Angular and helps to create your own Angular application. Thanks,"{'cours': ['course'], 'lot': ['lot'], 'inform': ['information'], 'task': ['tasks'], 'assign': ['assignments'], 'review': ['review'], 'basi': ['basis'], 'applic': ['application'], 'thank': ['Thanks']}"
+685,Top,{}
+686,"Takes a bit of time to get adjusted to the workflow. It's a bit trial and error, especially if your using Windows. Best bet is to use a unix-terminal so if you have windows use a terminal like Git Bash. Overall it's a very good course and gets you into the meat and bones of Web Development. Just remember to come with patience and do things on time ","{'bit': ['bit'], 'time': ['time'], 'workflow': ['workflow'], 'bit trial': ['bit trial'], 'error': ['error'], 'window': ['windows', 'Windows'], 'bet': ['bet'], 'git bash': ['Git Bash'], 'cours': ['course'], 'web develop': ['Web Development'], 'patienc': ['patience'], 'thing': ['things']}"
+687,Nice course for beginners,"{'cours': ['course'], 'beginn': ['beginners']}"
+688,Very helpful course ,{'cours': ['course']}
+689,Best Angular and task runners course!,"{'task': ['task'], 'runner cours': ['runners course']}"
+690,"Well Organized, and very informative and practical course. Touches as well on the important concepts like dependency injection design pattern and its use in Angular JS.","{'organ': ['Organized'], 'cours': ['course'], 'concept': ['concepts'], 'inject design pattern': ['injection design pattern'], 'use': ['use'], 'js': ['JS']}"
+691,I really enjoyed this course; it has given me a really good platform of AngularJS to build upon.,"{'cours': ['course'], 'platform': ['platform'], 'angularj': ['AngularJS']}"
+692,This instructor is awesome.,{'instructor': ['instructor']}
+693,Pity that people had to spend more time on making the plugins work than actually doing the exercises assignments but good content nonetheless.,"{'piti': ['Pity'], 'peopl': ['people'], 'time': ['time'], 'plugin': ['plugins'], 'exercis assign': ['exercises assignments'], 'content': ['content']}"
+694,Very good course overall. It could dig into a little more detail but given the duration and workload it's still pretty good. I think it's targeted towards people who are either working or studying full-time and taking this on the side.,"{'cours': ['course'], 'detail': ['detail'], 'peopl': ['people'], 'side': ['side']}"
+695,"Thank you for this great course. Great teacher, really useful assignment which push my skills to understand more of angular's way. Very recommended","{'cours': ['course'], 'teacher': ['teacher'], 'assign': ['assignment'], 'skill': ['skills'], 'way': ['way']}"
+696,Great class. Very in depth. ,"{'class': ['class'], 'depth': ['depth']}"
+697,"Great combination of theory and practical, gives good understanding of angular and framework.","{'combin': ['combination'], 'theori': ['theory'], 'understand': ['understanding'], 'framework': ['framework']}"
+698,"Professor's lecture is pretty good, and assignment is well designed.","{'professor': ['Professor'], 'lectur': ['lecture'], 'assign': ['assignment']}"
+699,"Hard work, I had to watch most of the videos at least twice so took much more time than I anticipated. I'm glad I stuck with it because it made the start of the next course much easier. Very satisfying to have completed it. ","{'work': ['work'], 'video': ['videos'], 'time': ['time'], 'start': ['start'], 'cours': ['course']}"
+700,"The perfect course to start learning about Angular, the professor is incredible, full recommended this course, It help me a lot.","{'cours': ['course'], 'professor': ['professor'], 'lot': ['lot']}"
+701,Great course. Jogesh has done wonderful job in designing the hands on exercises.,"{'cours': ['course'], 'jogesh': ['Jogesh'], 'job': ['job'], 'hand': ['hands'], 'exercis': ['exercises']}"
+702,Very good lesson! With good material and good explanation of everything! ,"{'lesson': ['lesson'], 'materi': ['material'], 'explan': ['explanation'], 'everyth': ['everything']}"
+703,Thanks for this introduction to AngularJS.Unfortunately we have to pay in order to obtain a certificate of accomplishment.,"{'thank': ['Thanks'], 'introduct': ['introduction'], 'certif': ['certificate'], 'accomplish': ['accomplishment']}"
+704,"Great course, didactial and very well explained",{'cours': ['course']}
+705,great teacher with an solid approach the course is full of exercises and built in a way to increment as bigger project Excellent !!!,"{'teacher': ['teacher'], 'approach': ['approach'], 'cours': ['course'], 'exercis': ['exercises'], 'way': ['way'], 'increment': ['increment'], 'project !!': ['project !!']}"
+706,Good course for the introduction to Angular JS,"{'cours': ['course'], 'introduct': ['introduction'], 'js': ['JS']}"
+707,well done,{}
+708,The course is amazing! The only thing I'd like to be corrected is the subtitles. There are lots of mistakes that disturb our learning.,"{'cours': ['course'], 'thing': ['thing'], 'subtitl': ['subtitles'], 'lot': ['lots'], 'mistak': ['mistakes'], 'learn': ['learning']}"
+709,Good and useful course! Try it!,{'cours': ['course']}
+710,The most relevant course I have done in Coursera,"{'cours': ['course'], 'coursera': ['Coursera']}"
+711,Great course. Very methodical and a great example of incremental learning. Every assignment built on the previous assignment and I always felt I was being very well guided through my first learning experience with Angularjs. ,"{'cours': ['course'], 'exampl': ['example'], 'learn': ['learning'], 'assign': ['assignment'], 'learn experi': ['learning experience'], 'angularj': ['Angularjs']}"
+712,"Awesome course content, nice explanation by the tutor. Must for beginners who want to have a start with AngularJS, grunt, gulp and other tools.","{'cours content': ['course content'], 'explan': ['explanation'], 'tutor': ['tutor'], 'beginn': ['beginners'], 'start': ['start'], 'angularj': ['AngularJS'], 'grunt': ['grunt'], 'gulp': ['gulp'], 'tool': ['tools']}"
+713,Not bad!,{}
+714,A very well explained course,{'cours': ['course']}
+715,"Good course, especially good is coverent grunt and gulp which is very useful, also angular is covered very well for start. I learned a lot, even if i have some of angular knowledge.","{'cours': ['course'], 'grunt': ['grunt'], 'gulp': ['gulp'], 'start': ['start'], 'lot': ['lot'], 'knowledg': ['knowledge']}"
+716,Great course. Lots of hands on tasks,"{'cours': ['course'], 'lot': ['Lots'], 'hand': ['hands'], 'task': ['tasks']}"
+717,Great course and very good explanations of the concepts.,"{'cours': ['course'], 'explan': ['explanations'], 'concept': ['concepts']}"
+718,very good teacher and good hard working course,"{'teacher': ['teacher'], 'cours': ['course']}"
+719,This course is very well done and gives a very good understanding of angular framework.,"{'cours': ['course'], 'understand': ['understanding'], 'framework': ['framework']}"
+720,"great course!week 4 a little bit overloaded of topics, but still great","{'bit': ['bit'], 'topic': ['topics']}"
+721,Jogesh Muppala did a great job in this course!Angular simple and direct,"{'muppala': ['Muppala'], 'job': ['job']}"
+722,"I think it's a very good introduction to AngularJS. You learn and understand what you're doing in almost lessons. I'd hardly recommend it to any beginner !!!I found that the 4rth week was very very compressed. You could spend 1 more week explaining all the Front-End tools such as Gulp, Grunt, Yo Yeoman etc. And go deeper with the AngularJS as well. In some points I felt myself alone with no teacher support regardless there's a students forum. I'd improve the transparency and the communication teacher-student. Anyway I very happy to spent that time on this course he explains really paciently D","{'introduct': ['introduction'], 'angularj': ['AngularJS'], 'lesson': ['lessons'], 'beginn': ['beginner'], 'week': ['week'], 'front-end tool': ['Front-End tools'], 'gulp': ['Gulp'], 'grunt': ['Grunt'], 'point': ['points'], 'teacher support': ['teacher support'], 'student forum': ['students forum'], 'transpar': ['transparency'], 'communic teacher-stud': ['communication teacher-student'], 'time': ['time'], 'cours': ['course'], 'd': ['D']}"
+723,Very good course as for me!,{'cours': ['course']}
+724,"Very good course, just a few notes short of excelence.","{'cours': ['course'], 'note': ['notes'], 'excel': ['excelence']}"
+725,"I liked this course, especially in the way is built. The subject was not so easy but anyway, thanks to the organization of lectures and exercises, i was able to achieve the target.The teacher is good and clear in the explanation.","{'cours': ['course'], 'way': ['way'], 'subject': ['subject'], 'thank': ['thanks'], 'organ': ['organization'], 'target.th teacher': ['target.The teacher'], 'explan': ['explanation']}"
+726,"Although a good introduction course, sometime is focus on javascript tools rather than on AngularJS itself which, in hand, looses time and doesn't explain give examples on how to create directives and filters, which are two core functionalities of this framework.","{'introduct cours': ['introduction course'], 'javascript tool': ['javascript tools'], 'angularj': ['AngularJS'], 'hand': ['hand'], 'time': ['time'], 'exampl': ['examples'], 'direct': ['directives'], 'filter': ['filters'], 'function': ['functionalities'], 'framework': ['framework']}"
+727,Very useful course.,{'cours': ['course']}
+728,Great course! Excellent teacher!,"{'cours': ['course'], 'teacher': ['teacher']}"
+729,Great course! ,{'cours': ['course']}

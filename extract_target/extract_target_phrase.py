@@ -65,7 +65,7 @@ def extract_target_phase(target_dict, s):
             if w in target_list and node['tag'][:2] == 'NN' and 'compound' in dep_dict.keys():
                 new_w = ''
                 word = ''
-                for index in dep_dict['compound']:
+                for index in dep_dict['compound'][-2:]:
                     if new_w =='':
                         comp_word = dep_list[index]['word']
                         comp_w = stem(comp_word)
@@ -93,18 +93,23 @@ def update_target(sents):
     return target_d
 
 
-f1 = open('opinion_list_1.txt','r')
-lines = f1.readlines()
-opinion_list =[line.split("\n")[0] for line in lines]
+#f1 = open('opinion_list_1.txt','r')
+#lines = f1.readlines()
+#opinion_list =[line.split("\n")[0] for line in lines]
 
-f2 = open('target_list_1.txt','r')
+data_file = "course_dPkbnh6zEeWP0w4yK2369w"
+target_file = "../result/{}_target_list.txt".format(data_file)
+target_summary = "../result/{}_transaction.csv".format(data_file)
+data_file = "../data/course/" + data_file + ".csv"
+
+f2 = open(target_file,'r')
 lines = f2.readlines()
 target_list = [line.split("\n")[0] for line in lines]
 
-print(opinion_list)
-print(target_list)
+#print(opinion_list)
+#print(target_list)
 
-df = pd.read_csv('data.csv',index_col = 0)
+df = pd.read_csv(data_file,index_col = 0)
 df['comment'] = df['comment'].apply(process_sentence)
 sents = df['comment'].values
 
@@ -114,13 +119,16 @@ size = len(df)
 target_dict = []
 for i in range(size):
     #print(i)
+    if (i+1) % 400 == 0:
+        server.stop()
+        server.start()
     dic = update_target(sents[i])
     target_dict.append(dic)
 
 dict_df = {'comment':list(df['comment']), 'target':target_dict}
 new_df = pd.DataFrame(data = dict_df)
 new_df.head()
-new_df.to_csv('transaction_v3.csv')
+new_df.to_csv(target_summary)
 
 server.stop()
 print("finish..")

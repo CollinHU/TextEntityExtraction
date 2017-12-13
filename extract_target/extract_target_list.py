@@ -34,9 +34,19 @@ DR_two = ['amod']
 DR_three = ['conj']
 DR = DR_one + DR_three
 
-opinion_list = ['helpful','practical','sophisticated','good','bad','busy','fine','fast','quick','slow','easy']
-opinion_list = [stem(item) for item in opinion_list]
-print(opinion_list)
+#opinion_list = ['helpful','practical','sophisticated','good','bad','busy','fine','fast','quick','slow','easy']
+#opinion_list = [stem(item) for item in opinion_list]
+
+data_file = "course_dPkbnh6zEeWP0w4yK2369w"
+opinion_file = "opinion_list.txt"
+target_file = "../result/{}_target_list.txt".format(data_file)
+data_file = "../data/course/" + data_file + ".csv"
+
+f1 = open(opinion_file,'r')
+lines = f1.readlines()
+opinion_list =[line.split("\n")[0] for line in lines]
+
+#print(opinion_list)
 target_list = []
 def extract_rule(dep_dic):
     value_list = []
@@ -177,34 +187,47 @@ def parse_comment(sents):
     for sent in sent_list:
         extract_target_opinion(sent)
 
-sents = pd.read_csv('data.csv', index_col = 0)
+sents = pd.read_csv(data_file, index_col = 0)
 sents['comment'] = sents['comment'].apply(process_sentence)
-sents = sents['comment']#.iloc[:2]
-#print(sents.head())
-print(len(sents.index.values))
+sents = sents['comment'].values
+#print(sents[0])
+size = len(sents)
+print(size)
 
 opinion_size = len(opinion_list)
 target_size = len(target_list)
 
-sents.apply(parse_comment)
+#sents.apply(parse_comment)
 count = 1
 print(count)
+for i in range(size):
+	if (i + 1) % 400 == 0:
+		server.stop()
+		server.start()
+	parse_comment(sents[i])
+print("finish iteration ", count)
+
 server.stop()
 while(opinion_size != len(opinion_list) or target_size != len(target_list)):
     try:
         server.start()
+        count += 1
+        print(count)
         dependency_parser = CoreNLPDependencyParser()
         opinion_size = len(opinion_list)
         target_size = len(target_list)
-        sents.apply(parse_comment)
-        count += 1
-        print(count)
+        for i in range(size):
+        	if (i + 1) % 400 == 0:
+        		server.stop()
+        		server.start()
+        	parse_comment(sents[i])
+        print("finish iteration ", count)
         server.stop()
     except:
         print('something wrong')
 
-f1 = open('opinion_list_1.txt','w')
-f2 = open('target_list_1.txt','w')
+f1 = open(opinion_file,'w')
+f2 = open(target_file,'w')
 for opinion in opinion_list:
     f1.write(opinion+'\n')
 f1.close()
